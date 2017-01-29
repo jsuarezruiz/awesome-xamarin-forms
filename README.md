@@ -10,7 +10,16 @@ Work in progress. Contributions are always welcome!
 
 
 ## Cloud
+
+- [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
+
+
 ## Database
+
+- [Akavache](https://github.com/akavache/Akavache): Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+- [Realm](https://realm.io/docs/xamarin/latest/): Alternative to SQLite, simple and fast.
+- [SQLite-net](https://github.com/praeclarum/sqlite-net): It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
+
 ## General
 ## IOC/DI
 ## MVVM
@@ -56,6 +65,9 @@ Work in progress. Contributions are always welcome!
 ## UI
 
 - [ACR User Dialogs](https://github.com/aritchie/userdialogs): A cross platform library that allows you to call for standard user dialogs from a shared/portable library.
+- [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
+- [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
+- [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
