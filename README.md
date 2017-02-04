@@ -6,6 +6,7 @@ Work in progress. Contributions are always welcome!
 
 ## Animations
 
+- [LottieXamarin](https://github.com/matthewrdev/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 
 
@@ -60,6 +61,7 @@ Work in progress. Contributions are always welcome!
 ## Tools
 
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
+- [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 
 
 ## UI
@@ -71,6 +73,9 @@ Work in progress. Contributions are always welcome!
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
+- [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SlideOverKit](https://github.com/XAM-Consulting/SlideOverKit): SlideOverKit is a premium component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms. 
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
+- [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
+- [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
