@@ -62,6 +62,7 @@ Work in progress. Contributions are always welcome!
 
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
+- [UI Sleuth](https://www.uisleuth.com/): Xamarin.Forms debugging tool.
 
 
 ## UI
@@ -70,6 +71,7 @@ Work in progress. Contributions are always welcome!
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
+- [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
@@ -79,3 +81,4 @@ Work in progress. Contributions are always welcome!
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
+- [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
