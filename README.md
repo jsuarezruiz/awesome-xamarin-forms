@@ -62,7 +62,9 @@ Work in progress. Contributions are always welcome!
 
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
+- [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017): An extension bundle installer that will install each of the individual components of Productivity Power Tools (copy has HTML, fix tabs, etc.).
 - [UI Sleuth](https://www.uisleuth.com/): Xamarin.Forms debugging tool.
+- [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): A visual studio extension, which formats XAML source code by sorting the attributes based on their importance. 
 
 
 ## UI
