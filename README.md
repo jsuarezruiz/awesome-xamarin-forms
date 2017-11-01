@@ -14,6 +14,10 @@ Work in progress. Contributions are always welcome!
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
 
+## Data
+
+- [Postman](https://www.getpostman.com): Tool for test web services requests and responses.
+- [Polly](http://www.thepollyproject.org): Automatic retry policies.
 
 ## Database
 
@@ -21,14 +25,30 @@ Work in progress. Contributions are always welcome!
 - [Realm](https://realm.io/docs/xamarin/latest/): Alternative to SQLite, simple and fast.
 - [SQLite-net](https://github.com/praeclarum/sqlite-net): It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 
-## General
-## IOC/DI
+## Design
+
+- [Snppts](https://snppts.io): Xamarin Forms UI Snippets.
+
+## Images and Icons
+
+- [Icons8](https://icons8.com): Thousands of free icons in different styles and sizes.
+- [MetroStudio](https://www.syncfusion.com/downloads/metrostudio): Free Windows app that has thousands of icons
+
+## Mirroring Devices
+
+- [Vysor](http://vysor.io/): Utility for mirroring your Android physical device to your screen. 
+- [QuickTime Player](https://medium.com/@patrickswong/how-to-mirror-your-iphone-with-a-lightning-cable-using-quicktime-in-os-x-yosemite-ace3f40ef483): For mirroring iOS devices.
+
+
 ## MVVM
 
+- [ExRin](https://exrin.net): A framework for enterprise scale apps.
 - [FreshMvvm](https://github.com/rid00z/FreshMvvm): It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 - [MVVMCross](https://github.com/MvvmCross/MvvmCross): Cross-platform mvvm mobile development framework.
 - [MVVMLight](http://www.mvvmlight.net): Cross-platform MVVM development framework.
 - [MvvmNano](https://github.com/aspnetde/MvvmNano): Small and smart MVVM framework made with ❤ for Xamarin.Forms.
+- [Prism](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
+- [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
 
 ## Plugins
 
@@ -96,3 +116,8 @@ Work in progress. Contributions are always welcome!
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
+
+## UI Testing
+
+- [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/intro-to-uitest/): An Automated UI Acceptance Testing framework that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps.
+- [Xamarin Test Recorder](https://www.xamarin.com/test-cloud/recorder): This tool makes it easy to record automated tests for your app.
