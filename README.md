@@ -22,6 +22,7 @@ Work in progress. Contributions are always welcome!
 ## Database
 
 - [Akavache](https://github.com/akavache/Akavache): Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+- [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore): Is a lightweight and extensible version of the popular Entity Framework data access technology 
 - [Realm](https://realm.io/docs/xamarin/latest/): Alternative to SQLite, simple and fast.
 - [SQLite-net](https://github.com/praeclarum/sqlite-net): It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 
@@ -60,6 +61,7 @@ Work in progress. Contributions are always welcome!
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
+- [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
@@ -71,7 +73,7 @@ Work in progress. Contributions are always welcome!
 ## Serialization
 
 - [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json): Is a popular high-performance JSON framework for .NET
-- [Utf8Json](https://github.com/neuecc/Utf8Json):Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
+- [Utf8Json](https://github.com/neuecc/Utf8Json): Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 
 ## Testing
