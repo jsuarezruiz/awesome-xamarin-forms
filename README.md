@@ -61,13 +61,15 @@ Work in progress. Contributions are always welcome!
 - [Extended Maps](https://github.com/jamesmontemagno/LaunchMapsPlugin): Launch navigation directions in default map app on each OS.
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
+- [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
-- [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser
+- [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
+- [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
 - [Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin): Turn your text into a vocal symphony on mobile devices.
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
@@ -124,6 +126,7 @@ Work in progress. Contributions are always welcome!
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
+- [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 
 ## UI Testing
 
