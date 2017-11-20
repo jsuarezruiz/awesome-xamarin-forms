@@ -58,6 +58,7 @@ Work in progress. Contributions are always welcome!
 - [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin): See if device is connected to the internet and through what connection type.
 - [Contacts](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
+- [EntryCustomReturnPlugin](https://github.com/brminnick/EntryCustomReturnPlugin): Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button.
 - [Extended Maps](https://github.com/jamesmontemagno/LaunchMapsPlugin): Launch navigation directions in default map app on each OS.
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
@@ -119,11 +120,13 @@ Work in progress. Contributions are always welcome!
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SlideOverKit](https://github.com/XAM-Consulting/SlideOverKit): SlideOverKit is a premium component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms. 
+- [StatesButton](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
+- [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
