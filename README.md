@@ -110,6 +110,7 @@ Work in progress. Contributions are always welcome!
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
+- [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
