@@ -130,6 +130,7 @@ Work in progress. Contributions are always welcome!
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
+- [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
