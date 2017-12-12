@@ -64,6 +64,7 @@ Work in progress. Contributions are always welcome!
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
 - [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
+- [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
@@ -134,6 +135,7 @@ Work in progress. Contributions are always welcome!
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
+- [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 
