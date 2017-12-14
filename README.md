@@ -65,6 +65,7 @@ Work in progress. Contributions are always welcome!
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
 - [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
+- [InAppBillingPlugin](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
@@ -78,6 +79,7 @@ Work in progress. Contributions are always welcome!
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [Xam.Plugin.Webview](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
+- [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 
 ## Serialization
 
@@ -125,6 +127,8 @@ Work in progress. Contributions are always welcome!
 - [PinView](https://github.com/lassana/XamarinFormsPinView): PIN keyboard for Xamarin.Forms.
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
+- [Signature Pad](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
+- [SkiaRate](https://github.com/clovisnicolas/SkiaRate): This library is using SkiaSharp to display a customisable RatingView.
 - [SlideOverKit](https://github.com/XAM-Consulting/SlideOverKit): SlideOverKit is a premium component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms. 
 - [StatesButton](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
