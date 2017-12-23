@@ -99,6 +99,7 @@ Work in progress. Contributions are always welcome!
 ## Tools
 
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically. 
+- [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
