@@ -75,6 +75,7 @@ Work in progress. Contributions are always welcome!
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
+- [Screenshot](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshot in yours apps for Xamarin and Windows.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
 - [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
@@ -115,6 +116,7 @@ Work in progress. Contributions are always welcome!
 - [BottomTabbedPage](https://github.com/NAXAM/bottomtabbedpage-xamarin-forms): A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android.
 - [BadgeView](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
 - [BuildIt](https://github.com/builttoroam/BuildIt): Build It is the set of libraries that makes it easier and quicker to build applications.
+- [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icon for your Xamarin.Forms applications.
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
