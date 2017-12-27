@@ -80,6 +80,7 @@ Work in progress. Contributions are always welcome!
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
 - [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
 - [Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin): Turn your text into a vocal symphony on mobile devices.
+- [TinyPubSub](https://github.com/johankson/TinyPubSub): Worlds smallest pub/sub thingy created mostly for Xamarin Forms.
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [Xam.Plugin.Webview](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
