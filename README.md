@@ -87,6 +87,10 @@ Work in progress. Contributions are always welcome!
 - [Xam.Reactive.Location](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
 - [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 
+## Project Templates
+
+- [Prism Template Pack](https://marketplace.visualstudio.com/items?itemName=BrianLagunas.PrismTemplatePack): Contains a collection of snippets, item templates, and project templates for use with building Xamarin.Forms applications using Prism.
+
 ## Serialization
 
 - [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json): Is a popular high-performance JSON framework for .NET
@@ -103,6 +107,7 @@ Work in progress. Contributions are always welcome!
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically. 
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
+- [Infragistics AppMap](https://marketplace.visualstudio.com/items?itemName=Infragistics.InfragisticsAppMap): Visually map out and generate your Xamarin.Forms application. Code generation includes Pages (Views), ViewModels, and navigation code that follows best-practice Prism MVVM architecture.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017): An extension bundle installer that will install each of the individual components of Productivity Power Tools (copy has HTML, fix tabs, etc.).
