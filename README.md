@@ -126,6 +126,7 @@ Work in progress. Contributions are always welcome!
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
+- [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
