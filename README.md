@@ -154,6 +154,7 @@ Work in progress. Contributions are always welcome!
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
+- [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
