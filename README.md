@@ -150,6 +150,7 @@ Work in progress. Contributions are always welcome!
 - [StatesButton](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
+- [TabStrip](https://github.com/ahoefling/TabStrip): Tab Strip control for Xamarin.Forms.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
