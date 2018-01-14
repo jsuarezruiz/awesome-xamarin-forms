@@ -81,6 +81,7 @@ Work in progress. Contributions are always welcome!
 - [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
 - [Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin): Turn your text into a vocal symphony on mobile devices.
 - [TinyPubSub](https://github.com/johankson/TinyPubSub): Worlds smallest pub/sub thingy created mostly for Xamarin Forms.
+- [Toasts.Forms.Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin): A simple way of showing notifications inside your Xamarin or Windows application.
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
@@ -117,7 +118,6 @@ Work in progress. Contributions are always welcome!
 - [VSTouchbarTools](https://github.com/rubit0/vstouchbartools): A simple extension that installs a XML definition for Parallels v13 to offer basic Touchbar support.
 - [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): A visual studio extension, which formats XAML source code by sorting the attributes based on their importance. 
 - [NSwag](https://github.com/RSuter/NSwag): Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
-
 
 ## UI
 
