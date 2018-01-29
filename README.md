@@ -67,6 +67,7 @@ Work in progress. Contributions are always welcome!
 - [Extended Maps](https://github.com/jamesmontemagno/LaunchMapsPlugin): Launch navigation directions in default map app on each OS.
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
 - [Geolocator](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
+- [GoogleAnalyticsForXamarinForms](https://github.com/KSemenenko/GoogleAnalyticsForXamarinForms): This project is a cross platform library for Xamarin Forms, which enables a handy use of Google Analytics in your applications.
 - [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
 - [InAppBillingPlugin](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
