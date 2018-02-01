@@ -109,6 +109,7 @@ Work in progress. Contributions are always welcome!
 
 ## Tools
 
+- [Android File Transfer](https://www.android.com/filetransfer/): Browse and transfer files between your Mac computer and your Android device.
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically. 
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
