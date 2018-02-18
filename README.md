@@ -160,6 +160,7 @@ Work in progress. Contributions are always welcome!
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
 - [TabStrip](https://github.com/ahoefling/TabStrip): Tab Strip control for Xamarin.Forms.
 - [TabView](https://github.com/chaosifier/TabView): TabView control for Xamarin.Forms.
+- [TimberLabel](https://github.com/chowarth/TimberControls.TimberLabel): A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
