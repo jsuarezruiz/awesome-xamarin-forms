@@ -148,6 +148,7 @@ Work in progress. Contributions are always welcome!
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [PinView](https://github.com/lassana/XamarinFormsPinView): PIN keyboard for Xamarin.Forms.
+- [PhotoBrowser](https://github.com/stormlion227/PhotoBrowser.Forms): Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures.
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [ShapeControl.Forms](https://github.com/stormlion227/ShapeControl.Forms): Xamarin.Forms Library that allows you to draw shapes such as circle, roundrect, oval and so on.
