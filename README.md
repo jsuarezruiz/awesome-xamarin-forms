@@ -136,6 +136,7 @@ Work in progress. Contributions are always welcome!
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
+- [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
