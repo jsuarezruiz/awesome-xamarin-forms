@@ -171,6 +171,7 @@ Work in progress. Contributions are always welcome!
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
 - [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
+- [Xamarin.Forms.MultiSelectListView](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
