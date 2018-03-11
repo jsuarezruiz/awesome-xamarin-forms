@@ -132,6 +132,7 @@ Work in progress. Contributions are always welcome!
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [CrossPlacePicker](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
+- [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programatically in Xamarin.Forms.
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
