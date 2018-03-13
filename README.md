@@ -145,6 +145,7 @@ Work in progress. Contributions are always welcome!
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [ImageCropView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/ImageCropView): Image cropper for Xamarin.Forms.
 - [MarkdownView](https://github.com/aloisdeniel/MarkdownView): A native Xamarin.Forms Markdown renderer.
+- [MarkdownTextView](https://github.com/SuavePirate/MarkdownTextView): A Xamarin.Forms component to display markdown text in a TextView.
 - [mapbox-xamarin-forms](https://github.com/NAXAM/mapbox-xamarin-forms): This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.
 - [Microcharts](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
