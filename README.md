@@ -91,6 +91,7 @@ Work in progress. Contributions are always welcome!
 - [Xam.Plugin.Webview](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
 - [Xam.Reactive.Location](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
 - [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
+- [Xamarin.Forms.Segues](https://github.com/chkn/Xamarin.Forms.Segues): A library that provides support for segues between Pages.
 
 ## Project Templates
 
