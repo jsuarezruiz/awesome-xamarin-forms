@@ -111,7 +111,8 @@ Work in progress. Contributions are always welcome!
 ## Tools
 
 - [Android File Transfer](https://www.android.com/filetransfer/): Browse and transfer files between your Mac computer and your Android device.
-- [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically. 
+- [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically.
+- [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enable to view all of the HTTP and SSL / HTTPS traffic between the machine and the Internet.
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [Infragistics AppMap](https://marketplace.visualstudio.com/items?itemName=Infragistics.InfragisticsAppMap): Visually map out and generate your Xamarin.Forms application. Code generation includes Pages (Views), ViewModels, and navigation code that follows best-practice Prism MVVM architecture.
