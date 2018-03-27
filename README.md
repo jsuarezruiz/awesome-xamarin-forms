@@ -114,6 +114,7 @@ Work in progress. Contributions are always welcome!
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically.
 - [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enable to view all of the HTTP and SSL / HTTPS traffic between the machine and the Internet.
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
+- [dpilove](http://dpi.lv): Easily find the DPI of any screen.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [Infragistics AppMap](https://marketplace.visualstudio.com/items?itemName=Infragistics.InfragisticsAppMap): Visually map out and generate your Xamarin.Forms application. Code generation includes Pages (Views), ViewModels, and navigation code that follows best-practice Prism MVVM architecture.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
