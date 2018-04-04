@@ -59,6 +59,7 @@ Work in progress. Contributions are always welcome!
 ## Plugins
 
 - [Battery Status](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
+- [Caboodle](https://github.com/xamarin/Caboodle): A kit of essential cross platform APIs for your mobile apps.
 - [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin): See if device is connected to the internet and through what connection type.
 - [Contacts](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
