@@ -188,6 +188,7 @@ Work in progress. Contributions are always welcome!
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
+- [XamarinFormsCustomSlider](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
 - [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 
 ## UI Testing
