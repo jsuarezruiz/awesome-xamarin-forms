@@ -59,7 +59,6 @@ Work in progress. Contributions are always welcome!
 ## Plugins
 
 - [Battery Status](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
-- [Caboodle](https://github.com/xamarin/Caboodle): A kit of essential cross platform APIs for your mobile apps.
 - [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin): See if device is connected to the internet and through what connection type.
 - [Contacts](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
@@ -88,6 +87,7 @@ Work in progress. Contributions are always welcome!
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
+- [Xamarin.Essentials](https://github.com/xamarin/Essentials): (**Official**) Essential cross platform APIs for your mobile apps.
 - [Xam.Plugins.OnDeviceCustomVision](https://github.com/jimbobbennett/Xam.Plugins.OnDeviceCustomVision): Plugin to allow custom vision models to be used from mobile devices.
 - [Xam.Plugin.Webview](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
 - [Xam.Reactive.Location](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
