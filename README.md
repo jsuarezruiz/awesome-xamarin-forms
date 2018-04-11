@@ -9,7 +9,6 @@ Work in progress. Contributions are always welcome!
 - [LottieXamarin](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 
-
 ## Cloud
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
@@ -43,7 +42,6 @@ Work in progress. Contributions are always welcome!
 
 - [Vysor](http://vysor.io/): Utility for mirroring your Android physical device to your screen. 
 - [QuickTime Player](https://medium.com/@patrickswong/how-to-mirror-your-iphone-with-a-lightning-cable-using-quicktime-in-os-x-yosemite-ace3f40ef483): For mirroring iOS devices.
-
 
 ## MVVM
 
@@ -97,6 +95,10 @@ Work in progress. Contributions are always welcome!
 ## Project Templates
 
 - [Prism Template Pack](https://marketplace.visualstudio.com/items?itemName=BrianLagunas.PrismTemplatePack): Contains a collection of snippets, item templates, and project templates for use with building Xamarin.Forms applications using Prism.
+
+## Samples
+
+- [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
 
 ## Serialization
 
