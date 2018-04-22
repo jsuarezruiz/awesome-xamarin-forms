@@ -184,6 +184,7 @@ Work in progress. Contributions are always welcome!
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XamEffects](https://github.com/mrxten/XamEffects): Xamarin.Forms UI effects.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
+- [XMedia](https://github.com/DevsDNA/XMedia): A Xamarin Forms selector multiple images.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
 - [Xamarin.Forms.GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView): GridView for xamarin.Forms with grouping, pull to refresh and selection visual state support.
 - [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
