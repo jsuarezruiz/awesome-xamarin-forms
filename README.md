@@ -32,6 +32,7 @@ Work in progress. Contributions are always welcome!
 
 - [Snppts](https://snppts.io): Xamarin Forms UI Snippets.
 - [Prebuilt Templates](https://www.xamarin.com/prebuilt): Jump-start your next project with a prebuilt app.
+- [Xamarin.Forms Zeplin extension](https://extensions.zeplin.io/5ad311a8d3855e3bedb32f99): Generates XAML for Xamarin.Forms. 
 
 ## Images and Icons
 
