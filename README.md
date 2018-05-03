@@ -195,8 +195,13 @@ Work in progress. Contributions are always welcome!
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
 - [XamarinFormsCustomSlider](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
 - [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
+- [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 
 ## UI Testing
 
 - [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/intro-to-uitest/): An Automated UI Acceptance Testing framework that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps.
 - [Xamarin Test Recorder](https://www.xamarin.com/test-cloud/recorder): This tool makes it easy to record automated tests for your app.
+
+## Wearables
+
+[Tizen.CircularUI](https://github.com/Samsung/Tizen.CircularUI): Tizen Wearable CircularUI project is to develop an open source software motivate software developer to creating Tizen Wearable Xamarin Forms app more easily and efficiently.
