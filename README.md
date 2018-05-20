@@ -9,6 +9,10 @@ Work in progress. Contributions are always welcome!
 - [LottieXamarin](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 
+## Behaviors
+
+- [Behaviors](https://github.com/davidbritch/behaviors): Behaviors for Xamarin.Forms.
+
 ## Cloud
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
@@ -33,6 +37,11 @@ Work in progress. Contributions are always welcome!
 - [Snppts](https://snppts.io): Xamarin Forms UI Snippets.
 - [Prebuilt Templates](https://www.xamarin.com/prebuilt): Jump-start your next project with a prebuilt app.
 - [Xamarin.Forms Zeplin extension](https://extensions.zeplin.io/5ad311a8d3855e3bedb32f99): Generates XAML for Xamarin.Forms. 
+
+## Effects
+
+- [XamEffects](https://github.com/mrxten/XamEffects): Xamarin.Forms UI effects.
+- [AiForms.Effects](https://github.com/muak/AiForms.Effects): Effects library that provides you with more flexible functions than default by targetting only Android and iOS in a Xamarin.Forms project.
 
 ## Images and Icons
 
@@ -189,7 +198,6 @@ Work in progress. Contributions are always welcome!
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
-- [XamEffects](https://github.com/mrxten/XamEffects): Xamarin.Forms UI effects.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [XMedia](https://github.com/DevsDNA/XMedia): A Xamarin Forms selector multiple images.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
