@@ -88,6 +88,7 @@ Work in progress. Contributions are always welcome!
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
+- [Plugin.GuestureLock](https://github.com/devinZhou102/Plugin.GuestureLock): GuestureLock for Xamarin.Forms.
 - [Screenshot](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshot in yours apps for Xamarin and Windows.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
