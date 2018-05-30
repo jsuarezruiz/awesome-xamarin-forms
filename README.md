@@ -222,4 +222,4 @@ Work in progress. Contributions are always welcome!
 
 ## Wearables
 
-[Tizen.CircularUI](https://github.com/Samsung/Tizen.CircularUI): Tizen Wearable CircularUI project is to develop an open source software motivate software developer to creating Tizen Wearable Xamarin Forms app more easily and efficiently.
+- [Tizen.CircularUI](https://github.com/Samsung/Tizen.CircularUI): Tizen Wearable CircularUI project is to develop an open source software motivate software developer to creating Tizen Wearable Xamarin Forms app more easily and efficiently.
