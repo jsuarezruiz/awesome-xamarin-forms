@@ -83,6 +83,7 @@ Work in progress. Contributions are always welcome!
 - [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
 - [InAppBillingPlugin](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
+- [LibVLCSharp](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
