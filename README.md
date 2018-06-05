@@ -63,6 +63,7 @@ Work in progress. Contributions are always welcome!
 - [MvvmNano](https://github.com/aspnetde/MvvmNano): Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
+- [Sextant](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
 
 ## Elmish
 
