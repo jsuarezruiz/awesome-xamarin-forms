@@ -171,6 +171,7 @@ Work in progress. Contributions are always welcome!
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
+- [IconEntry](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
