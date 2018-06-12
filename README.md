@@ -13,6 +13,12 @@ Work in progress. Contributions are always welcome!
 
 - [Behaviors](https://github.com/davidbritch/behaviors): Behaviors for Xamarin.Forms.
 
+## Books
+
+- [Creating Mobile Apps with Xamarin.Forms](https://smile.amazon.com/Creating-Mobile-Xamarin-Forms-Charles-Petzold/dp/1509302980?SubscriptionId=AKIAJ6CS55SIWQKG4UVQ&tag=onlinebooksre-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1509302980)
+- [Mastering Xamarin.Forms – Second Edition](https://smile.amazon.com/Mastering-Xamarin-Forms-Second-Ed-Snider/dp/1788290267/ref=smi_www_rco2_go_smi_1405964225?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8)
+- [Xamarin.Forms Essentials: First Steps Toward Cross-Platform Mobile Apps](https://smile.amazon.com/Xamarin-Forms-Essentials-Toward-Cross-Platform-Mobile/dp/1484232399?SubscriptionId=AKIAJ6CS55SIWQKG4UVQ&tag=onlinebooksre-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1484232399)
+
 ## Cloud
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
