@@ -182,6 +182,7 @@ Work in progress. Contributions are always welcome!
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
+- [ImageCropper.Forms](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
 - [ImageCropView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/ImageCropView): Image cropper for Xamarin.Forms.
 - [MarkdownView](https://github.com/aloisdeniel/MarkdownView): A native Xamarin.Forms Markdown renderer.
 - [MarkdownTextView](https://github.com/SuavePirate/MarkdownTextView): A Xamarin.Forms component to display markdown text in a TextView.
