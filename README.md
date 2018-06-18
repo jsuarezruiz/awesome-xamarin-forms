@@ -125,6 +125,7 @@ Work in progress. Contributions are always welcome!
 ## Samples
 
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
+- [charlespetzold-xamarin-forms-samples](https://github.com/charlespetzold/xamarin-forms-samples): Code samples for Xamarin.Forms.
 
 ## Serialization
 
