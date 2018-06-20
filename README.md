@@ -12,6 +12,7 @@ Work in progress. Contributions are always welcome!
 ## Behaviors
 
 - [Behaviors](https://github.com/davidbritch/behaviors): Behaviors for Xamarin.Forms.
+- [Xamarin.Forms.BehaviorValidationPack](https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack): Package with multiple field validations for Xamarin.Forms.
 
 ## Books
 
