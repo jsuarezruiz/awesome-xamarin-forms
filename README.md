@@ -118,6 +118,7 @@ Work in progress. Contributions are always welcome!
 - [Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts): Read Contacts Data on iOS and Android.
 - [Xamarin.Forms.Segues](https://github.com/chkn/Xamarin.Forms.Segues): A library that provides support for segues between Pages.
 - [Xamarin.Forms.GraphQL](https://github.com/xamarin/Xamarin.Forms.GraphQL): {GraphQL} bindings allow binding from XAML directly to a GraphQL data source.
+- [Xamarin.Cognitive.BingSpeech](https://github.com/NateRickard/Xamarin.Cognitive.BingSpeech): Is a managed client library that makes it easy to work with the Microsoft Cognitive Services Bing Speech API on Xamarin.iOS, Xamarin.Android, Xamarin.Forms, UWP, and other .NET Standard 2.0 projects.
 
 ## Project Templates
 
