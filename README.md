@@ -71,6 +71,7 @@ Work in progress. Contributions are always welcome!
 - [Prism](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
 - [Sextant](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
+- [TinyMvvm](https://github.com/TinyStuff/TinyMvvm): TinyMvvm is a tiny MVVM library with focus on productivity.
 
 ## Elmish
 
@@ -103,6 +104,8 @@ Work in progress. Contributions are always welcome!
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
 - [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
 - [Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin): Turn your text into a vocal symphony on mobile devices.
+- [TinyInsights](https://github.com/TinyStuff/TinyInsights): A library that abstracting crash reporting- and analytics services and makes it possible to use multiple providers.
+- [TinyAccountManager](https://github.com/TinyStuff/TinyAccountManager): Account manager for Xamarin and UWP. Store account information in your app in a secure way.
 - [TinyNavigationHelper](https://github.com/TinyStuff/TinyNavigationHelper): Is a library that is created for you that want to abstract the navigation without installing a bigger MVVM framework.
 - [TinyPubSub](https://github.com/johankson/TinyPubSub): Worlds smallest pub/sub thingy created mostly for Xamarin Forms.
 - [Toasts.Forms.Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin): A simple way of showing notifications inside your Xamarin or Windows application.
