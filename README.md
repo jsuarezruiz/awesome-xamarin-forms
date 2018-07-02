@@ -181,6 +181,7 @@ Work in progress. Contributions are always welcome!
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
+- [FlippingAndResizableUI](https://github.com/xamarinium/FlippingAndResizableUI): UI with rotated view and expandable panel in Xamarin.Forms.
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
