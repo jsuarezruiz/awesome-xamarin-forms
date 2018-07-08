@@ -238,7 +238,7 @@ Work in progress. Contributions are always welcome!
 - [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [Xamarin.Forms.StepProgressBar](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
-- [CarouselView.FormsPlugin] (https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
+- [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 
 ## UI Testing
 
