@@ -218,6 +218,7 @@ Work in progress. Contributions are always welcome!
 - [StatesButton](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [STabbedPage.Forms](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
+- [Syncfusion Components](https://www.syncfusion.com/products/xamarin): Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
 - [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
 - [TabStrip](https://github.com/ahoefling/TabStrip): Tab Strip control for Xamarin.Forms.
 - [TabView](https://github.com/chaosifier/TabView): TabView control for Xamarin.Forms.
