@@ -200,6 +200,7 @@ Work in progress. Contributions are always welcome!
 - [MarkdownTextView](https://github.com/SuavePirate/MarkdownTextView): A Xamarin.Forms component to display markdown text in a TextView.
 - [mapbox-xamarin-forms](https://github.com/NAXAM/mapbox-xamarin-forms): This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.
 - [Microcharts](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
+- [MultiGestureView](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [ParallaxScroll](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
