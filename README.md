@@ -133,6 +133,7 @@ Work in progress. Contributions are always welcome!
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices): A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
 - [charlespetzold-xamarin-forms-samples](https://github.com/charlespetzold/xamarin-forms-samples): Code samples for Xamarin.Forms.
+- [Xamarin.Forms Tizen Samples](https://github.com/Samsung/xamarin-forms-samples): This is a fork of Xamarin.Forms samples repository. You will find Tizen versions of original sample apps here. 
 
 ## Serialization
 
