@@ -185,6 +185,7 @@ Work in progress. Contributions are always welcome!
 - [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides opportunity to create custom context menu for every cell.
 - [CrossPlacePicker](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [CutView](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
+- [DesktopTrayIcon](https://github.com/pingzing/DesktopTrayIcon): A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF. 
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programatically in Xamarin.Forms.
 - [EmbeddedPicker](https://github.com/80cmdude/EmbeddedPicker): Embedded page picker control for Xamarin.forms for both Android and iOS.
