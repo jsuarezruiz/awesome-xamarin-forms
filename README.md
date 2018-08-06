@@ -238,6 +238,7 @@ Work in progress. Contributions are always welcome!
 - [TimberLabel](https://github.com/chowarth/TimberControls.TimberLabel): A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.
 - [TitleBar](https://github.com/ScienceSoft-Inc/TitleBar): Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want. 
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
+- [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XFExpandableListView](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
