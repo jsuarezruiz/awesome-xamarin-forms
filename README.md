@@ -8,6 +8,7 @@ Work in progress. Contributions are always welcome!
 
 - [LottieXamarin](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
+- [Xamarin Transitions](https://github.com/OliveTreeBible/Xamarin.Transitions): Declarative & implicit animations Library for Xamarin Forms.
 
 ## Behaviors
 
