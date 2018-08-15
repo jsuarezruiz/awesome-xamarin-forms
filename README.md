@@ -244,6 +244,7 @@ Work in progress. Contributions are always welcome!
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
+- [XamCustomLayouts](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XFExpandableListView](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
 - [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
