@@ -74,6 +74,7 @@ Work in progress. Contributions are always welcome!
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
 - [Sextant](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
 - [TinyMvvm](https://github.com/TinyStuff/TinyMvvm): TinyMvvm is a tiny MVVM library with focus on productivity.
+- [xamvvm](https://github.com/xamvvm/xamvvm): Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
 - [Xamarin University Infrastructure Library](https://github.com/xamarinhq/xamu-infrastructure): Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
 
 ## Elmish
