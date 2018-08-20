@@ -81,6 +81,10 @@ Work in progress. Contributions are always welcome!
 
 - [Elmish.XamarinForms](https://github.com/fsprojects/Elmish.XamarinForms): Elmish for Xamarin.Forms.
 
+## Frameworks
+
+- [Clarity](https://github.com/ionoy/Clarity): Is an application framework for XAML based platforms.
+
 ## Plugins
 
 - [Battery Status](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
