@@ -85,6 +85,7 @@ Work in progress. Contributions are always welcome!
 ## Frameworks
 
 - [Clarity](https://github.com/ionoy/Clarity): Is an application framework for XAML based platforms.
+- [XamFluentUI](https://github.com/dariodotnet/XamFluentUI): Fluent UI API for Xamarin Forms.
 
 ## Plugins
 
