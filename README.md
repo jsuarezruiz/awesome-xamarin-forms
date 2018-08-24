@@ -2,7 +2,9 @@
 
 A curated list of awesome Xamarin.Forms libraries and resources.
 
-Work in progress. Contributions are always welcome! 
+<img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
+
+*Work in progress*. Contributions are always welcome! 
 
 ## Animations
 
@@ -26,6 +28,10 @@ Work in progress. Contributions are always welcome!
 ## Cloud
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
+
+## Crumbs
+
+- [Xamarin Crumbs](https://github.com/MarcosCobena/XamarinCrumbs): A set of source code files —including XAML ones— to reuse once and again.
 
 ## Data
 
