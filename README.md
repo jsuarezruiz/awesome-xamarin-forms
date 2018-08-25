@@ -183,6 +183,7 @@ A curated list of awesome Xamarin.Forms libraries and resources.
 - [vsmacdeepclean](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
 - [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): A visual studio extension, which formats XAML source code by sorting the attributes based on their importance. 
 - [NSwag](https://github.com/RSuter/NSwag): Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
+- [xamarin-forms-android-linux-tools](https://github.com/igorkovalchuk/xamarin-forms-android-linux-tools): Collection of command line tools for Xamarin.Forms Android on Linux and documentation to configure the build process.
 
 ## TV
 
