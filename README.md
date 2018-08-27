@@ -288,6 +288,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [xamarin-forms-material-chips](https://github.com/yudiz-dotnet/xamarin-forms-material-chips): Useful to create material-chips design in xamarin forms with MVVM architecture. 
 - [Xamarin.Forms-RadialMenu](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
+- [Xamarin.Plugin.SharedTransitions](https://github.com/Evolutionlab/Xamarin.Plugin.SharedTransitions): Activate shared element transitions between pages in Xamarin.Forms (IOS/Android).
 - [Xamarin.Forms.StepProgressBar](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
