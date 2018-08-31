@@ -285,6 +285,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
 - [XamarinFormsCustomSlider](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
 - [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
+- [XamarinFormsGesture](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
 - [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [xamarin-forms-material-chips](https://github.com/yudiz-dotnet/xamarin-forms-material-chips): Useful to create material-chips design in xamarin forms with MVVM architecture. 
 - [Xamarin.Forms-RadialMenu](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
