@@ -154,7 +154,9 @@ You can find other awesome lists related to Xamarin below:
 ## Samples
 
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices): A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
+- [Prism Samples Forms](https://github.com/PrismLibrary/Prism-Samples-Forms): Samples that demonstrate how to use various Prism features with Xamarin.Forms.
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
+- [Xamarin.Forms Demo Apps](https://github.com/conceptdev/xamarin-forms-samples): Samples that use Xamarin.Forms.
 - [charlespetzold-xamarin-forms-samples](https://github.com/charlespetzold/xamarin-forms-samples): Code samples for Xamarin.Forms.
 - [Xamarin.Forms GTK Samples](https://github.com/jsuarezruiz/xamarin-forms-gtk-samples): You will find GTK (Linux) versions of official Xamarin.Forms samples here. 
 - [Xamarin.Forms Tizen Samples](https://github.com/Samsung/xamarin-forms-samples): This is a fork of Xamarin.Forms samples repository. You will find Tizen versions of original sample apps here. 
