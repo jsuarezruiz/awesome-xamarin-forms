@@ -138,6 +138,7 @@ You can find other awesome lists related to Xamarin below:
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
 - [Xamarin.Essentials](https://github.com/xamarin/Essentials): (**Official**) Essential cross platform APIs for your mobile apps.
+- [Xamarin.Plugin.Firebase.RemoteConfig](https://github.com/smarongiu/Xamarin.Plugin.Firebase.RemoteConfig): Xamarin Forms bindings for Firebase RemoteConfig.
 - [Xam.Plugins.OnDeviceCustomVision](https://github.com/jimbobbennett/Xam.Plugins.OnDeviceCustomVision): Plugin to allow custom vision models to be used from mobile devices.
 - [XamCal](https://github.com/ahoefling/XamCal): A Xamarin.Forms Calendar Plugin.
 - [Xam.Plugin.Webview](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
