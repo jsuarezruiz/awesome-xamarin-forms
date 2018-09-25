@@ -92,7 +92,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Elmish
 
-- [Elmish.XamarinForms](https://github.com/fsprojects/Elmish.XamarinForms): Elmish for Xamarin.Forms.
+- [Fabulous](https://github.com/fsprojects/Fabulous): F# Functional App Development - Elmish for Xamarin.Forms https://fsprojects.github.io/Fabulous/
 
 ## Frameworks
 
@@ -157,7 +157,7 @@ You can find other awesome lists related to Xamarin below:
 ## Samples
 
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices): A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
-- Gastropods: Xamarin.Forms Shell (Early Preview) sample.
+- [Gastropods](https://github.com/davidortinau/Gastropods): Xamarin.Forms Shell (Early Preview) sample.
 - [Prism Samples Forms](https://github.com/PrismLibrary/Prism-Samples-Forms): Samples that demonstrate how to use various Prism features with Xamarin.Forms.
 - [TheLittleThingsPlayground](https://github.com/davidortinau/TheLittleThingsPlayground): Playground for experimenting with new Xamarin.Forms (3.1 and 3.2) features.
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
