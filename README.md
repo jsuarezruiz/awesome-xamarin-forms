@@ -114,6 +114,7 @@ You can find other awesome lists related to Xamarin below:
 - [GoogleAnalyticsForXamarinForms](https://github.com/KSemenenko/GoogleAnalyticsForXamarinForms): This project is a cross platform library for Xamarin Forms, which enables a handy use of Google Analytics in your applications.
 - [Iconize](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
 - [InAppBillingPlugin](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
+- [Jobs](https://github.com/aritchie/jobs): Background Jobs Framework for Xamarin & UWP.
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
 - [LibVLCSharp](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [MatchaBackgroundService](https://github.com/winstongubantes/MatchaBackgroundService): A plugin library to simplify Backgrounding in Xamarin.Forms.
