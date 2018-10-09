@@ -247,6 +247,7 @@ You can find other awesome lists related to Xamarin below:
 - [Messier16 Forms.Controls](https://github.com/messier16/Forms.Controls): Messier16 Xamarin.Forms controls (Checkbox, RatingBar, SegmentedControl).
 - [Microcharts](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
 - [MultiGestureView](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
+- [MultipleToogleSwitch](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toogle Switch control for Xamarin.Forms.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [ParallaxScroll](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
