@@ -18,6 +18,7 @@ You can find other awesome lists related to Xamarin below:
 - [LottieXamarin](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 - [Xamarin.Forms.AnimationsPack](https://github.com/takecx/Xamarin.Forms.AnimationsPack)k: Is Animation library for Xamarin.Forms.
+- [XamarinStateMachine](https://github.com/Binwell/XamarinStateMachine): StateMachine animations for Xamarin.Forms.
 - [Xamarin Transitions](https://github.com/OliveTreeBible/Xamarin.Transitions): Declarative & implicit animations Library for Xamarin Forms.
 
 ## Behaviors
