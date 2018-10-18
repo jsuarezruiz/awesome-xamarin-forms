@@ -239,6 +239,7 @@ You can find other awesome lists related to Xamarin below:
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
+- [htmllabel](https://github.com/edsnider/htmllabel): HTML Label for Xamarin.Forms.
 - [IconEntry](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
