@@ -37,6 +37,10 @@ You can find other awesome lists related to Xamarin below:
 
 - [App-Service-Helpers](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
 
+## Converters
+
+- [Xamarin.Forms.ConvertersPack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack): Package with multiple converters for Xamarin.Forms 
+
 ## Crumbs
 
 - [Xamarin Crumbs](https://github.com/MarcosCobena/XamarinCrumbs): A set of source code files —including XAML ones— to reuse once and again.
