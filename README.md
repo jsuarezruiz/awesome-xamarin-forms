@@ -158,6 +158,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.GraphQL](https://github.com/xamarin/Xamarin.Forms.GraphQL): {GraphQL} bindings allow binding from XAML directly to a GraphQL data source.
 - [Xamarin.Cognitive.BingSpeech](https://github.com/NateRickard/Xamarin.Cognitive.BingSpeech): Is a managed client library that makes it easy to work with the Microsoft Cognitive Services Bing Speech API on Xamarin.iOS, Xamarin.Android, Xamarin.Forms, UWP, and other .NET Standard 2.0 projects.
 - [Xamarin.Forms.SavableObject](https://github.com/enisn/Xamarin.Forms.SavableObject): Saving Data without SQL plugin.
+- [XPlat Windows APIs](https://github.com/jamesmcroft/XPlat-Windows-APIs): XPlat Windows APIs are designed to make it easier for Universal Windows Platform (UWP) developers to share their knowledge of the platform APIs across Android and iOS.
 
 ## Project Templates
 
