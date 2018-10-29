@@ -297,6 +297,7 @@ You can find other awesome lists related to Xamarin below:
 - [XF-Material-Library](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XFSegmentedControl](https://github.com/UdaraAlwis/XFSegmentedControl): A Segmented Button Control in pure Xamarin.Forms.
+- [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
 - [Xamarin.Forms-Calendar](https://github.com/NeilMalcolm/Xamarin.Forms-Calendar): Xamarin.Forms Calendar.
 - [XamarinForms.CancelableModal](https://github.com/DamianAntonowicz/XamarinForms.CancelableModal): Close button for Xamarin.Forms modal page 
 - [Xamarin.Forms-Coordinator-Workaround](https://github.com/ChasakisD/Xamarin.Forms-Coordinator-Workaround): A Xamarin.Forms (Android Only) Implementation of CoordinatorLayout with CollapsingToolbar.
