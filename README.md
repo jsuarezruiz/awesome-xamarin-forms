@@ -320,6 +320,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.PinchZoomImage](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage): Zoom in on the image with the pinch of your fingers.
 - [Xamarin.Forms-RadialMenu](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
 - [Xamarin.Plugin.SharedTransitions](https://github.com/Evolutionlab/Xamarin.Plugin.SharedTransitions): Activate shared element transitions between pages in Xamarin.Forms (IOS/Android).
+- [Xamarin.Forms.SKMaps](https://github.com/LRP-sgravel/Xamarin.Forms.SKMaps): Xamarin.Forms.SKMaps allows developers an easier integration of custom map features from a shared code base. Built over Xamarin.Forms.Maps and adding the strength of SkiaSharp rendering, you can get easy and highly performant map drawing features from a single code base.
 - [Xamarin.Forms.StepProgressBar](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
