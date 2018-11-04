@@ -190,7 +190,6 @@ You can find other awesome lists related to Xamarin below:
 
 - [Xamarin.Forms.Mocks](https://github.com/jonathanpeppers/Xamarin.Forms.Mocks): Library for running Xamarin.Forms inside of unit tests.
 
-
 ## Tools
 
 - [Android File Transfer](https://www.android.com/filetransfer/): Browse and transfer files between your Mac computer and your Android device.
@@ -199,6 +198,7 @@ You can find other awesome lists related to Xamarin below:
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [dpilove](http://dpi.lv): Easily find the DPI of any screen.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
+- [HotReload](https://github.com/AndreiMisiukevich/HotReload): Xamarin.Forms XAML hot reload, live reload, live xaml.
 - [Infragistics AppMap](https://marketplace.visualstudio.com/items?itemName=Infragistics.InfragisticsAppMap): Visually map out and generate your Xamarin.Forms application. Code generation includes Pages (Views), ViewModels, and navigation code that follows best-practice Prism MVVM architecture.
 - [LiveXAML](http://www.livexaml.com): Whenever you save any XAML file, it automatically updates the running application. 
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
