@@ -79,6 +79,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Mirroring Devices
 
+- [AirDroid](https://www.airdroid.com): Utility for mirroring, file transfer, remote control, notifications, etc. an Android device.
 - [Vysor](http://vysor.io/): Utility for mirroring your Android physical device to your screen. 
 - [QuickTime Player](https://medium.com/@patrickswong/how-to-mirror-your-iphone-with-a-lightning-cable-using-quicktime-in-os-x-yosemite-ace3f40ef483): For mirroring iOS devices.
 
