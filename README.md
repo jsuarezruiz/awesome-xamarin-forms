@@ -212,7 +212,8 @@ You can find other awesome lists related to Xamarin below:
 - [XAMLator](https://github.com/ylatuya/XAMLator): Is a live XAML previewer for Xamarin.Forms. Change something in your view's XAML in Visual Studio and you preview it live in your device or simulator!
 - [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): A visual studio extension, which formats XAML source code by sorting the attributes based on their importance. 
 - [NSwag](https://github.com/RSuter/NSwag): Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
-- [xamarin-forms-android-linux-tools](https://github.com/igorkovalchuk/xamarin-forms-android-linux-tools): Collection of command line tools for Xamarin.Forms Android on Linux and documentation to configure the build process.
+- [How to set up Xamarin.Android on Linux](https://github.com/0xFireball/xamarin-android-linux): A guide to getting Xamarin.Android ready to use on your distro of choice (plus JetBrains Rider support)!
+- [Xamarin.Forms Android on Linux command line tools](https://github.com/igorkovalchuk/xamarin-forms-android-linux-tools): This is a similar experimental project and documentation to build Android applications on Linux, using the Xamarin.Android and IDE like the Visual Studio Code or MonoDevelop.
 
 ## TV
 
