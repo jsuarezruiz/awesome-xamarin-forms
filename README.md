@@ -117,6 +117,7 @@ You can find other awesome lists related to Xamarin below:
 - [Contacts](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
 - [DynamicStackLayout](https://github.com/SuavePirate/DynamicStackLayout):  Xamarin.Forms layout for creating dynamically wrapped views.
+- [Enagora.Plugins.Xam.GoogleAds](https://github.com/enagora/Enagora.Plugins.Xam.GoogleAds): Google Ads implemetation for Xamarin.Forms.
 - [EntryCustomReturnPlugin](https://github.com/brminnick/EntryCustomReturnPlugin): Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button.
 - [Extended Maps](https://github.com/jamesmontemagno/LaunchMapsPlugin): Launch navigation directions in default map app on each OS.
 - [Geofence](https://github.com/aritchie/geofences): A cross platform library for Xamarin & Windows that allows for easy geofence detection.
