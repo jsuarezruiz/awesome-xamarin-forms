@@ -72,6 +72,7 @@ You can find other awesome lists related to Xamarin below:
 
 - [XamEffects](https://github.com/mrxten/XamEffects): Xamarin.Forms UI effects.
 - [AiForms.Effects](https://github.com/muak/AiForms.Effects): Effects library that provides you with more flexible functions than default by targetting only Android and iOS in a Xamarin.Forms project.
+- [Xamarin.EnableKeyboardEffect](https://github.com/masonyc/Xamarin.EnableKeyboardEffect): Xamarin.Forms effect to show / hide soft keyboard.
 
 ## Images and Icons
 
@@ -95,6 +96,7 @@ You can find other awesome lists related to Xamarin below:
 - [Prism](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
 - [Sextant](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
+- [SupportXFLite](https://github.com/bulubuloa/SupportXFLite): A simple MVVM Framework for Xamarin Forms, it helps you to quick setup a new Xamarin Forms project.
 - [TinyMvvm](https://github.com/TinyStuff/TinyMvvm): TinyMvvm is a tiny MVVM library with focus on productivity.
 - [xamvvm](https://github.com/xamvvm/xamvvm): Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
 - [Xamarin University Infrastructure Library](https://github.com/xamarinhq/xamu-infrastructure): Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
