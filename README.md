@@ -264,6 +264,7 @@ You can find other awesome lists related to Xamarin below:
 - [htmllabel](https://github.com/edsnider/htmllabel): HTML Label for Xamarin.Forms.
 - [IconEntry](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
+- [InterfaceBuilder](https://github.com/perpetual-mobile/InterfaceBuilder): Simplifying Xamarin.Forms ui construction by using the builder pattern.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [ImageCropper.Forms](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
