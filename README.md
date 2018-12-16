@@ -317,6 +317,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
 - [XF-Material-Library](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
+- [XFRepeaterView](https://github.com/tsjdev-apps/XFRepeaterView): Simple RepeaterView control for Xamarin.Forms.
 - [XFSegmentedControl](https://github.com/UdaraAlwis/XFSegmentedControl): A Segmented Button Control in pure Xamarin.Forms.
 - [XFSelectableLabel](https://github.com/HeikkiDev/XFSelectableLabel): Xamarin.Forms Selectable Label using ViewRenderer.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
