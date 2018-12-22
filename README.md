@@ -100,6 +100,7 @@ You can find other awesome lists related to Xamarin below:
 - [TinyMvvm](https://github.com/TinyStuff/TinyMvvm): TinyMvvm is a tiny MVVM library with focus on productivity.
 - [xamvvm](https://github.com/xamvvm/xamvvm): Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
 - [Xamarin University Infrastructure Library](https://github.com/xamarinhq/xamu-infrastructure): Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
+- [Xamarin.Forms.MVVMBase](https://github.com/TBertuzzi/Xamarin.Forms.MVVMBase): Simple MVVM framework for Xamarin.Forms projects.
 
 ## Elmish
 
