@@ -241,6 +241,7 @@ You can find other awesome lists related to Xamarin below:
 - [BadgeView](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
 - [BuildIt](https://github.com/builttoroam/BuildIt): Build It is the set of libraries that makes it easier and quicker to build applications.
 - [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icon for your Xamarin.Forms applications.
+- [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 - [CardsView](https://github.com/AndreiMisiukevich/CardView): CardsView & CarouselView for Xamarin.Forms.
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [ColorPicker](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for select a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
@@ -333,6 +334,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.FragmentPage](https://github.com/AhmetCavus/Xamarin.FragmentPage): An extension for Xamarin.forms, where different pages can be placed in one content. This approach works with iOS, Android and Windows UWP.
 - [Xamarin.Forms.GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView): GridView for xamarin.Forms with grouping, pull to refresh and selection visual state support.
 - [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
+- [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entrys.
 - [Xamarin.Forms.MultiSelectListView](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
@@ -350,7 +352,6 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.StepProgressBar](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
-- [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 
 ## UI Testing
 
