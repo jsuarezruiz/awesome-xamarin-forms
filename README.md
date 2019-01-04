@@ -324,6 +324,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFRepeaterView](https://github.com/tsjdev-apps/XFRepeaterView): Simple RepeaterView control for Xamarin.Forms.
 - [XFSegmentedControl](https://github.com/UdaraAlwis/XFSegmentedControl): A Segmented Button Control in pure Xamarin.Forms.
 - [XFSelectableLabel](https://github.com/HeikkiDev/XFSelectableLabel): Xamarin.Forms Selectable Label using ViewRenderer.
+- [XamarinFormsBulletListControl](https://github.com/AuriR/XamarinFormsBulletListControl): Bullet List Control for Xamarin.Forms.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
 - [Xamarin.Forms-Calendar](https://github.com/NeilMalcolm/Xamarin.Forms-Calendar): Xamarin.Forms Calendar.
 - [XamarinForms.CancelableModal](https://github.com/DamianAntonowicz/XamarinForms.CancelableModal): Close button for Xamarin.Forms modal page 
