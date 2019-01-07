@@ -117,6 +117,7 @@ You can find other awesome lists related to Xamarin below:
 - [AppShortcutsPlugin](https://github.com/adenearnshaw/AppShortcutsPlugin): Dynamically add and remove shortcuts to your app's icon so the user can deep-link into your app.
 - [Battery Status](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
 - [CSharpForMarkup](https://github.com/VincentH-Net/CSharpForMarkup): Use declarative style C# instead of XAML for Xamarin Forms UI.
+- [Com.MarcusTS.SmartDI](https://github.com/marcusts/Com.MarcusTS.SmartDI): Xamarin.Forms Utility Library.
 - [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin): See if device is connected to the internet and through what connection type.
 - [Contacts](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
@@ -195,7 +196,6 @@ You can find other awesome lists related to Xamarin below:
 
 - [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json): Is a popular high-performance JSON framework for .NET
 - [Utf8Json](https://github.com/neuecc/Utf8Json): Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
-
 
 ## Testing
 
