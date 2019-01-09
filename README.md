@@ -138,6 +138,7 @@ You can find other awesome lists related to Xamarin below:
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
 - [NFCForms](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
+- [OpenTok-Xamarin.Forms](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms): OpenTok for Xamarin.Forms.
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
 - [Plugin.GuestureLock](https://github.com/devinZhou102/Plugin.GuestureLock): GuestureLock for Xamarin.Forms.
