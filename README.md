@@ -133,6 +133,7 @@ You can find other awesome lists related to Xamarin below:
 - [ImmutableUI](https://github.com/praeclarum/ImmutableUI): Is a collection of immutable data objects that mirror object-oriented user interface APIs.
 - [Jobs](https://github.com/aritchie/jobs): Background Jobs Framework for Xamarin & UWP.
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
+- [LaunchDarkly Xamarin Client](https://github.com/launchdarkly/xamarin-client): LaunchDarkly SDK for Xamarin.
 - [LibVLCSharp](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [MatchaBackgroundService](https://github.com/winstongubantes/MatchaBackgroundService): A plugin library to simplify Backgrounding in Xamarin.Forms.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
