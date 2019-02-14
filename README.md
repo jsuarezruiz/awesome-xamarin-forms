@@ -346,6 +346,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinFormsGesture](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
 - [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [xamarin-forms-material-chips](https://github.com/yudiz-dotnet/xamarin-forms-material-chips): Useful to create material-chips design in xamarin forms with MVVM architecture. 
+- [Xamarin.Forms.PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView): An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
 - [Xamarin.Forms.PageControl](https://github.com/TBertuzzi/Xamarin.Forms.PageControl): Use the iOS paging control with Xamarin.Forms.
 - [Xamarin.Forms.PinchZoomImage](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage): Zoom in on the image with the pinch of your fingers.
 - [Xamarin.Forms-RadialMenu](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
