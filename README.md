@@ -336,12 +336,14 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms-Coordinator-Workaround](https://github.com/ChasakisD/Xamarin.Forms-Coordinator-Workaround): A Xamarin.Forms (Android Only) Implementation of CoordinatorLayout with CollapsingToolbar.
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [XMedia](https://github.com/DevsDNA/XMedia): A Xamarin Forms selector multiple images.
+- [Xamarin.Forms.GoogleMaps.Clustering](https://github.com/mierzynskim/Xamarin.Forms.GoogleMaps.Clustering): A map library that brings support for clustering for Xamarin.Forms.GoogleMaps.
 - [Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
 - [Xamarin.FragmentPage](https://github.com/AhmetCavus/Xamarin.FragmentPage): An extension for Xamarin.forms, where different pages can be placed in one content. This approach works with iOS, Android and Windows UWP.
 - [Xamarin.Forms.GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView): GridView for xamarin.Forms with grouping, pull to refresh and selection visual state support.
 - [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
 - [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entrys.
 - [Xamarin.Forms.MultiSelectListView](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
+- [XamarinFormsPersianCalendar](https://github.com/badrnezhad/XamarinFormsPersianCalendar): Xamarin Forms Persian Calendar.
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
