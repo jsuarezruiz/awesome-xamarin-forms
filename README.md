@@ -322,6 +322,7 @@ You can find other awesome lists related to Xamarin below:
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
+- [XF-GradientButton](https://github.com/jesulink2514/XF-GradientButton): Gradient button for Xamarin.Forms built with high performance cross-platform drawing library NGraphics.
 - [XFExpandableListView](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
 - [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
 - [XF-Material-Library](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
