@@ -211,6 +211,7 @@ You can find other awesome lists related to Xamarin below:
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically.
 - [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enable to view all of the HTTP and SSL / HTTPS traffic between the machine and the Internet.
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
+- [Codexcite.Reloader](https://github.com/vladhorby/Codexcite.Reloader): Lightweight library for "live reloading" XAML pages in Xamarin.Forms on Android, UWP and iOS.
 - [dpilove](http://dpi.lv): Easily find the DPI of any screen.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [HotReload](https://github.com/AndreiMisiukevich/HotReload): Xamarin.Forms XAML hot reload, live reload, live xaml.
