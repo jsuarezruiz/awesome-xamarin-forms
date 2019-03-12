@@ -188,7 +188,7 @@ You can find other awesome lists related to Xamarin below:
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices): A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
 - [Gastropods](https://github.com/davidortinau/Gastropods): Xamarin.Forms Shell (Early Preview) sample.
 - [Prism Samples Forms](https://github.com/PrismLibrary/Prism-Samples-Forms): Samples that demonstrate how to use various Prism features with Xamarin.Forms.
-- [TheLittleThingsPlayground](https://github.com/davidortinau/TheLittleThingsPlayground): Playground for experimenting with new Xamarin.Forms features.
+- [TheLittleThingsPlayground](https://github.com/davidortinau/TheLittleThingsPlayground): Playground for experimenting with new Xamarin.Forms features. 
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
 - [Xamarin.Forms Demo Apps](https://github.com/conceptdev/xamarin-forms-samples): Samples that use Xamarin.Forms.
 - [charlespetzold-xamarin-forms-samples](https://github.com/charlespetzold/xamarin-forms-samples): Code samples for Xamarin.Forms.
@@ -322,6 +322,7 @@ You can find other awesome lists related to Xamarin below:
 - [TooltipSample](https://github.com/CrossGeeks/TooltipSample): Xamarin.Forms showing Tooltips sample.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
+- [XamarinHosting](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
