@@ -188,6 +188,7 @@ You can find other awesome lists related to Xamarin below:
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices): A Xamarin.Forms app for displaying the top posts on Hacker News that demonstrates best practices for Async/Await.
 - [Gastropods](https://github.com/davidortinau/Gastropods): Xamarin.Forms Shell (Early Preview) sample.
 - [Prism Samples Forms](https://github.com/PrismLibrary/Prism-Samples-Forms): Samples that demonstrate how to use various Prism features with Xamarin.Forms.
+- [ShellGallery](https://github.com/davidortinau/ShellGallery): This is the control gallery harvested from the Xamarin.Forms ControlGallery projects.
 - [TheLittleThingsPlayground](https://github.com/davidortinau/TheLittleThingsPlayground): Playground for experimenting with new Xamarin.Forms features. 
 - [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples): Sample apps built using the Xamarin.Forms framework.
 - [Xamarin.Forms Demo Apps](https://github.com/conceptdev/xamarin-forms-samples): Samples that use Xamarin.Forms.
@@ -254,6 +255,7 @@ You can find other awesome lists related to Xamarin below:
 - [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides opportunity to create custom context menu for every cell.
 - [CrossPlacePicker](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [CutView](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
+- [Custom.Gradient.Slider](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that have options to change height, corner radius and apply gradient background in the Minimum Track.
 - [DesktopTrayIcon](https://github.com/pingzing/DesktopTrayIcon): A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF. 
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programatically in Xamarin.Forms.
@@ -323,6 +325,7 @@ You can find other awesome lists related to Xamarin below:
 - [TooltipSample](https://github.com/CrossGeeks/TooltipSample): Xamarin.Forms showing Tooltips sample.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
+- [WheelSpinner](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
 - [XamarinHosting](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
