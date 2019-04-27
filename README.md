@@ -322,6 +322,7 @@ You can find other awesome lists related to Xamarin below:
 - [TabView](https://github.com/chaosifier/TabView): TabView control for Xamarin.Forms.
 - [TimberLabel](https://github.com/chowarth/TimberControls.TimberLabel): A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.
 - [TitleBar](https://github.com/ScienceSoft-Inc/TitleBar): Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want. 
+- [Tizen.NET.MaterialComponents](https://github.com/TizenAPI/Tizen.NET.MaterialComponents): Material Components for Tizen .NET helps developers execute Material Design. 
 - [TooltipSample](https://github.com/CrossGeeks/TooltipSample): Xamarin.Forms showing Tooltips sample.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
