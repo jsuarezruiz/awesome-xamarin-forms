@@ -142,6 +142,7 @@ You can find other awesome lists related to Xamarin below:
 - [OpenTok-Xamarin.Forms](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms): OpenTok for Xamarin.Forms.
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
+- [Plugin.Glypher](https://github.com/thudugala/Plugin.Glypher): This plugin extend support for font-glyphs (font-icons) in Xamarin.Forms applications.
 - [Plugin.GuestureLock](https://github.com/devinZhou102/Plugin.GuestureLock): GuestureLock for Xamarin.Forms.
 - [Plugin.LocalNotification](https://github.com/tmt242001/Plugin.LocalNotification): The local notification plugin provides a way to show local notifications from Xamarin.Forms apps.
 - [Plugin.XF.AppInstallHelper](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper): Xamarin.Forms helper for install application.
