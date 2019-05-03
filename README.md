@@ -300,6 +300,7 @@ You can find other awesome lists related to Xamarin below:
 - [PinView](https://github.com/lassana/XamarinFormsPinView): PIN keyboard for Xamarin.Forms.
 - [PhotoBrowser](https://github.com/stormlion227/PhotoBrowser.Forms): Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures.
 - [PlacesSearchBar](https://github.com/ajsmithsw/PlacesSearchBar): An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.
+- [Prototype.Forms.Controls](https://github.com/rhedgpeth/Prototype.Forms.Controls): This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets (ToggleButton, CheckBox, etc.).
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SegmentedCircleView](https://github.com/AndreiMisiukevich/SegmentedCircleView): SegmentedCircleView for Xamarin.Forms.
