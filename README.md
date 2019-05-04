@@ -222,6 +222,7 @@ You can find other awesome lists related to Xamarin below:
 - [MFractor](http://www.mfractor.com): MFractor is the essential productivity tool for Xamarin Studio.
 - [Mutatio](https://github.com/yuv4ik/Mutatio): Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017): An extension bundle installer that will install each of the individual components of Productivity Power Tools (copy has HTML, fix tabs, etc.).
+- [RealXaml](https://github.com/admaiorastudio/realxaml): Is a live viewer for Xamarin Forms. Edit your xaml and see your changes in realtime (live reload). It allows also to compile and deploy your app core assembly in real time (hot reload).
 - [scrcpy](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 - [UI Sleuth](https://www.uisleuth.com/): Xamarin.Forms debugging tool.
 - [VSTouchbarTools](https://github.com/rubit0/vstouchbartools): A simple extension that installs a XML definition for Parallels v13 to offer basic Touchbar support.
