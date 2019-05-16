@@ -163,6 +163,7 @@ You can find other awesome lists related to Xamarin below:
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
 - [Xamarin.Essentials](https://github.com/xamarin/Essentials): (**Official**) Essential cross platform APIs for your mobile apps.
 - [Xamarinos.AdMob.FormsPlugin](https://github.com/LosXamarinos/Xamarinos.AdMob.FormsPlugin): AdMob Plugin for Xamarin.Forms.
+- [Xamarin.Cognitive.Speech](https://github.com/NateRickard/Xamarin.Cognitive.Speech): A client library that makes it easy to work with the Microsoft Cognitive Services Speech Services Speech to Text API on Xamarin.iOS, Xamarin.Android, UWP, and Xamarin.Forms/.NET Standard libraries used by those platforms.
 - [Xamarin.Plugin.Firebase.RemoteConfig](https://github.com/smarongiu/Xamarin.Plugin.Firebase.RemoteConfig): Xamarin Forms bindings for Firebase RemoteConfig.
 - [Xam.Plugin.AudioPlayer](https://github.com/Inrego/Xam.Plugin.AudioPlayer): Plugin for Xamarin.Forms to play audio in background from stream.
 - [Xam.Plugins.OnDeviceCustomVision](https://github.com/jimbobbennett/Xam.Plugins.OnDeviceCustomVision): Plugin to allow custom vision models to be used from mobile devices.
@@ -289,12 +290,14 @@ You can find other awesome lists related to Xamarin below:
 - [MultiGestureView](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
 - [MultipleToogleSwitch](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toogle Switch control for Xamarin.Forms.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
+- [Oxard.XControls](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [ParallaxScroll](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
 - [PinView](https://github.com/lassana/XamarinFormsPinView): PIN keyboard for Xamarin.Forms.
 - [PhotoBrowser](https://github.com/stormlion227/PhotoBrowser.Forms): Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures.
 - [PlacesSearchBar](https://github.com/ajsmithsw/PlacesSearchBar): An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
+- [RedCorners.Forms](https://github.com/saeedafshari/RedCorners.Forms): Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SegmentedCircleView](https://github.com/AndreiMisiukevich/SegmentedCircleView): SegmentedCircleView for Xamarin.Forms.
 - [ShapeControl.Forms](https://github.com/stormlion227/ShapeControl.Forms): Xamarin.Forms Library that allows you to draw shapes such as circle, roundrect, oval and so on.
