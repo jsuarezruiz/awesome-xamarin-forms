@@ -22,6 +22,13 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinStateMachine](https://github.com/Binwell/XamarinStateMachine): StateMachine animations for Xamarin.Forms.
 - [Xamarin Transitions](https://github.com/OliveTreeBible/Xamarin.Transitions): Declarative & implicit animations Library for Xamarin Forms.
 
+## Backends (Other platforms)
+
+- [Ooui](https://github.com/praeclarum/Ooui): A small cross-platform UI library that brings the simplicity of native UI development to the web.
+- [Xamarin.Forms.Platforms.Blazor](https://github.com/legistek/Xamarin.Forms.Platforms.Blazor): A proof of concept for a Blazor backend render platform for Xamarin.Forms.
+- [Xamarin.Forms.Unity](https://github.com/aosoft/Xamarin.Forms.Unity): Xamarin.Forms for Unity (Platform implementation for Unity Game Engine).
+- [Xamarin.Forms.WinForms](https://github.com/aosoft/Xamarin.Forms.WinForms): Xamarin.Forms for Windows Forms (Platform implementation).
+
 ## Behaviors
 
 - [Behaviors](https://github.com/davidbritch/behaviors): Behaviors for Xamarin.Forms.
