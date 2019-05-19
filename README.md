@@ -275,6 +275,7 @@ You can find other awesome lists related to Xamarin below:
 - [EnhancedEntry](https://github.com/LeoJHarris/EnhancedEntry): Enhanced Entry for Xamarin.forms projects that extends the current xamarin.forms Entry.
 - [ExpandableListView](https://github.com/my-jabin/ExpandableListView-Xamarin): Expandable ListView in Xamarin.Forms.
 - [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView): This plugin provides opportunity to create expandable views.
+- [FastGrid](https://github.com/Binwell/FastGrid): Component for Xamarin.Forms based on Android RecyclerView and iOS UICollectionView 
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
