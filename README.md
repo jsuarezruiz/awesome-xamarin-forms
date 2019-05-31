@@ -343,6 +343,7 @@ You can find other awesome lists related to Xamarin below:
 - [Tizen.NET.MaterialComponents](https://github.com/TizenAPI/Tizen.NET.MaterialComponents): Material Components for Tizen .NET helps developers execute Material Design. 
 - [TooltipSample](https://github.com/CrossGeeks/TooltipSample): Xamarin.Forms showing Tooltips sample.
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
+- TwoWeekControl: Xamarin forms calendar with only two weeks.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
 - [WheelSpinner](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
 - [XamarinHosting](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
