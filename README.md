@@ -154,6 +154,7 @@ You can find other awesome lists related to Xamarin below:
 - [Plugin.LocalNotification](https://github.com/tmt242001/Plugin.LocalNotification): The local notification plugin provides a way to show local notifications from Xamarin.Forms apps.
 - [Plugin.XF.AppInstallHelper](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper): Xamarin.Forms helper for install application.
 - [Plugin.XFLogger](https://github.com/JimmyPun610/Plugin.XFLogger): Logging library for xamarin forms, work for iOS and Android.
+- [Plugin.XF.TouchID](https://github.com/JimmyPun610/Plugin.XF.TouchID): This is the library for Xamarin Form to use Biometric ID to do the local authentication.
 - [Screenshot](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshot in yours apps for Xamarin and Windows.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
