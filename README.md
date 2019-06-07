@@ -18,7 +18,7 @@ You can find other awesome lists related to Xamarin below:
 - [EvoTransitions](https://github.com/Evolutionlab/EvoTransitions): Custom NavigationRenderers for Xamarin.Forms (IOS and Android) to activate shared element transitions between two screens.
 - [LottieXamarin](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
-- [Xamarin.Forms.AnimationsPack](https://github.com/takecx/Xamarin.Forms.AnimationsPack)k: Is Animation library for Xamarin.Forms.
+- [Xamarin.Forms.AnimationsPack](https://github.com/takecx/Xamarin.Forms.AnimationsPack): Is Animation library for Xamarin.Forms.
 - [XamarinStateMachine](https://github.com/Binwell/XamarinStateMachine): StateMachine animations for Xamarin.Forms.
 - [Xamarin Transitions](https://github.com/OliveTreeBible/Xamarin.Transitions): Declarative & implicit animations Library for Xamarin Forms.
 
@@ -143,7 +143,7 @@ You can find other awesome lists related to Xamarin below:
 - [InAppBillingPlugin](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
 - [ImmutableUI](https://github.com/praeclarum/ImmutableUI): Is a collection of immutable data objects that mirror object-oriented user interface APIs.
 - [Jobs](https://github.com/aritchie/jobs): Background Jobs Framework for Xamarin & UWP.
-- [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basicaly add storage of the navigation history when the application stops.
+- [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basically add storage of the navigation history when the application stops.
 - [LaunchDarkly Xamarin Client](https://github.com/launchdarkly/xamarin-client): LaunchDarkly SDK for Xamarin.
 - [LibVLCSharp](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [MatchaBackgroundService](https://github.com/winstongubantes/MatchaBackgroundService): A plugin library to simplify Backgrounding in Xamarin.Forms.
@@ -153,24 +153,24 @@ You can find other awesome lists related to Xamarin below:
 - [OpenTok-Xamarin.Forms](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms): OpenTok for Xamarin.Forms.
 - [PayPal](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [Permissions](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
-- [Plugin.Glypher](https://github.com/thudugala/Plugin.Glypher): This plugin extend support for font-glyphs (font-icons) in Xamarin.Forms applications.
+- [Plugin.Glypher](https://github.com/thudugala/Plugin.Glypher): This plugin extends support for font-glyphs (font-icons) in Xamarin.Forms applications.
 - [Plugin.GuestureLock](https://github.com/devinZhou102/Plugin.GuestureLock): GuestureLock for Xamarin.Forms.
 - [Plugin.LocalNotification](https://github.com/tmt242001/Plugin.LocalNotification): The local notification plugin provides a way to show local notifications from Xamarin.Forms apps.
 - [Plugin.XF.AppInstallHelper](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper): Xamarin.Forms helper for install application.
 - [Plugin.XFLogger](https://github.com/JimmyPun610/Plugin.XFLogger): Logging library for xamarin forms, work for iOS and Android.
 - [Plugin.XF.TouchID](https://github.com/JimmyPun610/Plugin.XF.TouchID): This is the library for Xamarin Form to use Biometric ID to do the local authentication.
-- [Screenshot](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshot in yours apps for Xamarin and Windows.
+- [Screenshot](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshots in your apps for Xamarin and Windows.
 - [Settings](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
 - [Share](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
 - [SimpleAudioPlayer](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer): Plays local files and audio data as a stream. This allows you to store audio data in a portable class library and play it on all supported platforms.
-- [SpatialiteForms](https://github.com/breekmd/SpatialiteForms): Enable spatialite for Xamarin Forms. As an example this allows to do offline reverse geocoding on mobile devices (this barely scratches the surface of Spatialite, but it's a very common usecase for mobile dev).
+- [SpatialiteForms](https://github.com/breekmd/SpatialiteForms): Enable spatialite for Xamarin Forms. As an example this allows to do offline reverse geocoding on mobile devices (this barely scratches the surface of Spatialite, but it's a very common use case for mobile dev).
 - [Text To Speech](https://github.com/jamesmontemagno/TextToSpeechPlugin): Turn your text into a vocal symphony on mobile devices.
 - [TinyInsights](https://github.com/TinyStuff/TinyInsights): A library that abstracting crash reporting- and analytics services and makes it possible to use multiple providers.
 - [TinyAccountManager](https://github.com/TinyStuff/TinyAccountManager): Account manager for Xamarin and UWP. Store account information in your app in a secure way.
 - [TinyNavigationHelper](https://github.com/TinyStuff/TinyNavigationHelper): Is a library that is created for you that want to abstract the navigation without installing a bigger MVVM framework.
 - [TinyPubSub](https://github.com/johankson/TinyPubSub): Worlds smallest pub/sub thingy created mostly for Xamarin Forms.
 - [Toasts.Forms.Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin): A simple way of showing notifications inside your Xamarin or Windows application.
-- [TouchEffect](https://github.com/AndreiMisiukevich/TouchEffect): This plugin provides opportunity to create views with touch effects without using any gestureRecognizers.
+- [TouchEffect](https://github.com/AndreiMisiukevich/TouchEffect): This plugin provides an opportunity to create views with touch effects without using any gestureRecognizers.
 - [Version Tracking](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
@@ -225,7 +225,7 @@ You can find other awesome lists related to Xamarin below:
 
 - [Android File Transfer](https://www.android.com/filetransfer/): Browse and transfer files between your Mac computer and your Android device.
 - [Assetxport](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically.
-- [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enable to view all of the HTTP and SSL / HTTPS traffic between the machine and the Internet.
+- [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enables viewing of all the HTTP and SSL / HTTPS traffic between the machine and the Internet.
 - [clean-compress](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Codexcite.Reloader](https://github.com/vladhorby/Codexcite.Reloader): Lightweight library for "live reloading" XAML pages in Xamarin.Forms on Android, UWP and iOS.
 - [dpilove](http://dpi.lv): Easily find the DPI of any screen.
@@ -264,40 +264,40 @@ You can find other awesome lists related to Xamarin below:
 - [BottomTabbedPage](https://github.com/NAXAM/bottomtabbedpage-xamarin-forms): A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android.
 - [BadgeView](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
 - [BuildIt](https://github.com/builttoroam/BuildIt): Build It is the set of libraries that makes it easier and quicker to build applications.
-- [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icon for your Xamarin.Forms applications.
+- [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icons for your Xamarin.Forms applications.
 - [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 - [CardsView](https://github.com/AndreiMisiukevich/CardView): CardsView & CarouselView for Xamarin.Forms.
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
-- [ColorPicker](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for select a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
-- [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides opportunity to create custom context menu for every cell.
+- [ColorPicker](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for selecting a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
+- [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides an opportunity to create a custom context menu for every cell.
 - [CrossPlacePicker](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [CutView](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
-- [Custom.Gradient.Slider](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that have options to change height, corner radius and apply gradient background in the Minimum Track.
+- [Custom.Gradient.Slider](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that has options to change height, corner radius and apply gradient background in the Minimum Track.
 - [DesktopTrayIcon](https://github.com/pingzing/DesktopTrayIcon): A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF. 
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
-- [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programatically in Xamarin.Forms.
+- [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programmatically in Xamarin.Forms.
 - [ElegantTabs](https://github.com/muhaym/ElegantTabs): Adds some of nifty features that are missing in Xamarin Forms Tabbed Pages like Disabled Pages, Selected Icons, ability to use original Icon Colours.
 - [EmbeddedPicker](https://github.com/80cmdude/EmbeddedPicker): Embedded page picker control for Xamarin.forms for both Android and iOS.
 - [EnhancedEntry](https://github.com/LeoJHarris/EnhancedEntry): Enhanced Entry for Xamarin.forms projects that extends the current xamarin.forms Entry.
 - [ExpandableListView](https://github.com/my-jabin/ExpandableListView-Xamarin): Expandable ListView in Xamarin.Forms.
-- [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView): This plugin provides opportunity to create expandable views.
+- [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView): This plugin provides an opportunity to create expandable views.
 - [FastGrid](https://github.com/Binwell/FastGrid): Component for Xamarin.Forms based on Android RecyclerView and iOS UICollectionView 
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading): Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
-- [FlippingAndResizableUI](https://github.com/xamarinium/FlippingAndResizableUI): UI with rotated view and expandable panel in Xamarin.Forms.
+- [FlippingAndResizableUI](https://github.com/xamarinium/FlippingAndResizableUI): UI with a rotated view and expandable panel in Xamarin.Forms.
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [FluentLayout](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
 - [Forms9Patch](https://github.com/baskren/Forms9Patch): Simplify image management and text formatting in your Xamarin.Forms apps.
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
-- [Global.InputForms](https://github.com/Phenek/Global.InputForms): Global.InputForms provides a Xamarin.Forms essentials controls for iOS and Android apps (CheckGroup, RadioGroup, etc.).
+- [Global.InputForms](https://github.com/Phenek/Global.InputForms): Global.InputForms provides Xamarin.Forms Essentials controls for iOS and Android apps (CheckGroup, RadioGroup, etc.).
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [htmllabel](https://github.com/edsnider/htmllabel): HTML Label for Xamarin.Forms.
 - [IconEntry](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
-- [InterfaceBuilder](https://github.com/perpetual-mobile/InterfaceBuilder): Simplifying Xamarin.Forms ui construction by using the builder pattern.
+- [InterfaceBuilder](https://github.com/perpetual-mobile/InterfaceBuilder): Simplifying Xamarin.Forms UI construction by using the builder pattern.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [ImageCropper](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [ImageCropper.Forms](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
@@ -311,7 +311,7 @@ You can find other awesome lists related to Xamarin below:
 - [Messier16 Forms.Controls](https://github.com/messier16/Forms.Controls): Messier16 Xamarin.Forms controls (Checkbox, RatingBar, SegmentedControl).
 - [Microcharts](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
 - [MultiGestureView](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
-- [MultipleToogleSwitch](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toogle Switch control for Xamarin.Forms.
+- [MultipleToggleSwitch](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toggle Switch control for Xamarin.Forms.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
 - [Oxard.XControls](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
@@ -335,7 +335,7 @@ You can find other awesome lists related to Xamarin below:
 - [SlidingPanel](https://github.com/dw2kim/slidingpanel): Xamarin.Forms library that allows you to have for Google-Map-Like sliding panel from bottom of the screen.
 - [StatesButton](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [STabbedPage.Forms](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
-- [SupportWidgetXF](https://github.com/bulubuloa/SupportWidgetXF): Is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms (SupportAutoComplete, SupportResultList, SupportDropList, SupportEntry, SupportButton, SupportActionMenu, SupportBindableStackLayout, SupportFlowLayout, SupportSearchView, SupportShadowView, SupportGradientView, SupportMapView, SupportRadioButton, SupportCalendarView 
+- [SupportWidgetXF](https://github.com/bulubuloa/SupportWidgetXF): Is an open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms (SupportAutoComplete, SupportResultList, SupportDropList, SupportEntry, SupportButton, SupportActionMenu, SupportBindableStackLayout, SupportFlowLayout, SupportSearchView, SupportShadowView, SupportGradientView, SupportMapView, SupportRadioButton, SupportCalendarView 
 ).
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
 - [SwipeCardView](https://github.com/markolazic88/SwipeCardView): A lightweight MVVM friendly UI control that brings Tinder-style swipeable cards into Xamarin.Forms applications.
@@ -378,7 +378,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.FragmentPage](https://github.com/AhmetCavus/Xamarin.FragmentPage): An extension for Xamarin.forms, where different pages can be placed in one content. This approach works with iOS, Android and Windows UWP.
 - [Xamarin.Forms.GridView](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView): GridView for xamarin.Forms with grouping, pull to refresh and selection visual state support.
 - [Xam.Plugin.HtmlLabel](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
-- [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entrys.
+- [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entries.
 - [Xamarin.Forms.MultiSelectListView](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
 - [XamarinFormsPersianCalendar](https://github.com/badrnezhad/XamarinFormsPersianCalendar): Xamarin Forms Persian Calendar.
 - [Xam.Plugin.PopupMenu](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
@@ -386,7 +386,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin-Forms-Custom-Activity-Indicator](https://github.com/LeslieCorrea/Xamarin-Forms-Custom-Activity-Indicator): Xamarin Forms Custom Activity Indicator using GIF image. 
 - [Xamarin.CustomControls.AutoCompleteView](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
 - [XamarinFormsCustomSlider](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
-- [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): This controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
+- [Xamarin Forms Extended Controls](https://github.com/XamFormsExtended/Xfx.Controls): These controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 - [XamarinFormsFloatingTabs](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
 - [XamarinFormsGesture](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
 - [Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
