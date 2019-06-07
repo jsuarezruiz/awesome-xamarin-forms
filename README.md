@@ -175,6 +175,7 @@ You can find other awesome lists related to Xamarin below:
 - [Vibrate](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
 - [Xamarin.Essentials](https://github.com/xamarin/Essentials): (**Official**) Essential cross platform APIs for your mobile apps.
+- [Xamarin.Android.Lite](https://github.com/jonathanpeppers/Xamarin.Android.Lite): Prototype/proof of concept of a "lite" Xamarin.Android that only supports Xamarin.Forms.
 - [Xamarinos.AdMob.FormsPlugin](https://github.com/LosXamarinos/Xamarinos.AdMob.FormsPlugin): AdMob Plugin for Xamarin.Forms.
 - [Xamarin.Cognitive.Speech](https://github.com/NateRickard/Xamarin.Cognitive.Speech): A client library that makes it easy to work with the Microsoft Cognitive Services Speech Services Speech to Text API on Xamarin.iOS, Xamarin.Android, UWP, and Xamarin.Forms/.NET Standard libraries used by those platforms.
 - [Xamarin.Plugin.Firebase.RemoteConfig](https://github.com/smarongiu/Xamarin.Plugin.Firebase.RemoteConfig): Xamarin Forms bindings for Firebase RemoteConfig.
