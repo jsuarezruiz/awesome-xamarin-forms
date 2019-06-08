@@ -211,6 +211,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms GTK Samples](https://github.com/jsuarezruiz/xamarin-forms-gtk-samples): You will find GTK (Linux) versions of official Xamarin.Forms samples here. 
 - [Xamarin.Forms Tizen Samples](https://github.com/Samsung/xamarin-forms-samples): This is a fork of Xamarin.Forms samples repository. You will find Tizen versions of original sample apps here. 
 - [Xamarin.Forms WPF Samples](https://github.com/jsuarezruiz/xamarin-forms-wpf-samples): You will find WPF versions of official Xamarin.Forms samples here. 
+- [Xamarin.Forms.UWPShell.Sample](https://github.com/dotMorten/Xamarin.Forms.UWPShell.Sample): Sample app for testing forms UWP shell implementation (make sure you get submodule).
 
 ## Serialization
 
