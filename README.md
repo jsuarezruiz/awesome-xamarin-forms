@@ -366,6 +366,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFSegmentedControl](https://github.com/UdaraAlwis/XFSegmentedControl): A Segmented Button Control in pure Xamarin.Forms.
 - [XFSelectableLabel](https://github.com/HeikkiDev/XFSelectableLabel): Xamarin.Forms Selectable Label using ViewRenderer.
 - [XamarinFormsBulletListControl](https://github.com/AuriR/XamarinFormsBulletListControl): Bullet List Control for Xamarin.Forms.
+- [XF.TextIcon](https://github.com/JimmyPun610/XF.TextIcon): Xamarin.Forms Library for Icon font.
 - [Xamarin.Forms.BackgroundKit](https://github.com/ChasakisD/Xamarin.Forms.BackgroundKit): A powerful Kit for customizing the background of Xamarin.Forms views (📐 Corner Radius | 🎨 Background Gradients | 🍩 Borders | 🌈 Border Gradients | 🙏 Shadows).
 - [Xamarin.Forms.EasyLoading](https://github.com/sthewissen/Xamarin.Forms.EasyLoading): A collection of attached properties that let you specify a loading state view for any of your existing layouts.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
