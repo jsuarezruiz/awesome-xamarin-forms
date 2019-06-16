@@ -328,6 +328,7 @@ You can find other awesome lists related to Xamarin below:
 - [ShapeControl.Forms](https://github.com/stormlion227/ShapeControl.Forms): Xamarin.Forms Library that allows you to draw shapes such as circle, roundrect, oval and so on.
 - [Sharpnado.Presentation.Forms](https://github.com/roubachof/Sharpnado.Presentation.Forms): Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).
 - [Signature Pad](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
+- [SimpleXarts](https://github.com/manuelmeisen/SimpleXarts): Live update Xamarin.Forms charts. Customizable, bindable, easy to use.
 - [SkiaRate](https://github.com/clovisnicolas/SkiaRate): This library is using SkiaSharp to display a customisable RatingView.
 - [SkiaSharp.DiagramEngine](https://github.com/kevinbrunet/SkiaSharp.DiagramEngine): Using SkiaSharp with Xaml,Bindings and DataTemplates.
 - [SkiaSharp.Elements](https://github.com/FelipeNicoletto/SkiaSharp.Elements): Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
