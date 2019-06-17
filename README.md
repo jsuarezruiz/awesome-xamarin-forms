@@ -374,6 +374,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms-Calendar](https://github.com/NeilMalcolm/Xamarin.Forms-Calendar): Xamarin.Forms Calendar.
 - [XamarinForms.CancelableModal](https://github.com/DamianAntonowicz/XamarinForms.CancelableModal): Close button for Xamarin.Forms modal page 
 - [Xamarin.Forms-Coordinator-Workaround](https://github.com/ChasakisD/Xamarin.Forms-Coordinator-Workaround): A Xamarin.Forms (Android Only) Implementation of CoordinatorLayout with CollapsingToolbar.
+- [Xamarin.Forms.CustomControls](https://github.com/ravisinghunnao/Xamarin.Forms.CustomControls): Custom controls for Xamarin.Forms for rapid and pleasing development (Stepper, ImageButton, Window, Wizard, CollapsibleExpander, GradientView, Popup, Calendar, Dropdown, etc).
 - [XamForms.Controls.Calendar](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [XMedia](https://github.com/DevsDNA/XMedia): A Xamarin Forms selector multiple images.
 - [Xamarin.Forms.GoogleMaps.Clustering](https://github.com/mierzynskim/Xamarin.Forms.GoogleMaps.Clustering): A map library that brings support for clustering for Xamarin.Forms.GoogleMaps.
