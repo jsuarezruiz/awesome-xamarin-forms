@@ -323,6 +323,7 @@ You can find other awesome lists related to Xamarin below:
 - [PlacesSearchBar](https://github.com/ajsmithsw/PlacesSearchBar): An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.
 - [Prototype.Forms.Controls](https://github.com/rhedgpeth/Prototype.Forms.Controls): This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets (ToggleButton, CheckBox, etc.).
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
+- [RainbowLoading.Forms](https://github.com/mariusmuntean/RainbowLoading.Forms): SkiaSharp implementation of the Android loading indicator, for Xamarin.Forms.
 - [RedCorners.Forms](https://github.com/saeedafshari/RedCorners.Forms): Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SegmentedCircleView](https://github.com/AndreiMisiukevich/SegmentedCircleView): SegmentedCircleView for Xamarin.Forms.
