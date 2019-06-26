@@ -292,6 +292,7 @@ You can find other awesome lists related to Xamarin below:
 - [FluentLayout](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
 - [Forms9Patch](https://github.com/baskren/Forms9Patch): Simplify image management and text formatting in your Xamarin.Forms apps.
+- [FormsRevealer](https://github.com/mariusmuntean/FormsRevealer): Xamarin.Forms control that can show child views with a reveal animation.
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [Global.InputForms](https://github.com/Phenek/Global.InputForms): Global.InputForms provides Xamarin.Forms Essentials controls for iOS and Android apps (CheckGroup, RadioGroup, etc.).
 - [GradientBoxView](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
