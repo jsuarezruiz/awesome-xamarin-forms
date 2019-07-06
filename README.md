@@ -260,7 +260,7 @@ You can find other awesome lists related to Xamarin below:
 
 - [AiForms.CollectionView](https://github.com/muak/AiForms.CollectionView): This is a flexible ListView that has a grid and horizontal layout with reusable cells for Xamarin.Forms (Android / iOS).
 - [AiForms.Dialogs](https://github.com/muak/AiForms.Dialogs): This is a collection of Custom Dialogs that can be defined with XAML for Xamarin.Forms (Android / iOS).
-- [AiForms.Renderers](https://github.com/muak/AiForms.Renderers): This is a flexible Xamarin.Forms TableView specialized in settings for Android / iOS.
+- [AiForms.Settings](https://github.com/muak/AiForms.Settings): This is a flexible Xamarin.Forms TableView specialized in settings for Android / iOS.
 - [ACR User Dialogs](https://github.com/aritchie/userdialogs): A cross platform library that allows you to call for standard user dialogs from a shared/portable library.
 - [AutoSuggestBox](https://github.com/dotMorten/XamarinFormsControls/tree/master/AutoSuggestBox): Represents a text control that makes suggestions to users as they type.
 - [BottomTabbedPage](https://github.com/NAXAM/bottomtabbedpage-xamarin-forms): A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android.
