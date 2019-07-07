@@ -292,6 +292,7 @@ You can find other awesome lists related to Xamarin below:
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [FluentLayout](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
+- [Forms-BottomSheet](https://github.com/rlingineni/Forms-BottomSheet): A bottom sheet control for Xamarin.Forms.
 - [Forms9Patch](https://github.com/baskren/Forms9Patch): Simplify image management and text formatting in your Xamarin.Forms apps.
 - [FormsRevealer](https://github.com/mariusmuntean/FormsRevealer): Xamarin.Forms control that can show child views with a reveal animation.
 - [glidex.forms](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
