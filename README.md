@@ -318,6 +318,7 @@ You can find other awesome lists related to Xamarin below:
 - [MultiGestureView](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
 - [MultipleToggleSwitch](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toggle Switch control for Xamarin.Forms.
 - [NControl](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
+- [Notchy.FormsPreviewer](https://github.com/lachlanwgordon/Notchy.FormsPreviewer): Extend the Xamarin Forms Previewers with notches, curved corners and toolbars to help you make the right UI decisions at design time. 
 - [Oxard.XControls](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [ParallaxScroll](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
