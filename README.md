@@ -189,6 +189,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Reactive.Location](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
 - [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 - [Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts): Read Contacts Data on iOS and Android.
+- [Xamarin.KeyboardHelper](https://github.com/masonyc/Xamarin.KeyboardHelper): Allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms.
 - [Xamarin.Forms.Segues](https://github.com/chkn/Xamarin.Forms.Segues): A library that provides support for segues between Pages.
 - [Xamarin.Forms.GraphQL](https://github.com/xamarin/Xamarin.Forms.GraphQL): {GraphQL} bindings allow binding from XAML directly to a GraphQL data source.
 - [Xamarin.Cognitive.BingSpeech](https://github.com/NateRickard/Xamarin.Cognitive.BingSpeech): Is a managed client library that makes it easy to work with the Microsoft Cognitive Services Bing Speech API on Xamarin.iOS, Xamarin.Android, Xamarin.Forms, UWP, and other .NET Standard 2.0 projects.
