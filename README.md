@@ -311,6 +311,7 @@ You can find other awesome lists related to Xamarin below:
 - [LibVLCSharp.Forms.MediaPlayerElement](https://github.com/kakone/LibVLCSharp.Forms.MediaPlayerElement): VLC MediaPlayerElement for Xamarin.Forms.
 - [ListViewWithSubListView](https://github.com/ishrakland/ListViewWithSubListView): Xamarin.Forms Expandable ListView With Sub-ListView MVVM Pattern.
 - [MarkdownView](https://github.com/aloisdeniel/MarkdownView): A native Xamarin.Forms Markdown renderer.
+- [MarkdownView](https://github.com/dotnet-ad/MarkdownView): Native markdown rendering on top of Xamarin.Forms & Markdig. 
 - [MarkdownTextView](https://github.com/SuavePirate/MarkdownTextView): A Xamarin.Forms component to display markdown text in a TextView.
 - [mapbox-xamarin-forms](https://github.com/NAXAM/mapbox-xamarin-forms): This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.
 - [Messier16 Forms.Controls](https://github.com/messier16/Forms.Controls): Messier16 Xamarin.Forms controls (Checkbox, RatingBar, SegmentedControl).
