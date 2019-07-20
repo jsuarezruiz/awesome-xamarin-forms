@@ -336,6 +336,7 @@ You can find other awesome lists related to Xamarin below:
 - [SegmentedCircleView](https://github.com/AndreiMisiukevich/SegmentedCircleView): SegmentedCircleView for Xamarin.Forms.
 - [ShapeControl.Forms](https://github.com/stormlion227/ShapeControl.Forms): Xamarin.Forms Library that allows you to draw shapes such as circle, roundrect, oval and so on.
 - [Sharpnado.Presentation.Forms](https://github.com/roubachof/Sharpnado.Presentation.Forms): Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).
+- [Segments](https://github.com/hnabbasi/Segments): SegmentsView for Xamarin.Forms.
 - [Signature Pad](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
 - [SimpleImageButton](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
 - [SimpleXarts](https://github.com/manuelmeisen/SimpleXarts): Live update Xamarin.Forms charts. Customizable, bindable, easy to use.
