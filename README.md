@@ -376,6 +376,7 @@ You can find other awesome lists related to Xamarin below:
 - [XF-GradientButton](https://github.com/jesulink2514/XF-GradientButton): Gradient button for Xamarin.Forms built with high performance cross-platform drawing library NGraphics.
 - [XFExpandableListView](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
 - [XFFlipViewControl](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
+- [XF.Service.FloatingView](https://github.com/contissi/XF.Service.FloatingView): Xamarin Forms demo application highlighting the ability to draw over other running applications. 
 - [XF-Material-Library](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XFRepeaterView](https://github.com/tsjdev-apps/XFRepeaterView): Simple RepeaterView control for Xamarin.Forms.
