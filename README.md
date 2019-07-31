@@ -273,6 +273,7 @@ You can find other awesome lists related to Xamarin below:
 - [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icons for your Xamarin.Forms applications.
 - [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 - [CardsView](https://github.com/AndreiMisiukevich/CardView): CardsView & CarouselView for Xamarin.Forms.
+- [Chameleon](https://github.com/BaseflowIT/Chameleon): Chameleon is a flexible media player build with Xamarin.Forms.
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [ColorPicker](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for selecting a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
 - [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides an opportunity to create a custom context menu for every cell.
