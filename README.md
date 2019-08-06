@@ -287,6 +287,7 @@ You can find other awesome lists related to Xamarin below:
 - [ElegantTabs](https://github.com/muhaym/ElegantTabs): Adds some of nifty features that are missing in Xamarin Forms Tabbed Pages like Disabled Pages, Selected Icons, ability to use original Icon Colours.
 - [EmbeddedPicker](https://github.com/80cmdude/EmbeddedPicker): Embedded page picker control for Xamarin.forms for both Android and iOS.
 - [EnhancedEntry](https://github.com/LeoJHarris/EnhancedEntry): Enhanced Entry for Xamarin.forms projects that extends the current xamarin.forms Entry.
+- [Essential UI Kit](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms): Beautiful free XAML pages for Xamarin.Forms app.
 - [ExpandableListView](https://github.com/my-jabin/ExpandableListView-Xamarin): Expandable ListView in Xamarin.Forms.
 - [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView): This plugin provides an opportunity to create expandable views.
 - [FastGrid](https://github.com/Binwell/FastGrid): Component for Xamarin.Forms based on Android RecyclerView and iOS UICollectionView 
