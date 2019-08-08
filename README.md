@@ -159,6 +159,7 @@ You can find other awesome lists related to Xamarin below:
 - [Plugin.Glypher](https://github.com/thudugala/Plugin.Glypher): This plugin extends support for font-glyphs (font-icons) in Xamarin.Forms applications.
 - [Plugin.GuestureLock](https://github.com/devinZhou102/Plugin.GuestureLock): GuestureLock for Xamarin.Forms.
 - [Plugin.LocalNotification](https://github.com/tmt242001/Plugin.LocalNotification): The local notification plugin provides a way to show local notifications from Xamarin.Forms apps.
+- [Plugin.Pjsip](https://github.com/akleymenov/Plugin.Pjsip): Pjsip plugin for Xamarin.Forms.
 - [Plugin.XF.AppInstallHelper](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper): Xamarin.Forms helper for install application.
 - [Plugin.XFLogger](https://github.com/JimmyPun610/Plugin.XFLogger): Logging library for xamarin forms, work for iOS and Android.
 - [Plugin.XF.TouchID](https://github.com/JimmyPun610/Plugin.XF.TouchID): This is the library for Xamarin Form to use Biometric ID to do the local authentication.
