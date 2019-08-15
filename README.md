@@ -107,6 +107,7 @@ You can find other awesome lists related to Xamarin below:
 - [Sextant](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
 - [SupportXFLite](https://github.com/bulubuloa/SupportXFLite): A simple MVVM Framework for Xamarin Forms, it helps you to quick setup a new Xamarin Forms project.
 - [TinyMvvm](https://github.com/TinyStuff/TinyMvvm): TinyMvvm is a tiny MVVM library with focus on productivity.
+- [Xam.Zero](https://github.com/markjackmilian/Xam.Zero): Unobtrusive framework MVVM for Xamarin Forms.
 - [xamvvm](https://github.com/xamvvm/xamvvm): Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
 - [Xamarin University Infrastructure Library](https://github.com/xamarinhq/xamu-infrastructure): Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
 - [Xamarin.Forms.MVVMBase](https://github.com/TBertuzzi/Xamarin.Forms.MVVMBase): Simple MVVM framework for Xamarin.Forms projects.
