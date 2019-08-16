@@ -49,7 +49,8 @@ You can find other awesome lists related to Xamarin below:
 
 ## Converters
 
-- [Xamarin.Forms.ConvertersPack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack): Package with multiple converters for Xamarin.Forms 
+- [Plugin.XamarinForms.Converters](https://github.com/saimel/Plugin.XamarinForms.Converters): Cross platform library containing a bunch of XAML converters for Xamarin Forms.
+- [Xamarin.Forms.ConvertersPack](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack): Package with multiple converters for Xamarin.Forms.
 
 ## Crumbs
 
