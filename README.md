@@ -319,6 +319,7 @@ You can find other awesome lists related to Xamarin below:
 - [IS.XF.Toolkit](https://github.com/Infinite-Square/IS.Toolkit.XamarinForms): Customizable Expander and Picker controls for Xamarin.Forms.
 - [LibVLCSharp.Forms.MediaPlayerElement](https://github.com/kakone/LibVLCSharp.Forms.MediaPlayerElement): VLC MediaPlayerElement for Xamarin.Forms.
 - [ListViewWithSubListView](https://github.com/ishrakland/ListViewWithSubListView): Xamarin.Forms Expandable ListView With Sub-ListView MVVM Pattern.
+- [MaterialDesignControlsPlugin](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin): Material Design Controls Plugin for Xamarin.Forms.
 - [MarkdownView](https://github.com/aloisdeniel/MarkdownView): A native Xamarin.Forms Markdown renderer.
 - [MarkdownView](https://github.com/dotnet-ad/MarkdownView): Native markdown rendering on top of Xamarin.Forms & Markdig. 
 - [MarkdownTextView](https://github.com/SuavePirate/MarkdownTextView): A Xamarin.Forms component to display markdown text in a TextView.
