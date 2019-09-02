@@ -393,6 +393,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFSelectableLabel](https://github.com/HeikkiDev/XFSelectableLabel): Xamarin.Forms Selectable Label using ViewRenderer.
 - [XamarinFormsBulletListControl](https://github.com/AuriR/XamarinFormsBulletListControl): Bullet List Control for Xamarin.Forms.
 - [XF.TextIcon](https://github.com/JimmyPun610/XF.TextIcon): Xamarin.Forms Library for Icon font.
+- [XGraphics](https://github.com/bretjohnson/XGraphics): Cross platform UWP-inspired graphics primitives, for XAML and code.
 - [Xamarin.Forms.BackgroundKit](https://github.com/ChasakisD/Xamarin.Forms.BackgroundKit): A powerful Kit for customizing the background of Xamarin.Forms views (📐 Corner Radius | 🎨 Background Gradients | 🍩 Borders | 🌈 Border Gradients | 🙏 Shadows).
 - [Xamarin.Forms.Breadcrumb](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb): This is a breadcrumb navigation control that is complete automatic and uses the Navigation stack and page titles to generate the breadcrumbs. 
 - [Xamarin.Forms.EasyLoading](https://github.com/sthewissen/Xamarin.Forms.EasyLoading): A collection of attached properties that let you specify a loading state view for any of your existing layouts.
