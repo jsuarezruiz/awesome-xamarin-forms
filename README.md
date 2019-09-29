@@ -311,6 +311,7 @@ You can find other awesome lists related to Xamarin below:
 - [GridSplitter](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [htmllabel](https://github.com/edsnider/htmllabel): HTML Label for Xamarin.Forms.
 - [IconEntry](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
+- [ImageEditor-XamarinForms](https://github.com/osamaelhosany/ImageEditor-XamarinForms): ImageEditorControl - Draw - Add text - Move text - Change color - Rotate Image.
 - [Infinite Scrolling](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [InterfaceBuilder](https://github.com/perpetual-mobile/InterfaceBuilder): Simplifying Xamarin.Forms UI construction by using the builder pattern.
 - [ImageCircle](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
