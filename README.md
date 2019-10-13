@@ -287,6 +287,7 @@ You can find other awesome lists related to Xamarin below:
 - [CutView](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
 - [Custom.Gradient.Slider](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that has options to change height, corner radius and apply gradient background in the Minimum Track.
 - [DesktopTrayIcon](https://github.com/pingzing/DesktopTrayIcon): A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF. 
+- [DSoft.XamarinForms.Controls](https://github.com/newky2k/DSoft.XamarinForms.Controls): Controls library for Xamarin.Forms (ColorWheelView, GradientView, etc.).
 - [DynamicWrapLayout](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [EasyLayout.Forms](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programmatically in Xamarin.Forms.
 - [ElegantTabs](https://github.com/muhaym/ElegantTabs): Adds some of nifty features that are missing in Xamarin Forms Tabbed Pages like Disabled Pages, Selected Icons, ability to use original Icon Colours.
