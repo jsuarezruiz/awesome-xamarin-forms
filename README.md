@@ -280,6 +280,7 @@ You can find other awesome lists related to Xamarin below:
 - [CarouselView.FormsPlugin](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 - [CardsView](https://github.com/AndreiMisiukevich/CardView): CardsView & CarouselView for Xamarin.Forms.
 - [Chameleon](https://github.com/BaseflowIT/Chameleon): Chameleon is a flexible media player build with Xamarin.Forms.
+- [ChilliSource.Mobile.UI](https://github.com/BlueChilli/ChilliSource.Mobile.UI): UI framework for ChilliSource Mobile.
 - [CircularProgress](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [ColorPicker](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for selecting a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
 - [ContextViewCell](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides an opportunity to create a custom context menu for every cell.
@@ -358,6 +359,7 @@ You can find other awesome lists related to Xamarin below:
 - [Signature Pad](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
 - [SimpleImageButton](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
 - [SimpleXarts](https://github.com/manuelmeisen/SimpleXarts): Live update Xamarin.Forms charts. Customizable, bindable, easy to use.
+- [SkiaBar](https://github.com/MridulMalviya/SkiaBar): SKGLView used for showing progress in Xamarin.Forms.
 - [SkiaRate](https://github.com/clovisnicolas/SkiaRate): This library is using SkiaSharp to display a customisable RatingView.
 - [SkiaSharp.DiagramEngine](https://github.com/kevinbrunet/SkiaSharp.DiagramEngine): Using SkiaSharp with Xaml,Bindings and DataTemplates.
 - [SkiaSharp.Elements](https://github.com/FelipeNicoletto/SkiaSharp.Elements): Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
