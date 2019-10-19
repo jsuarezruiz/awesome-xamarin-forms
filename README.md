@@ -1,10 +1,11 @@
-# Awesome Xamarin.Forms
+# Awesome Xamarin.Forms [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 A curated list of **awesome** Xamarin.Forms libraries and resources.
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
 
-*Work in progress*. Contributions are always welcome! 
+*Work in progress*. [Contributions are always welcome!](CONTRIBUTING.md).
 
 You can find other awesome lists related to Xamarin below:
 - [Awesome-Elmish.XamarinForms](https://github.com/jimbobbennett/Awesome-Elmish.XamarinForms): A hand-curated list of awesome resources when using Elmish.XamarinForms.
