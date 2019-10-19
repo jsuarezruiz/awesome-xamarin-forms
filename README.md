@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-310-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-324-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
