@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-324-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-325-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -104,6 +104,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## MVVM
 
+- [Cocos.Xamarin.Forms](https://github.com/BartoszKopec/Cocos.Xamarin.Forms): Simple framework that provides base classes for View and ViewModel in MVVM architectural pattern.
 - [CodeMill.VMFirstNav](https://github.com/codemillmatt/codemill.vmfirstnav): A Xamarin.Forms ViewModel First Navigation Library.
 - [ExRin](https://exrin.net): A framework for enterprise scale apps.
 - [FreshMvvm](https://github.com/rid00z/FreshMvvm): It is a super light Mvvm Framework designed specifically for Xamarin.Forms
