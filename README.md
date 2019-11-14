@@ -110,6 +110,7 @@ You can find other awesome lists related to Xamarin below:
 - [FreshMvvm](https://github.com/rid00z/FreshMvvm): It is a super light Mvvm Framework designed specifically for Xamarin.Forms
 - [MVVMCross](https://github.com/MvvmCross/MvvmCross): Cross-platform mvvm mobile development framework.
 - [MVVMLight](http://www.mvvmlight.net): Cross-platform MVVM development framework.
+- [MvvmMicro](https://github.com/yariker/MvvmMicro): A clean and lightweight MVVM framework for WPF, UWP and Xamarin.Forms inspired my MVVM Light Toolkit.
 - [MvvmNano](https://github.com/aspnetde/MvvmNano): Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
@@ -311,6 +312,7 @@ You can find other awesome lists related to Xamarin below:
 - [flexlayout-xamarin-forms](https://github.com/NAXAM/flexlayout-xamarin-forms): Flex Layout for Xamarin.Forms.
 - [FlexButton](https://github.com/robinmanuelthiel/flexbutton): Button control for Xamarin.Forms with events for different states, color overlays and adjustable shapes and paddings. Supports iOS and Android.
 - [FlippingAndResizableUI](https://github.com/xamarinium/FlippingAndResizableUI): UI with a rotated view and expandable panel in Xamarin.Forms.
+- [FloatingLabels](https://github.com/tobias-oschmann/FloatingLabels): A collection of FloatingLabel-Controls for Xamarin.Forms.
 - [FlowListView](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [FluentLayout](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
