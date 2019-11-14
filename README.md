@@ -125,7 +125,8 @@ You can find other awesome lists related to Xamarin below:
 ## Elmish
 
 - [Fabulous](https://github.com/fsprojects/Fabulous): F# Functional App Development - Elmish for Xamarin.Forms https://fsprojects.github.io/Fabulous/
-
+- [Fun.LightForm](https://github.com/albertwoo/Fun.LightForm): This is a light form library for Fable and Xamarin Fabulous in elmish style.
+  
 ## Frameworks
 
 - [Clarity](https://github.com/ionoy/Clarity): Is an application framework for XAML based platforms.
