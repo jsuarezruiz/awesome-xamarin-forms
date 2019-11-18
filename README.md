@@ -397,6 +397,7 @@ You can find other awesome lists related to Xamarin below:
 - [TopTabbedPage](https://github.com/NAXAM/toptabbedpage-xamarin-forms): A Xamarin.Forms page based TabbedPage to show tabs at top on iOS.
 - [TwoWeekControl](https://github.com/mattmorgan6/TwoWeekControl): Xamarin forms calendar with only two weeks.
 - [Ultimate-Xamarin-Forms-KIT](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
+- [WalletView](https://github.com/raver99/WalletView): WalletView is a control built in completely in Xamarin Forms that enables building a UI similar to the Apple Wallet App. 
 - [WheelSpinner](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
 - [XamarinHosting](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
