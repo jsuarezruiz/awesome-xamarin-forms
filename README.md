@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-328-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-329-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -357,6 +357,7 @@ You can find other awesome lists related to Xamarin below:
 - [PhotoBrowser](https://github.com/stormlion227/PhotoBrowser.Forms): Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures.
 - [PlacesSearchBar](https://github.com/ajsmithsw/PlacesSearchBar): An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API.
 - [Plugin.XF.Backdrop](https://github.com/JimmyPun610/Plugin.XF.Backdrop): Xamarin.Forms Backdrop Control. 
+- [Plugin.XF.Controls](https://github.com/JimmyPun610/Plugin.XF.Controls): Xamarin Forms Controls and Effects, WebView, Entry, Editor.
 - [Prototype.Forms.Controls](https://github.com/rhedgpeth/Prototype.Forms.Controls): This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets (ToggleButton, CheckBox, etc.).
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [RainbowLoading.Forms](https://github.com/mariusmuntean/RainbowLoading.Forms): SkiaSharp implementation of the Android loading indicator, for Xamarin.Forms.
