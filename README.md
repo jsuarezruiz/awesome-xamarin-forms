@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-329-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-330-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -468,6 +468,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.VideoPlayer](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
+- [XamFormsSkiaEntry](https://github.com/michaelstonis/XamFormsSkiaEntry): Simple Entry for Xamarin.Forms using SkiaSharp.
 - [XFGauge](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 
 ## UI Testing
