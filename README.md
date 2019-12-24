@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-331-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-332-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -362,6 +362,7 @@ You can find other awesome lists related to Xamarin below:
 - [Plugin.XF.Controls](https://github.com/JimmyPun610/Plugin.XF.Controls): Xamarin Forms Controls and Effects, WebView, Entry, Editor.
 - [Prototype.Forms.Controls](https://github.com/rhedgpeth/Prototype.Forms.Controls): This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets (ToggleButton, CheckBox, etc.).
 - [PullToRefreshLayout](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
+- [RadialSlider](https://github.com/Nickjgniklu/RadialSlider): A Radial Slider For Xamarin.Forms.
 - [RainbowLoading.Forms](https://github.com/mariusmuntean/RainbowLoading.Forms): SkiaSharp implementation of the Android loading indicator, for Xamarin.Forms.
 - [RedCorners.Forms](https://github.com/saeedafshari/RedCorners.Forms): Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
 - [RedCorners.Forms.GoogleMaps](https://github.com/saeedafshari/RedCorners.Forms.GoogleMaps): Enhanced Google Maps for Xamarin.Forms; based on Xamarin.Forms.GoogleMaps.
