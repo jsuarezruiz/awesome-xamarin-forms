@@ -232,6 +232,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms WPF Samples](https://github.com/jsuarezruiz/xamarin-forms-wpf-samples): You will find WPF versions of official Xamarin.Forms samples here. 
 - [Xamarin.Forms.UWPShell.Sample](https://github.com/dotMorten/Xamarin.Forms.UWPShell.Sample): Sample app for testing forms UWP shell implementation (make sure you get submodule).
 - [xamarin-road-to-surface-duo](https://github.com/tscholze/xamarin-road-to-surface-duo): This ia a work in progress Xamarin.Forms Android project which is intended to feature most of the new features that makes the upcoming Microsoft Surface Duo phone unique. 
+- [XFShellAdvThemeing](https://github.com/UdaraAlwis/XFShellAdvThemeing): Stunning App themes with Xamarin Forms Shell!.
 
 ## Serialization
 
@@ -388,6 +389,7 @@ You can find other awesome lists related to Xamarin below:
 - [STabbedPage.Forms](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
 - [SupportWidgetXF](https://github.com/bulubuloa/SupportWidgetXF): Is an open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms (SupportAutoComplete, SupportResultList, SupportDropList, SupportEntry, SupportButton, SupportActionMenu, SupportBindableStackLayout, SupportFlowLayout, SupportSearchView, SupportShadowView, SupportGradientView, SupportMapView, SupportRadioButton, SupportCalendarView 
 ).
+- [SvgImageSource](https://github.com/muak/SvgImageSource): Custom ImageSource that will become able to show svg image for Xamarin.Forms.
 - [SwipeCards](https://github.com/robinmanuelthiel/swipecards): A Tinder control for Xamarin.Forms that supports iOS, Android and UWP.
 - [SwipeCardView](https://github.com/markolazic88/SwipeCardView): A lightweight MVVM friendly UI control that brings Tinder-style swipeable cards into Xamarin.Forms applications.
 - [Syncfusion Components](https://www.syncfusion.com/products/xamarin): Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
