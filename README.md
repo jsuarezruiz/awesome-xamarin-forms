@@ -419,6 +419,7 @@ You can find other awesome lists related to Xamarin below:
 - [XF.Service.FloatingView](https://github.com/contissi/XF.Service.FloatingView): Xamarin Forms demo application highlighting the ability to draw over other running applications. 
 - [XF-Material-Library](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
 - [XFParallax](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
+- [XFProgressBar](https://github.com/yurkinh/XFProgressBar): ProgressBar control for Xamarin.Forms with Skiasharp and Xamarin.ios Source code for article "Porting ios control to Xamarin.iOS and then to Xamarin.Forms (with SkiaSharp)" demo project.
 - [XFRepeaterView](https://github.com/tsjdev-apps/XFRepeaterView): Simple RepeaterView control for Xamarin.Forms.
 - [XFShimmerLayout](https://github.com/ChasakisD/XFShimmerLayout): Efficient way to add a shimmering effect to your Xamarin.Forms applications.
 - [XFSegmentedControl](https://github.com/UdaraAlwis/XFSegmentedControl): A Segmented Button Control in pure Xamarin.Forms.
