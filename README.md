@@ -269,6 +269,7 @@ You can find other awesome lists related to Xamarin below:
 - [NSwag](https://github.com/RSuter/NSwag): Swagger and code generation tool for C#. Easily integrate your own or 3rd party APIs into your app.
 - [How to set up Xamarin.Android on Linux](https://github.com/0xFireball/xamarin-android-linux): A guide to getting Xamarin.Android ready to use on your distro of choice (plus JetBrains Rider support)!
 - [Xamarin.Forms Android on Linux command line tools](https://github.com/igorkovalchuk/xamarin-forms-android-linux-tools): This is a similar experimental project and documentation to build Android applications on Linux, using the Xamarin.Android and IDE like the Visual Studio Code or MonoDevelop.
+- [xamarin-forms-android-linux-project-templates](https://github.com/igorkovalchuk/xamarin-forms-android-linux-project-templates): Xamarin.Forms Android templates for Linux-based build.
 - [XFDesigner](https://github.com/proinfocus/XFDesigner): Live XAML designing tool for Xamarin.Forms.
 - [vs-material-icons-generator](https://github.com/interisti/vs-material-icons-generator): Add Google's material icons easily with different sizes and colors.
 - [XDtoXF](https://github.com/kphillpotts/XDtoXF): Adobe XD Plugin to export assets to Xamarin.Forms XAML Styles and Resources.
