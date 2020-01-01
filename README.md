@@ -161,6 +161,7 @@ You can find other awesome lists related to Xamarin below:
 - [NavigationExtensions for Xamarin.Forms](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basically add storage of the navigation history when the application stops.
 - [LaunchDarkly Xamarin Client](https://github.com/launchdarkly/xamarin-client): LaunchDarkly SDK for Xamarin.
 - [LibVLCSharp](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+- [MagTek](https://github.com/peterfournier/MagTek): Xamarin.Forms, Xamarin.iOS, and Xamarin.Android support for MagTek card readers.
 - [MatchaBackgroundService](https://github.com/winstongubantes/MatchaBackgroundService): A plugin library to simplify Backgrounding in Xamarin.Forms.
 - [Media](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
 - [MediaManager](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
