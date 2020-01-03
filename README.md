@@ -412,6 +412,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinHosting](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
+- [Xam.Plugin.SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer): Just a nice and simple BottomDrawer for your Xamarin Forms project.
 - [XFGloss](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XF-GradientButton](https://github.com/jesulink2514/XF-GradientButton): Gradient button for Xamarin.Forms built with high performance cross-platform drawing library NGraphics.
 - [XFExpandableListView](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
