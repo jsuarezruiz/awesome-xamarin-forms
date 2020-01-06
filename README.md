@@ -13,7 +13,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 *Work in progress*. [Contributions are always welcome!](CONTRIBUTING.md).
 
 You can find other awesome lists related to Xamarin below:
-- [Awesome-Elmish.XamarinForms](https://github.com/jimbobbennett/Awesome-Elmish.XamarinForms): A hand-curated list of awesome resources when using Elmish.XamarinForms.
+- [Awesome-Elmish.XamarinForms](https://github.com/jimbobbennett/Awesome-Fabulous): A hand-curated list of awesome resources when using Elmish.XamarinForms.
 - [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin): A collection of interesting libraries/tools for Xamarin mobile projects.
 - [awesome-xamarin](https://github.com/MarcBruins/awesome-xamarin): A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more! 
 - [Xamarin.Bindings](https://github.com/aloisdeniel/Xamarin.Bindings): A list of existing Xamarin binding libraries. 
