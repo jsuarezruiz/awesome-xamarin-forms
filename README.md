@@ -356,6 +356,7 @@ You can find other awesome lists related to Xamarin below:
 - [NControl ★267](https://github.com/chrfalch/NControl): Is a Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls without the need for custom renderers.
 - [Nightingale](https://github.com/thekillingtomato/Nightingale): Basic charts for Xamarin.Forms  using SkiaSharp.
 - [Notchy.FormsPreviewer ★3](https://github.com/lachlanwgordon/Notchy.FormsPreviewer): Extend the Xamarin Forms Previewers with notches, curved corners and toolbars to help you make the right UI decisions at design time. 
+- [NotifyPage](https://github.com/francescofinotto/NotifyPage): Xamarin.Forms notify page, with pop up that slide from the bottom.
 - [Oxard.XControls ★4](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin ★46](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [ParallaxScroll ★40](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
