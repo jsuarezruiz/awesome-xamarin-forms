@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-333-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-334-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -300,6 +300,7 @@ You can find other awesome lists related to Xamarin below:
 - [ChilliSource.Mobile.UI ★8](https://github.com/BlueChilli/ChilliSource.Mobile.UI): UI framework for ChilliSource Mobile.
 - [CircularProgress ★34](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
 - [ColorPicker ★31](https://github.com/PetrVobornik/ColorPicker): Color picker for Xamarin.Forms. It can be used as a large color mixer control (ColorPickerMixer) or as a dialog for selecting a color (ColorPickerDialog) or as an entry editor (ColorPickerEntry) of hexadecimal value with preview of a color and option of launch a dialog with color mixer. 
+- [ColorPicker ★3](https://github.com/vpapenko/ColorPicker): Color pickers for Xamarin Forms.
 - [ContextViewCell ★225](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides an opportunity to create a custom context menu for every cell.
 - [ContextMenu ★225](https://github.com/AndreiMisiukevich/ContextMenu): ContextViewCell for Xamarin.Forms.
 - [CrossPlacePicker ★22](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
