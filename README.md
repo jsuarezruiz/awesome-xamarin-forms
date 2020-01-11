@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-334-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-335-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -254,6 +254,7 @@ You can find other awesome lists related to Xamarin below:
 - [clean-compress ★2](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Codexcite.Reloader ★4](https://github.com/vladhorby/Codexcite.Reloader): Lightweight library for "live reloading" XAML pages in Xamarin.Forms on Android, UWP and iOS.
 - [dpilove](http://dpi.lv): Easily find the DPI of any screen.
+- [Evans.XamlTemplates](https://github.com/chrisevans9629/Evans.XamlTemplates): This is a templating system that will allow you to create templates in Xamarin.Forms.
 - [Gorilla Player](http://gorillaplayer.com): Instant XAML Preview for Xamarin Forms.
 - [HotReload ★375](https://github.com/AndreiMisiukevich/HotReload): Xamarin.Forms XAML hot reload, live reload, live xaml.
 - [Infragistics AppMap](https://marketplace.visualstudio.com/items?itemName=Infragistics.InfragisticsAppMap): Visually map out and generate your Xamarin.Forms application. Code generation includes Pages (Views), ViewModels, and navigation code that follows best-practice Prism MVVM architecture.
