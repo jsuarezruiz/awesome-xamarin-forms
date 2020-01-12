@@ -5,7 +5,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-xamarin-forms?color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-xamarin-forms?color=green" />
-     <img alt="Entries" src="https://img.shields.io/badge/Items-335-lightgrey.svg" />
+     <img alt="Entries" src="https://img.shields.io/badge/Items-336-lightgrey.svg" />
 </p>
 
 <img src="images/skor.ui.png" Width="180" /> <img src="images/xamarin-range-slider.png" Width="180" /> <img src="images/swipecards.gif" Width="180" /> <img src="images/xamarin-forms-material-chips.png" Width="180" />
@@ -264,6 +264,7 @@ You can find other awesome lists related to Xamarin below:
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017): An extension bundle installer that will install each of the individual components of Productivity Power Tools (copy has HTML, fix tabs, etc.).
 - [RealXaml ★36](https://github.com/admaiorastudio/realxaml): Is a live viewer for Xamarin Forms. Edit your xaml and see your changes in realtime (live reload). It allows also to compile and deploy your app core assembly in real time (hot reload).
 - [scrcpy ★23888](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+- [SkiaSharpFiddle ★71](https://github.com/mattleibow/SkiaSharpFiddle): A SkiaSharp playground - just like https://fiddle.skia.org, but for your own machine!
 - [UI Sleuth](https://www.uisleuth.com/): Xamarin.Forms debugging tool.
 - [VSTouchbarTools ★2](https://github.com/rubit0/vstouchbartools): A simple extension that installs a XML definition for Parallels v13 to offer basic Touchbar support.
 - [vsmacdeepclean ★31](https://github.com/yuv4ik/vsmacdeepclean): Is a Visual Studio for macOS add-in / extension that let you easily clean projects, NuGet, Xamarin and VS cache without leaving the IDE.
