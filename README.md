@@ -277,6 +277,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFDesigner ★16](https://github.com/proinfocus/XFDesigner): Live XAML designing tool for Xamarin.Forms.
 - [vs-material-icons-generator ★33](https://github.com/interisti/vs-material-icons-generator): Add Google's material icons easily with different sizes and colors.
 - [XDtoXF ★42](https://github.com/kphillpotts/XDtoXF): Adobe XD Plugin to export assets to Xamarin.Forms XAML Styles and Resources.
+- [XF.Material.Themer](https://github.com/mjfreelancing/XF.Material.Themer): A Xamarin.Forms utility to help visualize a custom Android material theme.
 
 ## TV
 
