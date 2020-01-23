@@ -205,6 +205,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Plugin.Webview ★115](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
 - [Xam.Plugins.AutoUpdate ★5](https://github.com/angelinn/Xam.Plugins.AutoUpdate): Xamarin Forms plugin that auto updates your Android or UWP sideloaded application. 
 - [Xam.Reactive.Location ★7](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
+- [Xamarin.UserConsent ★2](https://github.com/adia-technology/Xamarin.UserConsent): Custom permission user consent SDK for Xamarin.Forms.
 - [ZXing.Net.Mobile ★736](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
 - [Xamarin.Forms.Contacts ★52](https://github.com/enisn/Xamarin.Forms.Contacts): Read Contacts Data on iOS and Android.
 - [Xamarin.KeyboardHelper ★51](https://github.com/masonyc/Xamarin.KeyboardHelper): Allows user to show/hide softkeyboard on Android/iOS platform in Xamarin.Forms.
