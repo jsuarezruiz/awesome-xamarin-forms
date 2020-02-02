@@ -310,6 +310,7 @@ You can find other awesome lists related to Xamarin below:
 - [CrossPlacePicker ★22](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [CutView ★7](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
 - [Custom.Gradient.Slider](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that has options to change height, corner radius and apply gradient background in the Minimum Track.
+- [customtabview-xforms](https://github.com/NAXAM/customtabview-xforms): Overlay bottom tab bar with a custom view in Xamarin.Forms.
 - [DataGridSam ★5](https://github.com/scriptBoris/DataGridSam): Simple and fast DataGrid element for Xamarin.Forms.
 - [DesktopTrayIcon ★2](https://github.com/pingzing/DesktopTrayIcon): A Xamarin Forms plugin for adding tray icon functionality to Xamarin.Mac and Xamarin.WPF. 
 - [DSoft.XamarinForms.Controls ★1](https://github.com/newky2k/DSoft.XamarinForms.Controls): Controls library for Xamarin.Forms (ColorWheelView, GradientView, etc.).
