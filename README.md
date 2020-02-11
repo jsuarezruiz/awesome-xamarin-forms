@@ -497,6 +497,8 @@ You can find other awesome lists related to Xamarin below:
 
 - [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/intro-to-uitest/): An Automated UI Acceptance Testing framework that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps.
 - [Xamarin Test Recorder](https://www.xamarin.com/test-cloud/recorder): This tool makes it easy to record automated tests for your app.
+- [Xamarin.UITest.POP](https://github.com/xamarin-automation-service/uitest-pop-example): This project demonstrates the page object pattern (POP) that they use internally at Xamarin.
+- [Xamarin UITest SpecFlow](https://github.com/xamarin-automation-service/uitest-specflow-example): This project demonstrates how to use SpecFlow with Xamarin.UITest (including the Page Object Pattern). SpecFlow is a pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
 ## Wearables
 
