@@ -179,6 +179,7 @@ You can find other awesome lists related to Xamarin below:
 - [Plugin.XF.AppInstallHelper ★8](https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper): Xamarin.Forms helper for install application.
 - [Plugin.XFLogger](https://github.com/JimmyPun610/Plugin.XFLogger): Logging library for xamarin forms, work for iOS and Android.
 - [Plugin.XF.TouchID ★2](https://github.com/JimmyPun610/Plugin.XF.TouchID): This is the library for Xamarin Form to use Biometric ID to do the local authentication.
+- [rms-mobile-xdk-xamarin-forms](https://github.com/RazerMS/rms-mobile-xdk-xamarin-forms): Razer Merchant Services mobile payment for Xamarin.Forms.
 - [Screenshot ★19](https://github.com/wilsonvargas/ScreenshotPlugin): Get and save screenshots in your apps for Xamarin and Windows.
 - [Settings ★305](https://github.com/jamesmontemagno/SettingsPlugin): Fully cross platform settings for your application.
 - [Share ★128](https://github.com/jguertl/SharePlugin): Easily share text or open a browser.
