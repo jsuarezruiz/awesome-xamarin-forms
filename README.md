@@ -429,6 +429,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFExpandableListView ★48](https://github.com/ChasakisD/XFExpandableListView): A Xamarin.Forms Expandable ListView Control 
 - [XFFlipViewControl ★35](https://github.com/UdaraAlwis/XFFlipViewControl): An animated Flippable View with Xamarin.Forms.
 - [XF.HeaderShell ★16](https://github.com/pabloprogramador/XF.HeaderShell): Fantastic Header Shell, Xamarin Forms.
+- [Xamarin.RisePlugin.AutoCompleteTextView ★5](https://github.com/cemozguraA/Xamarin.RisePlugin.AutoCompleteTextView): Xamarin.Forms AutoCompleteTextView.
 - [xf.shape ★1](https://github.com/utmdev/xf.shape): You can use this component in case you want to create a component with a specific rounded corner. By default Xamarin.Forms offers Frame component which can have rounded corners but you can't customize specific corner. Also Shape component supports linear gradient.
 - [XF.Service.FloatingView ★2](https://github.com/contissi/XF.Service.FloatingView): Xamarin Forms demo application highlighting the ability to draw over other running applications. 
 - [XF-Material-Library ★337](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
