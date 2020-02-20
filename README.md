@@ -203,6 +203,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Plugin.AudioPlayer ★2](https://github.com/Inrego/Xam.Plugin.AudioPlayer): Plugin for Xamarin.Forms to play audio in background from stream.
 - [Xam.Plugins.OnDeviceCustomVision ★43](https://github.com/jimbobbennett/Xam.Plugins.OnDeviceCustomVision): Plugin to allow custom vision models to be used from mobile devices.
 - [XamCal ★7](https://github.com/ahoefling/XamCal): A Xamarin.Forms Calendar Plugin.
+- [Xamlly ★1](https://github.com/mshwf/Xamlly): Xamlly is a controls library for Xamarin.Forms, written entirely in XAML (ProgressBar, Switch, ToggleButton, etc.).
 - [Xam.Plugin.Webview ★118](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
 - [Xam.Plugins.AutoUpdate ★6](https://github.com/angelinn/Xam.Plugins.AutoUpdate): Xamarin Forms plugin that auto updates your Android or UWP sideloaded application. 
 - [Xam.Reactive.Location ★7](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
