@@ -468,6 +468,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.RangeSlider ★77](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin-Forms-Custom-Activity-Indicator ★12](https://github.com/LeslieCorrea/Xamarin-Forms-Custom-Activity-Indicator): Xamarin Forms Custom Activity Indicator using GIF image. 
 - [Xamarin.CustomControls.AutoCompleteView ★88](https://github.com/DottorPagliaccius/Xamarin-Custom-Controls/tree/master/src/Xamarin.CustomControls.AutoCompleteView): AutoCompleteView for Xamarin Forms.
+- [XamarinFormsBottomSheet](https://github.com/jakelli/XamarinFormsBottomSheet): Customizable cross platform bottom sheet.
 - [XamarinFormsCustomSlider ★6](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
 - [Xamarin Forms Extended Controls ★174](https://github.com/XamFormsExtended/Xfx.Controls): These controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 - [XamarinFormsFloatingTabs ★13](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
