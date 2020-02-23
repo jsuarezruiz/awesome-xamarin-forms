@@ -121,6 +121,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Zero ★2](https://github.com/markjackmilian/Xam.Zero): Unobtrusive framework MVVM for Xamarin Forms.
 - [xamvvm ★118](https://github.com/xamvvm/xamvvm): Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible.
 - [Xamarin University Infrastructure Library ★141](https://github.com/xamarinhq/xamu-infrastructure): Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
+- [Xamarin.Forms-CleanArchitecture ★3](https://github.com/ChasakisD/Xamarin.Forms-CleanArchitecture): A Xamarin.Forms boilerplate project presenting Clean Architecture using Rx.NET and MVVM.
 - [Xamarin.Forms.MVVMBase ★6](https://github.com/TBertuzzi/Xamarin.Forms.MVVMBase): Simple MVVM framework for Xamarin.Forms projects.
 
 ## Elmish
