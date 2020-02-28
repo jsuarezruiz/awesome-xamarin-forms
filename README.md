@@ -495,6 +495,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Plugin.SimpleAppIntro ★76](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker ★2](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
 - [XamFormsSkiaEntry ★3](https://github.com/michaelstonis/XamFormsSkiaEntry): Simple Entry for Xamarin.Forms using SkiaSharp.
+- [XFColorPickerControl ★1](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
 - [XFGauge ★4](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
 
