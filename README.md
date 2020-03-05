@@ -171,6 +171,7 @@ You can find other awesome lists related to Xamarin below:
 - [NoFrillsDataGrid ★2](https://github.com/davepruitt/NoFrillsDataGrid): This is a no-frills data grid control for Xamarin Forms. It uses SkiaSharp as the means to create and draw the data grid itself.
 - [OpenTok-Xamarin.Forms ★36](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms): OpenTok for Xamarin.Forms.
 - [PayPal ★74](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
+- [PerformanceLoggerXamarin ★1](https://github.com/PawKanarek/PerformanceLoggerXamairn): Light & Fast logger provider with simple performance measurements for Xamarin.Forms apps with additional extension for Visual Studio.
 - [Permissions ★250](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
 - [PaystackInline.Forms.Plugin ★2](https://github.com/Akinnagbe/PaystackInline.Forms.Plugin): Paystack Inline Payment Plugin for Xamarin Forms.
 - [Plugin.Glypher ★12](https://github.com/thudugala/Plugin.Glypher): This plugin extends support for font-glyphs (font-icons) in Xamarin.Forms applications.
