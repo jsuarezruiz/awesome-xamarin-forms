@@ -476,6 +476,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinFormsFloatingTabs ★13](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
 - [XamarinFormsGesture ★64](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
 - [Xamarin.Forms.InputKit ★275](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
+- [Xamarin.Forms.Nuke ★4](https://github.com/roubachof/Xamarin.Forms.Nuke): The famous iOS Nuke native image caching library for Xamarin.Forms.
 - [Xamarin.Forms.MaskedEntry ★10](https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry): Use mask in your Xamarin.Forms apps.
 - [xamarin-forms-material-chips ★2](https://github.com/yudiz-dotnet/xamarin-forms-material-chips): Useful to create material-chips design in xamarin forms with MVVM architecture. 
 - [Xamarin.Forms.OfficeUIFabric ★2](https://github.com/ravinderjangra/Xamarin.Forms.OfficeUIFabric): Office UI Fabric Android, iOS wrapper and Visual for Xamarin.Forms.
