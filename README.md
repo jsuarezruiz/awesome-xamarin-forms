@@ -467,6 +467,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.MultiSelectListView ★42](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
 - [XamarinFormsPersianCalendar](https://github.com/badrnezhad/XamarinFormsPersianCalendar): Xamarin Forms Persian Calendar.
 - [Xamarin.Forms.PolygonFrame ★9](https://github.com/shanranm/Xamarin.Forms.PolygonFrame): Regular Polygonal Frame for Xamarin Forms with rounded corners and shadows.
+- [Xamarin.Forms.PropertyAnimation ★1](https://github.com/ravisinghunnao/Xamarin.forms.PropertyAnimation): This is an animation library for xamarin forms controls. We can animate any property with supported type.
 - [Xam.Plugin.PopupMenu ★44](https://github.com/SKLn-Rad/Xam.Plugin.PopupMenu): A simple popup menu for Xamarin Forms. 
 - [Xamarin.RangeSlider ★77](https://github.com/halkar/xamarin-range-slider): Pick ranges in  Xamarin.Forms.
 - [Xamarin-Forms-Custom-Activity-Indicator ★12](https://github.com/LeslieCorrea/Xamarin-Forms-Custom-Activity-Indicator): Xamarin Forms Custom Activity Indicator using GIF image. 
