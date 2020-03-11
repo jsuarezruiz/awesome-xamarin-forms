@@ -296,6 +296,7 @@ You can find other awesome lists related to Xamarin below:
 - [ACR User Dialogs ★683](https://github.com/aritchie/userdialogs): A cross platform library that allows you to call for standard user dialogs from a shared/portable library.
 - [AutoHeightListView ★3](https://github.com/GioeleVuaran/AutoHeightListView): Xamarin.Forms implementation of an auto-height ListView.
 - [AutoSuggestBox ★94](https://github.com/dotMorten/XamarinFormsControls/tree/master/AutoSuggestBox): Represents a text control that makes suggestions to users as they type.
+- [AwaitablePopups ★5](https://github.com/LuckyDucko/AwaitablePopups): Customisable Popups for Xamarin Forms.
 - [BottomTabbedPage ★86](https://github.com/NAXAM/bottomtabbedpage-xamarin-forms): A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android.
 - [BadgeView ★71](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
 - [BeforeAndAfter ★21](https://github.com/mariusmuntean/BeforeAndAfter): Xamarin.Forms custom control showing a before-and-after view.
