@@ -477,6 +477,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin Forms Extended Controls ★174](https://github.com/XamFormsExtended/Xfx.Controls): These controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
 - [XamarinFormsFloatingTabs ★13](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
 - [XamarinFormsGesture ★64](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
+- [Xamarin.Forms.Breadcrumb](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb): An automatic control to create a breadcrumb navigation.
 - [Xamarin.Forms.InputKit ★275](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [Xamarin.Forms.Nuke ★4](https://github.com/roubachof/Xamarin.Forms.Nuke): The famous iOS Nuke native image caching library for Xamarin.Forms.
 - [Xamarin.Forms.MaskedEntry ★10](https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry): Use mask in your Xamarin.Forms apps.
