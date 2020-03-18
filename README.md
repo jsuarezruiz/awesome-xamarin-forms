@@ -498,7 +498,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.StepProgressBar ★12](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
 - [Xamarin.Forms.VideoPlayer ★127](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xam.Plugin.SimpleAppIntro ★76](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
-- [Xam.Plugin.SimpleStaticMap ★0](https://github.com/galadril/Xam.Plugin.SimpleStaticMap): Just a nice and simple static map component that uses the Statis Maps api from Google for your Xamarin Forms project.
+- [Xam.Plugin.SimpleStaticMap ★0](https://github.com/galadril/Xam.Plugin.SimpleStaticMap): Just a nice and simple static map component that uses the Static Maps api from Google for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker ★2](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
 - [XamFormsSkiaEntry ★3](https://github.com/michaelstonis/XamFormsSkiaEntry): Simple Entry for Xamarin.Forms using SkiaSharp.
 - [XFColorPickerControl ★1](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
