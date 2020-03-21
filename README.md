@@ -449,6 +449,7 @@ You can find other awesome lists related to Xamarin below:
 - [XF.TextIcon](https://github.com/JimmyPun610/XF.TextIcon): Xamarin.Forms Library for Icon font.
 - [XGraphics ★48](https://github.com/bretjohnson/XGraphics): Cross platform UWP-inspired graphics primitives, for XAML and code.
 - [Xamarin.Forms.BackgroundKit ★114](https://github.com/ChasakisD/Xamarin.Forms.BackgroundKit): A powerful Kit for customizing the background of Xamarin.Forms views (📐 Corner Radius | 🎨 Background Gradients | 🍩 Borders | 🌈 Border Gradients | 🙏 Shadows).
+- [Xamarin.Forms.BackgroundVideoView ★1](https://github.com/arqueror/Xamarin.Forms.BackgroundVideoView): A simple view for displaying background video in Xamarin.Forms (iOS and Android).
 - [Xamarin.Forms.Breadcrumb ★32](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb): This is a breadcrumb navigation control that is complete automatic and uses the Navigation stack and page titles to generate the breadcrumbs. 
 - [Xamarin.Forms.EasyLoading ★126](https://github.com/sthewissen/Xamarin.Forms.EasyLoading): A collection of attached properties that let you specify a loading state view for any of your existing layouts.
 - [Xamarin.Forms.EntryAutoComplete ★26](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
