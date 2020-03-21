@@ -208,6 +208,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamlly ★1](https://github.com/mshwf/Xamlly): Xamlly is a controls library for Xamarin.Forms, written entirely in XAML (ProgressBar, Switch, ToggleButton, etc.).
 - [Xam.Plugin.Webview ★118](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
 - [Xam.Plugins.AutoUpdate ★6](https://github.com/angelinn/Xam.Plugins.AutoUpdate): Xamarin Forms plugin that auto updates your Android or UWP sideloaded application. 
+- [Xam.Plugin.Once ★0](https://github.com/galadril/Xam.Plugin.Once):  A simple Xamarin Forms library to manage one-off operations. 
 - [Xam.Reactive.Location ★7](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
 - [Xamarin.UserConsent ★3](https://github.com/adia-technology/Xamarin.UserConsent): Custom permission user consent SDK for Xamarin.Forms.
 - [ZXing.Net.Mobile ★743](https://github.com/Redth/ZXing.Net.Mobile):  The goal of ZXing.Net.Mobile is to make scanning barcodes as effortless and painless as possible in your own applications.
