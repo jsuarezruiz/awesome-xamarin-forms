@@ -203,6 +203,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Cognitive.Speech ★33](https://github.com/NateRickard/Xamarin.Cognitive.Speech): A client library that makes it easy to work with the Microsoft Cognitive Services Speech Services Speech to Text API on Xamarin.iOS, Xamarin.Android, UWP, and Xamarin.Forms/.NET Standard libraries used by those platforms.
 - [Xamarin.Plugin.Firebase.RemoteConfig ★4](https://github.com/smarongiu/Xamarin.Plugin.Firebase.RemoteConfig): Xamarin Forms bindings for Firebase RemoteConfig.
 - [Xam.Plugin.AudioPlayer ★2](https://github.com/Inrego/Xam.Plugin.AudioPlayer): Plugin for Xamarin.Forms to play audio in background from stream.
+- [Xam.Plugin.Once ★1](https://github.com/galadril/Xam.Plugin.Once): A simple Xamarin Forms library to manage one-off operations. 
 - [Xam.Plugins.OnDeviceCustomVision ★43](https://github.com/jimbobbennett/Xam.Plugins.OnDeviceCustomVision): Plugin to allow custom vision models to be used from mobile devices.
 - [XamCal ★7](https://github.com/ahoefling/XamCal): A Xamarin.Forms Calendar Plugin.
 - [Xamlly ★1](https://github.com/mshwf/Xamlly): Xamlly is a controls library for Xamarin.Forms, written entirely in XAML (ProgressBar, Switch, ToggleButton, etc.).
