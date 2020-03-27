@@ -397,6 +397,7 @@ You can find other awesome lists related to Xamarin below:
 - [SimpleImageButton ★1](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
 - [SimpleXarts ★4](https://github.com/manuelmeisen/SimpleXarts): Live update Xamarin.Forms charts. Customizable, bindable, easy to use.
 - [SkiaBar](https://github.com/MridulMalviya/SkiaBar): SKGLView used for showing progress in Xamarin.Forms.
+- [skia-chart ★1](https://github.com/NdubuisiJr/skia-chart): A simple xamarin.Forms chart library, built on top of the skiasharp.views.forms library.
 - [SkiaRate ★34](https://github.com/clovisnicolas/SkiaRate): This library is using SkiaSharp to display a customisable RatingView.
 - [SkiaSharp.DiagramEngine ★6](https://github.com/kevinbrunet/SkiaSharp.DiagramEngine): Using SkiaSharp with Xaml,Bindings and DataTemplates.
 - [SkiaSharp.Elements ★29](https://github.com/FelipeNicoletto/SkiaSharp.Elements): Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
