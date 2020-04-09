@@ -194,6 +194,7 @@ You can find other awesome lists related to Xamarin below:
 - [TinyPubSub ★13](https://github.com/johankson/TinyPubSub): Worlds smallest pub/sub thingy created mostly for Xamarin Forms.
 - [Toasts.Forms.Plugin ★250](https://github.com/EgorBo/Toasts.Forms.Plugin): A simple way of showing notifications inside your Xamarin or Windows application.
 - [TouchEffect ★116](https://github.com/AndreiMisiukevich/TouchEffect): This plugin provides an opportunity to create views with touch effects without using any gestureRecognizers.
+- [tSecret](https://github.com/mtonosaki/tSecret): Private Password Manager developped with Xamarin.Forms(C#) for iOS, Android and UWP projects. This manager can syncronize secret data to Azure Blob Storage.
 - [Version Tracking ★62](https://github.com/colbylwilliams/VersionTrackingPlugin): Track which versions of your Xamarin.iOS, Xamarin.Mac, Xamarin.Android, or Windows app a user has previously installed. 
 - [Vibrate ★43](https://github.com/jamesmontemagno/VibratePlugin): Make that device rumble!.
 - [WhenTheAppWasBuilt ★6](https://github.com/DevsDNA/WhenTheAppWasBuilt): Strongly shake your device and we'll show you when the app was built.
