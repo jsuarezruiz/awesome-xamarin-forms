@@ -314,6 +314,7 @@ You can find other awesome lists related to Xamarin below:
 - [ColorPicker ★4](https://github.com/vpapenko/ColorPicker): Color pickers for Xamarin Forms.
 - [ContextViewCell ★238](https://github.com/AndreiMisiukevich/ContextMenu): This plugin provides an opportunity to create a custom context menu for every cell.
 - [ContextMenu ★238](https://github.com/AndreiMisiukevich/ContextMenu): ContextViewCell for Xamarin.Forms.
+- [CoordinatorLayout.XamarinForms](https://github.com/mariusmuntean/CoordinatorLayout.Forms): A custom control for Xamarin.Forms, that shows an expanding top view and a scrollable bottom view. It is a reproduction of Android's CoordinatorLayout.
 - [CrossPlacePicker ★22](https://github.com/muhaym/CrossPlacePicker): Simple cross platform plugin to pick place using google maps with the help of Cross Platform API.
 - [CutView ★7](https://github.com/Herocod3r/CutView): A diagonal view for xamarin forms based on NControl.
 - [Custom.Gradient.Slider ★1](https://github.com/jeromemanzano/Custom.Gradient.Slider): A custom Xamarin.Forms.Slider that has options to change height, corner radius and apply gradient background in the Minimum Track.
