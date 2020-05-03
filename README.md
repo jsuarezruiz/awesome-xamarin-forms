@@ -407,6 +407,7 @@ You can find other awesome lists related to Xamarin below:
 - [SkiaSharpnado ★42](https://github.com/roubachof/SkiaSharpnado): SkiaSharp components and case studies for Xamarin.Forms.
 - [SKOR.UI ★55](https://github.com/skordesign/SKOR.UI):UI Controls for Xamarin.Forms (GradientButton).
 - [SlideOverKit ★371](https://github.com/XAM-Consulting/SlideOverKit): SlideOverKit is a premium component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms. 
+- [SkiaSharp.Forms.Xaml ★1](https://github.com/felipebaltazar/SkiaSharp.Forms.Xaml): Xaml extensions for SkiaSharp.
 - [SlidingPanel ★19](https://github.com/dw2kim/slidingpanel): Xamarin.Forms library that allows you to have for Google-Map-Like sliding panel from bottom of the screen.
 - [Spillman.Xamarin.Forms.ColorPicker ★2](https://github.com/daltonks/Spillman.Xamarin.Forms.ColorPicker): Nice looking HSV color picker for Xamarin forms. Also has alpha and hex support.
 - [StatesButton ★15](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
