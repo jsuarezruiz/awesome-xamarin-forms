@@ -498,6 +498,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms-RadialMenu ★93](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
 - [Xamarin.Forms.StateSquid ★170](https://github.com/sthewissen/Xamarin.Forms.StateSquid): Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.
 - [Xamarin.Forms.Skeleton ★128](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton): The new loading approach for cool apps in Xamarin.Forms.
+- [Xamarin.Forms.SlideView ★2](https://github.com/Tommigun1980/Xamarin.Forms.SlideView): A sliding view component for Xamarin.Forms.
 - [Xamarin.Forms.DebugRainbows ★333](https://github.com/sthewissen/Xamarin.Forms.DebugRainbows): Have you ever had a piece of XAML code that didn't produce the layout you expected? Did you change background colors on certain elements to get an idea of where they are positioned? Admit it, you have and pretty much all of us have at some point. Either way, this is the package for you! It adds a very colorful debug mode to each of your ContentPages that lets you immediately see where all of your elements are located!.
 - [Xamarin.Plugin.Calendar ★75](https://github.com/lilcodelab/Xamarin.Plugin.Calendar): Calendar plugin for Xamarin.Forms.
 - [Xamarin.Forms.Sandbox ★7](https://github.com/PureWeen/Xamarin.Forms.Sandbox)
