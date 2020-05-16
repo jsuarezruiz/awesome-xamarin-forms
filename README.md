@@ -485,6 +485,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinFormsBottomSheet ★1](https://github.com/jakelli/XamarinFormsBottomSheet): Customizable cross platform bottom sheet.
 - [XamarinFormsCustomSlider ★6](https://github.com/sumeyyaarar/XamarinFormsCustomSlider): Simple Xamarin.Forms Slider without defining custom renderer. Put a floating label on top of it.
 - [Xamarin Forms Extended Controls ★181](https://github.com/XamFormsExtended/Xfx.Controls): These controls are just a few controls that differ from the baked in Xamarin.Forms Controls.
+- [Xamarin.Forms.ExtendedLifecycleContentPage ★2](https://github.com/Tommigun1980/Xamarin.Forms.ExtendedLifecycleContentPage): Extended lifecycle support for Xamaring.Forms.ContentPage.
 - [XamarinFormsFloatingTabs ★13](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
 - [XamarinFormsGesture ★66](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
 - [Xamarin.Forms.InputKit ★297](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
