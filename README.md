@@ -389,6 +389,7 @@ You can find other awesome lists related to Xamarin below:
 - [RainbowLoading.Forms ★3](https://github.com/mariusmuntean/RainbowLoading.Forms): SkiaSharp implementation of the Android loading indicator, for Xamarin.Forms.
 - [reactorui-xamarin ★9](https://github.com/adospace/reactorui-xamarin): An alternative UI framework on top of Xamarin Forms highly inspired to React.js and Flutter.
 - [RedCorners.Forms ★30](https://github.com/saeedafshari/RedCorners.Forms): Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
+- [RedCorners.Forms.CameraView ★1](https://github.com/samafshari/RedCorners.Forms.CameraView): CameraView for Xamarin.Forms; a wrapper for RedCorners.Forms.ZXing with a nicer name.
 - [RedCorners.Forms.GoogleMaps ★3](https://github.com/saeedafshari/RedCorners.Forms.GoogleMaps): Enhanced Google Maps for Xamarin.Forms; based on Xamarin.Forms.GoogleMaps.
 - [ResponsiveLayout ★2](https://github.com/tobias-oschmann/ResponsiveLayout): A responsive LayoutView for Xamarin.Forms where you can define multiple layout templates for different widths, platforms or device types (Idioms).
 - [Rg.Plugins.Popup ★786](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
