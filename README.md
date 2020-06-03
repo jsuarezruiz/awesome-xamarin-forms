@@ -358,6 +358,7 @@ You can find other awesome lists related to Xamarin below:
 - [ImageCropper.Forms ★59](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
 - [ImageCropView ★383](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/ImageCropView): Image cropper for Xamarin.Forms.
 - [IS.XF.Toolkit ★5](https://github.com/Infinite-Square/IS.Toolkit.XamarinForms): Customizable Expander and Picker controls for Xamarin.Forms.
+- [JSONPlaceholder](https://github.com/luiseduardohd/JSONPlaceholder): JSONPlaceholder implementation on Xamarin.Forms.
 - [LibVLCSharp.Forms.MediaPlayerElement ★10](https://github.com/kakone/LibVLCSharp.Forms.MediaPlayerElement): VLC MediaPlayerElement for Xamarin.Forms.
 - [ListViewWithSubListView ★34](https://github.com/ishrakland/ListViewWithSubListView): Xamarin.Forms Expandable ListView With Sub-ListView MVVM Pattern.
 - [MagicGradients ★121](https://github.com/mgierlasinski/MagicGradients): Xamarin.Forms control to display complex gradients, insipired by PancakeView and Magic Gradients. You can add unlimited amount of linear gradients with different angles to create uniqe effects. Powered by SkiaSharp.
