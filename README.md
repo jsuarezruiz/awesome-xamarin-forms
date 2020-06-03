@@ -142,6 +142,7 @@ You can find other awesome lists related to Xamarin below:
 ## Plugins
 
 - [AppShortcutsPlugin ★19](https://github.com/adenearnshaw/AppShortcutsPlugin): Dynamically add and remove shortcuts to your app's icon so the user can deep-link into your app.
+- [BarcodeScanner.XF ★25](https://github.com/JimmyPun610/BarcodeScanner.XF): Barcode Scanner using GoogleVision API for Xamarin.Forms.
 - [Battery Status ★26](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
 - [CSharpForMarkup ★240](https://github.com/VincentH-Net/CSharpForMarkup): Use declarative style C# instead of XAML for Xamarin Forms UI.
 - [ColorMinePortable.Forms ★1](https://github.com/muak/ColorMinePortable.Forms): ColorMinePortable for Xamarin.Forms.
