@@ -436,6 +436,7 @@ You can find other awesome lists related to Xamarin below:
 - [TwoWeekControl ★6](https://github.com/mattmorgan6/TwoWeekControl): Xamarin forms calendar with only two weeks.
 - [Ultimate-Xamarin-Forms-KIT ★78](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT): Xamarin.Forms Charts.
 - [Valkyrie](https://github.com/acoville/Valkyrie): Open source 2D game engine for mobile Xamarin.Forms development.
+- [Vibrancy.Forms ★10](https://github.com/awaescher/Vibrancy.Forms): Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms.
 - [WalletView ★4](https://github.com/raver99/WalletView): WalletView is a control built in completely in Xamarin Forms that enables building a UI similar to the Apple Wallet App. 
 - [WheelSpinner ★1](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
 - [XamarinHosting ★13](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
