@@ -451,6 +451,7 @@ You can find other awesome lists related to Xamarin below:
 - [xf.shape ★2](https://github.com/utmdev/xf.shape): You can use this component in case you want to create a component with a specific rounded corner. By default Xamarin.Forms offers Frame component which can have rounded corners but you can't customize specific corner. Also Shape component supports linear gradient.
 - [XF.Service.FloatingView ★2](https://github.com/contissi/XF.Service.FloatingView): Xamarin Forms demo application highlighting the ability to draw over other running applications. 
 - [XF-Material-Library ★383](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
+- [XF.Material.Outline](https://github.com/Pepsi1x1/XF.Material.Outline): A Xamarin.Forms library using SkiaSharp for Xamarin.Android and Xamarin.iOS to implement the outline styled text view in Google's Material Design.
 - [XFParallax ★110](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
 - [XFProgressBar ★1](https://github.com/yurkinh/XFProgressBar): ProgressBar control for Xamarin.Forms with Skiasharp and Xamarin.ios Source code for article "Porting ios control to Xamarin.iOS and then to Xamarin.Forms (with SkiaSharp)" demo project.
 - [XFRepeaterView ★1](https://github.com/tsjdev-apps/XFRepeaterView): Simple RepeaterView control for Xamarin.Forms.
