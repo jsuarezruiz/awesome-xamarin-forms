@@ -497,6 +497,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.ExtendedLifecycleContentPage ★2](https://github.com/Tommigun1980/Xamarin.Forms.ExtendedLifecycleContentPage): Extended lifecycle support for Xamaring.Forms.ContentPage.
 - [XamarinFormsFloatingTabs ★14](https://github.com/Depechie/XamarinFormsFloatingTabs): Xamarin.Forms floating tabs.
 - [XamarinFormsGesture ★68](https://github.com/softlion/XamarinFormsGesture): Xamarin Form Gesture Effects.
+- [XamarinFormPersianCalendar](https://github.com/hesamdarbandi/XamPersianCalendar): Persian Calendar Control For XamarinForms.
 - [Xamarin.Forms.InputKit ★307](https://github.com/enisn/Xamarin.Forms.InputKit): CheckBox, Radio Button, Labeled Slider, Dropdows etc. 
 - [Xamarin.Forms.NeoControls ★27](https://github.com/felipebaltazar/Xamarin.Forms.NeoControls): Neomorphic controls for Xamarin.Forms.
 - [Xamarin.Forms.Nuke ★52](https://github.com/roubachof/Xamarin.Forms.Nuke): The famous iOS Nuke native image caching library for Xamarin.Forms.
