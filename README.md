@@ -516,6 +516,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Plugin.SharedTransitions ★256](https://github.com/Evolutionlab/Xamarin.Plugin.SharedTransitions): Activate shared element transitions between pages in Xamarin.Forms (IOS/Android).
 - [Xamarin.Forms.SKMaps ★11](https://github.com/LRP-sgravel/Xamarin.Forms.SKMaps): Xamarin.Forms.SKMaps allows developers an easier integration of custom map features from a shared code base. Built over Xamarin.Forms.Maps and adding the strength of SkiaSharp rendering, you can get easy and highly performant map drawing features from a single code base.
 - [Xamarin.Forms.StepProgressBar ★13](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
+- [Xamarin.Forms.UniformGrid](https://github.com/Jouna77/Xamarin.Forms.UniformGrid): A simple UniformGrid for Xamarin.Forms.
 - [Xamarin.Forms.VideoPlayer ★132](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xam.Plugin.SimpleAppIntro ★94](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleStaticMap ★0](https://github.com/galadril/Xam.Plugin.SimpleStaticMap): Just a nice and simple static map component that uses the Static Maps api from Google for your Xamarin Forms project.
