@@ -53,6 +53,10 @@ You can find other awesome lists related to Xamarin below:
 
 - [App-Service-Helpers ★75](https://github.com/MikeCodesDotNet/App-Service-Helpers): Add data storage and authentication to your app in a few lines of code. 
 
+## Community Toolkit
+
+- [XamarinCommunityToolkit ★375](https://github.com/xamarin/XamarinCommunityToolkit): The Xamarin Community Toolkit is a collection of common elements for mobile development with Xamarin.Forms that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with Xamarin.Forms.
+
 ## Converters
 
 - [Plugin.XamarinForms.Converters ★15](https://github.com/saimel/Plugin.XamarinForms.Converters): Cross platform library containing a bunch of XAML converters for Xamarin Forms.
