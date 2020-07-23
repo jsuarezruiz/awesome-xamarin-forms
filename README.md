@@ -364,6 +364,7 @@ You can find other awesome lists related to Xamarin below:
 - [ImageCropper ★53](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [ImageCropper.Forms ★62](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
 - [ImageCropView ★391](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/ImageCropView): Image cropper for Xamarin.Forms.
+- [IOSToolbarExtensions ★2](https://github.com/Tommigun1980/IOSToolbarExtensions): iOS toolbar extensions for Xamarin.Forms (left hand toolbar items, and Android:esque secondary toolbar menu).
 - [IS.XF.Toolkit ★5](https://github.com/Infinite-Square/IS.Toolkit.XamarinForms): Customizable Expander and Picker controls for Xamarin.Forms.
 - [JSONPlaceholder](https://github.com/luiseduardohd/JSONPlaceholder): JSONPlaceholder implementation on Xamarin.Forms.
 - [LibVLCSharp.Forms.MediaPlayerElement ★11](https://github.com/kakone/LibVLCSharp.Forms.MediaPlayerElement): VLC MediaPlayerElement for Xamarin.Forms.
