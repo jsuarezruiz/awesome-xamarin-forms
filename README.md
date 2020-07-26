@@ -226,6 +226,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.SavableObject ★3](https://github.com/enisn/Xamarin.Forms.SavableObject): Saving Data without SQL plugin.
 - [Xamarin.Forms.SendAndReceiveSMS ★6](https://github.com/officialdoniald/Xamarin.Forms.SendAndReceiveSMS): Send and receive SMS in Xamarin.Forms.
 - [XamarinForms-UnobtrusiveValidationPlugin ★21](https://github.com/james-russo/XamarinForms-UnobtrusiveValidationPlugin): A plugin library that extends the functionality of FluentValidation for Xamarin.
+- [Xamarin.Plugin.Health ★4](https://github.com/GiampaoloGabba/Xamarin.Plugin.Health): HealthKit/GoogleFit plugin for Xamarin.Forms.
 - [XPlat Windows APIs ★28](https://github.com/jamesmcroft/XPlat-Windows-APIs): XPlat Windows APIs are designed to make it easier for Universal Windows Platform (UWP) developers to share their knowledge of the platform APIs across Android and iOS.
 
 ## Project Templates
