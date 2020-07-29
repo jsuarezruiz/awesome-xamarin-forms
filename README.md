@@ -141,6 +141,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Performance
 
+- [Xamarin.Forms.Benchmarks](https://github.com/jonathanpeppers/Xamarin.Forms.Benchmarks): Example of using BenchmarkDotNet to write some benchmarks for Xamarin.Forms concepts.
 - [xamarin-forms-perf-playground ★110](https://github.com/jsuarezruiz/xamarin-forms-perf-playground): Xamarin.Forms Performance Playground (Layouts, Bindings, XAMLC, etc).
   
 ## Plugins
