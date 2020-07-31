@@ -475,6 +475,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinFormsBulletListControl ★2](https://github.com/AuriR/XamarinFormsBulletListControl): Bullet List Control for Xamarin.Forms.
 - [XF.TextIcon ★1](https://github.com/JimmyPun610/XF.TextIcon): Xamarin.Forms Library for Icon font.
 - [XGraphics ★53](https://github.com/bretjohnson/XGraphics): Cross platform UWP-inspired graphics primitives, for XAML and code.
+- [Xalendar ★15](https://github.com/ionixjunior/Xalendar): A simple CalendarView for Xamarin.Forms.
 - [XamarinFluentUI ★4](https://github.com/ravinderjangra/XamarinFluentUI): Fluent UI Bindings and Xamarin.Forms Visual.
 - [Xamarin.Forms.BackgroundKit ★155](https://github.com/ChasakisD/Xamarin.Forms.BackgroundKit): A powerful Kit for customizing the background of Xamarin.Forms views (📐 Corner Radius | 🎨 Background Gradients | 🍩 Borders | 🌈 Border Gradients | 🙏 Shadows).
 - [Xamarin.Forms.BackgroundVideoView ★2](https://github.com/arqueror/Xamarin.Forms.BackgroundVideoView): A simple view for displaying background video in Xamarin.Forms (iOS and Android).
