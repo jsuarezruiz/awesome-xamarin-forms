@@ -176,6 +176,7 @@ You can find other awesome lists related to Xamarin below:
 - [NFCForms ★42](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [NoFrillsDataGrid ★3](https://github.com/davepruitt/NoFrillsDataGrid): This is a no-frills data grid control for Xamarin Forms. It uses SkiaSharp as the means to create and draw the data grid itself.
 - [OpenTok-Xamarin.Forms ★63](https://github.com/AndreiMisiukevich/OpenTok-Xamarin.Forms): OpenTok for Xamarin.Forms.
+- [PayCardRecognizerSample ★5](https://github.com/rdelrosario/PayCardRecognizerSample): PayCard Bindings & Sample for Scanning Credit Cards in Xamarin Forms.
 - [PayPal ★75](https://github.com/AlejandroRuiz/PayPal.Forms): PayPal Plugin for Xamarin.Forms.
 - [PerformanceLoggerXamarin ★3](https://github.com/PawKanarek/PerformanceLoggerXamairn): Light & Fast logger provider with simple performance measurements for Xamarin.Forms apps with additional extension for Visual Studio.
 - [Permissions ★274](https://github.com/jamesmontemagno/PermissionsPlugin): Check and request runtime permissions.
