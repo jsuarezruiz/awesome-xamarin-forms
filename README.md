@@ -531,6 +531,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Plugin.SharedTransitions ★269](https://github.com/Evolutionlab/Xamarin.Plugin.SharedTransitions): Activate shared element transitions between pages in Xamarin.Forms (IOS/Android).
 - [Xamarin.Forms.SKMaps ★12](https://github.com/LRP-sgravel/Xamarin.Forms.SKMaps): Xamarin.Forms.SKMaps allows developers an easier integration of custom map features from a shared code base. Built over Xamarin.Forms.Maps and adding the strength of SkiaSharp rendering, you can get easy and highly performant map drawing features from a single code base.
 - [Xamarin.Forms.StepProgressBar ★13](https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar): Add a step progress bar in your Xamarin.Forms project. You can choose between a square or circular control.
+- [Xamarin.Forms-TreeView ★23](https://github.com/AdaptSolutions/Xamarin.Forms-TreeView): A Xamarin.Forms TreeView.
 - [Xamarin.Forms.UniformGrid](https://github.com/Jouna77/Xamarin.Forms.UniformGrid): A simple UniformGrid for Xamarin.Forms.
 - [Xamarin.Forms.VideoPlayer ★133](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xamarin.Forms.VideoTrimmer](https://github.com/sreerajPR/Xamarin.Forms.VideoTrimmer): Xamarin.Forms Library that targets Android and iOS, to trim videos.
