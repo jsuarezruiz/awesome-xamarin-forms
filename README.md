@@ -426,6 +426,7 @@ You can find other awesome lists related to Xamarin below:
 - [SkiaSharp.Forms.Xaml ★14](https://github.com/felipebaltazar/SkiaSharp.Forms.Xaml): Xaml extensions for SkiaSharp.
 - [SkiaSharp.Paint ★2](https://github.com/mariusmuntean/SkiaSharp.Paint): .Net Standard 2.0 library for SkiaSharp with Xamarin.Forms to help decouple large apps.
 - [SlidingPanel ★21](https://github.com/dw2kim/slidingpanel): Xamarin.Forms library that allows you to have for Google-Map-Like sliding panel from bottom of the screen.
+- [SpatialFocus.XamarinForms.GaugeView](https://github.com/SpatialFocus/XamarinForms.GaugeView): Display horizontal or vertical gauges in your Xamarin Forms app. Use the predefined Compass or Gradometer gauges for simplicity.
 - [Spillman.Xamarin.Forms.ColorPicker ★6](https://github.com/daltonks/Spillman.Xamarin.Forms.ColorPicker): Nice looking HSV color picker for Xamarin forms. Also has alpha and hex support.
 - [StatesButton ★16](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [STabbedPage.Forms ★18](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
