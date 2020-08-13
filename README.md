@@ -149,6 +149,7 @@ You can find other awesome lists related to Xamarin below:
 - [AppShortcutsPlugin ★29](https://github.com/adenearnshaw/AppShortcutsPlugin): Dynamically add and remove shortcuts to your app's icon so the user can deep-link into your app.
 - [BarcodeScanner.XF ★36](https://github.com/JimmyPun610/BarcodeScanner.XF): Barcode Scanner using GoogleVision API for Xamarin.Forms.
 - [Battery Status ★25](https://github.com/jamesmontemagno/BatteryPlugin): Get battery level, how it is getting charge, and events.
+- [BrightnessService ★1](https://github.com/LuckyDucko/BrightnessService): React to brightness changes in real-time.
 - [CSharpForMarkup ★267](https://github.com/VincentH-Net/CSharpForMarkup): Use declarative style C# instead of XAML for Xamarin Forms UI.
 - [ColorMinePortable.Forms ★2](https://github.com/muak/ColorMinePortable.Forms): ColorMinePortable for Xamarin.Forms.
 - [Com.MarcusTS.SmartDI ★5](https://github.com/marcusts/Com.MarcusTS.SmartDI): Xamarin.Forms Utility Library.
@@ -167,6 +168,7 @@ You can find other awesome lists related to Xamarin below:
 - [ImmutableUI ★113](https://github.com/praeclarum/ImmutableUI): Is a collection of immutable data objects that mirror object-oriented user interface APIs.
 - [Jobs ★89](https://github.com/aritchie/jobs): Background Jobs Framework for Xamarin & UWP.
 - [NavigationExtensions for Xamarin.Forms ★10](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basically add storage of the navigation history when the application stops.
+- [NotificationService ★1](https://github.com/LuckyDucko/NotificationService): Quick and easy Notifications for Xamarin Forms iOS/Android.
 - [LaunchDarkly Xamarin Client ★5](https://github.com/launchdarkly/xamarin-client): LaunchDarkly SDK for Xamarin.
 - [LibVLCSharp ★639](https://github.com/videolan/libvlcsharp): Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 - [MagTek ★2](https://github.com/peterfournier/MagTek): Xamarin.Forms, Xamarin.iOS, and Xamarin.Android support for MagTek card readers.
@@ -543,6 +545,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFColorPickerControl ★14](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
 - [XFGauge ★6](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
+- [ZoomView.Forms ★1](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
 
 ## UI Testing
 
