@@ -443,6 +443,7 @@ You can find other awesome lists related to Xamarin below:
 - [TabStrip ★27](https://github.com/ahoefling/TabStrip): Tab Strip control for Xamarin.Forms.
 - [TabView ★120](https://github.com/chaosifier/TabView): TabView control for Xamarin.Forms.
 - [Telerik UI for Xamarin Controls](https://www.telerik.com/xamarin-ui): Professionally designed Xamarin UI Controls for building high performance, feature rich Xamarin Forms, Xamarin.iOS and Xamarin.Android apps with sleek UI.
+- [TemplateUI ★99](https://github.com/jsuarezruiz/TemplateUI): A set of templated controls.
 - [TimberLabel ★8](https://github.com/chowarth/TimberControls.TimberLabel): A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.
 - [TimeSeries-Xamarin](https://github.com/maxim-saplin/TimeSeries-Xamarin): ASCII time series chart for Xamarin.Forms. 21KB .NET Standard library.
 - [TitleBar ★22](https://github.com/ScienceSoft-Inc/TitleBar): Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want. 
