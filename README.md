@@ -317,6 +317,7 @@ You can find other awesome lists related to Xamarin below:
 - [BadgeView ★75](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
 - [BeforeAndAfter ★21](https://github.com/mariusmuntean/BeforeAndAfter): Xamarin.Forms custom control showing a before-and-after view.
 - [BitooBitImageEditor ★5](https://github.com/BitooBit/BitooBitImageEditor): Simple image editor for Xamarin Forms based on the SkiaSharp library.
+- [Breadcrumb ★81](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb): A control that automatically generates a breadcrumb navigation.
 - [BuildIt ★32](https://github.com/builttoroam/BuildIt): Build It is the set of libraries that makes it easier and quicker to build applications.
 - [ButtonCircle ★92](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icons for your Xamarin.Forms applications.
 - [CarouselView.FormsPlugin ★384](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
