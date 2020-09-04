@@ -218,6 +218,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamCal ★8](https://github.com/ahoefling/XamCal): A Xamarin.Forms Calendar Plugin.
 - [Xamlly ★26](https://github.com/mshwf/Xamlly): Xamlly is a controls library for Xamarin.Forms, written entirely in XAML (ProgressBar, Switch, ToggleButton, etc.).
 - [Xam.Plugin.Webview ★125](https://github.com/SKLn-Rad/Xam.Plugin.Webview): Xamarin Plugin for a HybridWebView in PCL projects.
+- [Xam.Plugin.Once ★4](https://github.com/galadril/Xam.Plugin.Once):  A simple Xamarin Forms library to manage one-off operations. 
 - [Xam.Plugins.AutoUpdate ★10](https://github.com/angelinn/Xam.Plugins.AutoUpdate): Xamarin Forms plugin that auto updates your Android or UWP sideloaded application. 
 - [Xam.Reactive.Location ★8](https://github.com/PureWeen/Xam.Reactive.Location): Location on each Xamarin platform is already event/push driven which is where Reactive models do great. This creates a useful wrapper around the iOS/Android location APIs.
 - [Xamarin.UserConsent ★4](https://github.com/adia-technology/Xamarin.UserConsent): Custom permission user consent SDK for Xamarin.Forms.
