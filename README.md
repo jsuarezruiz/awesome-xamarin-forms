@@ -310,6 +310,7 @@ You can find other awesome lists related to Xamarin below:
 - [AiForms.Dialogs ★116](https://github.com/muak/AiForms.Dialogs): This is a collection of Custom Dialogs that can be defined with XAML for Xamarin.Forms (Android / iOS).
 - [AiForms.Settings](https://github.com/muak/AiForms.Settings): This is a flexible Xamarin.Forms TableView specialized in settings for Android / iOS.
 - [ACR User Dialogs ★776](https://github.com/aritchie/userdialogs): A cross platform library that allows you to call for standard user dialogs from a shared/portable library.
+- [AutoForms ★2](https://github.com/patrickabadi/AutoForms): Is a Xamarin.Forms control that can dynamically generate UI powered by the data model you give it.
 - [AutoHeightListView ★3](https://github.com/GioeleVuaran/AutoHeightListView): Xamarin.Forms implementation of an auto-height ListView.
 - [AutoSuggestBox ★126](https://github.com/dotMorten/XamarinFormsControls/tree/master/AutoSuggestBox): Represents a text control that makes suggestions to users as they type.
 - [AP.MobileToolkit.Fonts ★21](https://github.com/AvantiPoint/AP.MobileToolkit.Fonts): Is designed to make it easier to consume fonts. We currently provide Font Awesome Free as an available installable font. Each font ships with a Mapping class for those who prefer strongly typed XAML.
