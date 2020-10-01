@@ -413,6 +413,8 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.VideoPlayer](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xam.Plugin.SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
+- [Xamarin Forms Facebook Mobile App Login Clone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone):  Facebook Mobile App Login UI Clone in Xamarin Forms.
+
 
 ## UI Testing
 
