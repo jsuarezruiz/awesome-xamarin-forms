@@ -236,6 +236,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Plugin.Health ★6](https://github.com/GiampaoloGabba/Xamarin.Plugin.Health): HealthKit/GoogleFit plugin for Xamarin.Forms.
 - [Xam.Shell.Badge ★1](https://github.com/galadril/Xam.Shell.Badge.
 - [XPlat Windows APIs ★28](https://github.com/jamesmcroft/XPlat-Windows-APIs): XPlat Windows APIs are designed to make it easier for Universal Windows Platform (UWP) developers to share their knowledge of the platform APIs across Android and iOS.
+- [Xamarin.Forms.IconFontHelper](https://github.com/dimonovdd/Xamarin.Forms.IconFontHelper): Small helper for working with Icons Fonts.
 
 ## Project Templates
 
