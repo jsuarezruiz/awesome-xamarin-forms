@@ -307,6 +307,7 @@ You can find other awesome lists related to Xamarin below:
  
 ## UI
 
+- [24HourTimePicker ★1](https://github.com/brminnick/24HourTimePicker): A 24 Hour Time Picker for Xamarin.Forms.
 - [AiForms.CollectionView ★56](https://github.com/muak/AiForms.CollectionView): This is a flexible ListView that has a grid and horizontal layout with reusable cells for Xamarin.Forms (Android / iOS).
 - [AiForms.Dialogs ★116](https://github.com/muak/AiForms.Dialogs): This is a collection of Custom Dialogs that can be defined with XAML for Xamarin.Forms (Android / iOS).
 - [AiForms.Settings](https://github.com/muak/AiForms.Settings): This is a flexible Xamarin.Forms TableView specialized in settings for Android / iOS.
