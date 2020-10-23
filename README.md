@@ -435,6 +435,7 @@ You can find other awesome lists related to Xamarin below:
 - [SlidingPanel ★21](https://github.com/dw2kim/slidingpanel): Xamarin.Forms library that allows you to have for Google-Map-Like sliding panel from bottom of the screen.
 - [SpatialFocus.XamarinForms.GaugeView](https://github.com/SpatialFocus/XamarinForms.GaugeView): Display horizontal or vertical gauges in your Xamarin Forms app. Use the predefined Compass or Gradometer gauges for simplicity.
 - [Spillman.Xamarin.Forms.ColorPicker ★7](https://github.com/daltonks/Spillman.Xamarin.Forms.ColorPicker): Nice looking HSV color picker for Xamarin forms. Also has alpha and hex support.
+- [SortableListView](https://github.com/MintPlayer/MintPlayer.Xamarin.Forms.SortableListView): This project contains an Effect for the Xamarin.Forms.ListView to make items reorderable.
 - [StatesButton ★16](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [STabbedPage.Forms ★18](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
 - [SupportWidgetXF ★46](https://github.com/bulubuloa/SupportWidgetXF): Is an open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms (SupportAutoComplete, SupportResultList, SupportDropList, SupportEntry, SupportButton, SupportActionMenu, SupportBindableStackLayout, SupportFlowLayout, SupportSearchView, SupportShadowView, SupportGradientView, SupportMapView, SupportRadioButton, SupportCalendarView 
