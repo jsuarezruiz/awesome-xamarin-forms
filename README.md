@@ -419,6 +419,7 @@ You can find other awesome lists related to Xamarin below:
 - [Sharpnado.MaterialFrame ★172](https://github.com/roubachof/Sharpnado.MaterialFrame): A modern Xamarin.Forms Frame component supporting blur, acrylic, dark mode. Implemented with RealtimeBlurView on Android (custom blurview) and UIVisualEffectView on iOS.
 - [Sharpnado.Presentation.Forms ★536](https://github.com/roubachof/Sharpnado.Presentation.Forms): Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).
 - [Sharpnado.Shadows ★173](https://github.com/roubachof/Sharpnado.Shadows): Add as many custom shadows as you like to any Xamarin.Forms view (Android, iOS, UWP, Tizen).
+- [Sharpnado.Tabs 25](https://github.com/roubachof/Sharpnado.Tabs): Pure Xamarin.Forms Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...
 - [Segments ★3](https://github.com/hnabbasi/Segments): SegmentsView for Xamarin.Forms.
 - [Signature Pad ★206](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
 - [SimpleImageButton ★1](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
