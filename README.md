@@ -532,6 +532,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.PageControl ★5](https://github.com/TBertuzzi/Xamarin.Forms.PageControl): Use the iOS paging control with Xamarin.Forms.
 - [Xamarin.Forms.PinchZoomImage ★43](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage): Zoom in on the image with the pinch of your fingers.
 - [Xamarin.Forms-RadialMenu ★111](https://github.com/arqueror/Xamarin.Forms-RadialMenu): Xamarin.Forms simple radial menu without renderers.
+- [Xamarin.Forms.ScratchView](https://github.com/albertoha94/Xamarin.Forms.ScratchView): Based on this article: https://xamgirl.com/scratch-view-in-xamarin-forms/
 - [Xamarin.Forms.StateSquid ★254](https://github.com/sthewissen/Xamarin.Forms.StateSquid): Spiritual successor to EasyLoading, turn any layout element into an individual state-aware element.
 - [Xamarin.Forms.Skeleton ★202](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton): The new loading approach for cool apps in Xamarin.Forms.
 - [Xamarin.Forms.SlideView ★5](https://github.com/Tommigun1980/Xamarin.Forms.SlideView): A sliding view component for Xamarin.Forms.
