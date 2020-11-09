@@ -556,6 +556,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFGauge ★6](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
 - [ZoomView.Forms ★5](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
+- [TEdito2](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
 
 ## UI Testing
 
