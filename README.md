@@ -325,6 +325,7 @@ You can find other awesome lists related to Xamarin below:
 - [ButtonCircle ★93](https://github.com/wilsonvargas/ButtonCirclePlugin): Circle buttons with icons for your Xamarin.Forms applications.
 - [CarouselView.FormsPlugin ★387](https://github.com/alexrainman/CarouselView): Carousel view with good customization options for Xamarin Forms.
 - [CardsView ★552](https://github.com/AndreiMisiukevich/CardView): CardsView & CarouselView for Xamarin.Forms.
+- [CC.CircularSlider.Forms](https://github.com/codechem/CC.CircularSlider.Forms): Circle Slider Component for Xamarin.Forms.
 - [Chameleon ★128](https://github.com/BaseflowIT/Chameleon): Chameleon is a flexible media player build with Xamarin.Forms.
 - [ChilliSource.Mobile.UI ★8](https://github.com/BlueChilli/ChilliSource.Mobile.UI): UI framework for ChilliSource Mobile.
 - [CircularProgress ★34](https://github.com/billreiss/xamlnative/tree/master/XamarinForms/CircularProgress): Circular Progress control for Xamarin Forms.
