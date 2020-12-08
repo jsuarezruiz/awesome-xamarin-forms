@@ -467,6 +467,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamarinHosting ★18](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS ★260](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts ★15](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
+- [XampleControl](https://github.com/shawyunz/XampleControl): A collection of Xamarin customized widgets (animated counter, flip card, floating action button, etc).
 - [Xam.Forms.GraceAlert ★6](https://github.com/nightlybuilds-net/Xam.Forms.GraceAlert): Is a Xamarin Forms View to show non invasive notification for alert, warning and info.
 - [Xam.Plugin.SimpleBottomDrawer ★84](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer): Just a nice and simple BottomDrawer for your Xamarin Forms project.
 - [XFGloss ★168](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
