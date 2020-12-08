@@ -358,6 +358,7 @@ You can find other awesome lists related to Xamarin below:
 - [FloatingLabels ★2](https://github.com/tobias-oschmann/FloatingLabels): A collection of FloatingLabel-Controls for Xamarin.Forms.
 - [FlowListView ★392](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView): ListView derivative with flowing, grid-like columns support.
 - [FluentLayout ★1](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
+- [Fluent.Xamarin.Forms ★3](https://github.com/Teknika-Corp/Fluent.Xamarin.Forms): Xamarin.Forms controls inspired by Fluent design and powered by SkiaSharp.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
 - [Forms-BottomSheet ★22](https://github.com/rlingineni/Forms-BottomSheet): A bottom sheet control for Xamarin.Forms.
 - [Forms9Patch ★95](https://github.com/baskren/Forms9Patch): Simplify image management and text formatting in your Xamarin.Forms apps.
