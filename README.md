@@ -543,6 +543,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.SlideView ★5](https://github.com/Tommigun1980/Xamarin.Forms.SlideView): A sliding view component for Xamarin.Forms.
 - [Xamarin.Forms.DebugRainbows ★386](https://github.com/sthewissen/Xamarin.Forms.DebugRainbows): Have you ever had a piece of XAML code that didn't produce the layout you expected? Did you change background colors on certain elements to get an idea of where they are positioned? Admit it, you have and pretty much all of us have at some point. Either way, this is the package for you! It adds a very colorful debug mode to each of your ContentPages that lets you immediately see where all of your elements are located!.
 - [Xamarin.Plugin.Calendar ★129](https://github.com/lilcodelab/Xamarin.Plugin.Calendar): Simple customizable event calendar for Xamarin.Forms.
+- [Xamarin.Forms.CustomSwitch ★14](https://github.com/IeuanWalker/Xamarin.Forms.CustomSwitch): This is a switch/ toggle control that would allow you to create any style switch you'd like. 
 - [Xamarin.Forms.Sandbox ★8](https://github.com/PureWeen/Xamarin.Forms.Sandbox)
 - [Xamarin.Forms.SegmentedButton ★3](https://github.com/TBertuzzi/Xamarin.Forms.SegmentedButton): SegmentedButtonGroup is like iOS Segmented Controls for Xamarin.Forms.
 - [Xamarin.Plugin.SharedTransitions ★327](https://github.com/Evolutionlab/Xamarin.Plugin.SharedTransitions): Activate shared element transitions between pages in Xamarin.Forms (IOS/Android).
