@@ -256,6 +256,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.UWPShell.Sample ★12](https://github.com/dotMorten/Xamarin.Forms.UWPShell.Sample): Sample app for testing forms UWP shell implementation (make sure you get submodule).
 - [xamarin-road-to-surface-duo ★12](https://github.com/tscholze/xamarin-road-to-surface-duo): This ia a work in progress Xamarin.Forms Android project which is intended to feature most of the new features that makes the upcoming Microsoft Surface Duo phone unique. 
 - [XFShellAdvThemeing ★4](https://github.com/UdaraAlwis/XFShellAdvThemeing): Stunning App themes with Xamarin Forms Shell!.
+- [XamarinUI.MyGallery ★19](https://github.com/alexandresanlim/XamarinUI.MyGallery): It's a Xamarin.Forms UI gallery build by me with love and coffe.
 
 ## Serialization
 
