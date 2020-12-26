@@ -510,6 +510,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.DataGrid ★218](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
 - [Xamarin.FragmentPage ★6](https://github.com/AhmetCavus/Xamarin.FragmentPage): An extension for Xamarin.forms, where different pages can be placed in one content. This approach works with iOS, Android and Windows UWP.
 - [Xamarin.Forms.GridView ★60](https://github.com/NobsterTheLobster/Xamarin.Forms.GridView): GridView for xamarin.Forms with grouping, pull to refresh and selection visual state support.
+- [xamarin.forms-jint](https://github.com/matthewrdev/xamarin.forms-jint): Adding JavaScript support to your Xamarin.Forms app.
 - [Xam.Plugin.HtmlLabel ★119](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
 - [XamaRed.Forms.Svg ★8](https://github.com/Brainflab/XamaRed.Forms.Svg): SVG viewer control for Xamarin Forms, based on SkiaSharp.
 - [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entries.
