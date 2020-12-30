@@ -513,6 +513,7 @@ You can find other awesome lists related to Xamarin below:
 - [xamarin.forms-jint](https://github.com/matthewrdev/xamarin.forms-jint): Adding JavaScript support to your Xamarin.Forms app.
 - [Xam.Plugin.HtmlLabel ★119](https://github.com/matteobortolazzo/HtmlLabelPlugin): Use this Xamarin.Forms plugin to display HTML content into a label.
 - [XamaRed.Forms.Svg ★8](https://github.com/Brainflab/XamaRed.Forms.Svg): SVG viewer control for Xamarin Forms, based on SkiaSharp.
+- [Xamarin.Forms.GridLocationExtension ★1](https://github.com/matthewrdev/Xamarin.Forms.GridLocationExtension): Specify grid locations by name for simpler, more maintainable XAML.
 - [Xamarin.Forms.ImageEntry](https://github.com/TBertuzzi/Xamarin.Forms.ImageEntry): Use images in your entries.
 - [Xamarin.Forms.MultiSelectListView ★51](https://github.com/TBertuzzi/Xamarin.Forms.MultiSelectListView): Select multiple rows in a listview with Xamarin.Forms.
 - [XamarinFormsPersianCalendar](https://github.com/badrnezhad/XamarinFormsPersianCalendar): Xamarin Forms Persian Calendar.
