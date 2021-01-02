@@ -412,6 +412,7 @@ You can find other awesome lists related to Xamarin below:
 - [PullToRefreshLayout ★230](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout): Implementation of pull to refresh layout for Xamarin.Forms targeting iOS and Android.
 - [RadialSlider](https://github.com/Nickjgniklu/RadialSlider): A Radial Slider For Xamarin.Forms.
 - [RainbowLoading.Forms ★4](https://github.com/mariusmuntean/RainbowLoading.Forms): SkiaSharp implementation of the Android loading indicator, for Xamarin.Forms.
+- [RayCharts](https://github.com/GrumpyCockatiel/RayCharts): A couple custom Xamarin Forms charting controls including a progress ring, line chart and progress bar chart.
 - [reactorui-xamarin ★40](https://github.com/adospace/reactorui-xamarin): An alternative UI framework on top of Xamarin Forms highly inspired to React.js and Flutter.
 - [RedCorners.Forms ★33](https://github.com/saeedafshari/RedCorners.Forms): Brings some neat utilities to your Xamarin.Forms applications (AliveContentPage, AliveContentView, Sidebar, etc.).
 - [RedCorners.Forms.CameraView ★3](https://github.com/samafshari/RedCorners.Forms.CameraView): CameraView for Xamarin.Forms; a wrapper for RedCorners.Forms.ZXing with a nicer name.
