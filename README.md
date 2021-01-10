@@ -455,6 +455,7 @@ You can find other awesome lists related to Xamarin below:
 - [Tab Badge ★301](https://github.com/xabre/xamarin-forms-tab-badge): Xamarin Forms bindable Tab badges for iOS and Android 
 - [TabStrip ★28](https://github.com/ahoefling/TabStrip): Tab Strip control for Xamarin.Forms.
 - [TabView ★127](https://github.com/chaosifier/TabView): TabView control for Xamarin.Forms.
+- [TEdito2](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
 - [Telerik UI for Xamarin Controls](https://www.telerik.com/xamarin-ui): Professionally designed Xamarin UI Controls for building high performance, feature rich Xamarin Forms, Xamarin.iOS and Xamarin.Android apps with sleek UI.
 - [TemplateUI ★203](https://github.com/jsuarezruiz/TemplateUI): A set of templated controls.
 - [TimberLabel ★8](https://github.com/chowarth/TimberControls.TimberLabel): A custom Xamarin.Forms.Label control that adds support for padding, rounded corners and, borders on iOS and Android.
@@ -566,7 +567,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFColorPickerControl ★22](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
 - [XFGauge ★6](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
-- [ZoomView.Forms ★6](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
+- [ZoomView.Forms ★5](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
 
 ## UI Testing
 
