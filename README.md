@@ -100,6 +100,8 @@ You can find other awesome lists related to Xamarin below:
 
 - [Icons8](https://icons8.com): Thousands of free icons in different styles and sizes.
 - [MetroStudio](https://www.syncfusion.com/downloads/metrostudio): Free Windows app that has thousands of icons
+- [Xamarin.Forms.FontAwesome](https://github.com/dimonovdd/Xamarin.Forms.FontAwesome):  Font Awesome Free Implementation For Xamarin.Forms.
+- [Xamarin.Forms.Icons8.LineAwesome](https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome): Icons8 LineAwesome Implementation For Xamarin.Forms
 
 ## Mirroring Devices
 
@@ -234,6 +236,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Plugin.Health ★7](https://github.com/GiampaoloGabba/Xamarin.Plugin.Health): HealthKit/GoogleFit plugin for Xamarin.Forms.
 - [Xam.Shell.Badge ★1](https://github.com/galadril/Xam.Shell.Badge.
 - [XPlat Windows APIs ★29](https://github.com/jamesmcroft/XPlat-Windows-APIs): XPlat Windows APIs are designed to make it easier for Universal Windows Platform (UWP) developers to share their knowledge of the platform APIs across Android and iOS.
+- [Xamarin.Forms.IconFontHelper](https://github.com/dimonovdd/Xamarin.Forms.IconFontHelper): Small helper for working with Icons Fonts.
 
 ## Project Templates
 
