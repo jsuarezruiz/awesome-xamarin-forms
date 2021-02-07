@@ -512,6 +512,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms-Coordinator-Workaround ★14](https://github.com/ChasakisD/Xamarin.Forms-Coordinator-Workaround): A Xamarin.Forms (Android Only) Implementation of CoordinatorLayout with CollapsingToolbar.
 - [Xamarin.Forms.CustomControls ★1](https://github.com/ravisinghunnao/Xamarin.Forms.CustomControls): Custom controls for Xamarin.Forms for rapid and pleasing development (Stepper, ImageButton, Window, Wizard, CollapsibleExpander, GradientView, Popup, Calendar, Dropdown, etc).
 - [XamForms.Controls.Calendar ★137](https://github.com/rebeccaXam/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
+- [Xamarin.Forms.Chips ★7](https://github.com/Tommigun1980/Xamarin.Forms.Chips): Chip support for Xamarin.Forms.
 - [XMedia ★2](https://github.com/DevsDNA/XMedia): A Xamarin Forms selector multiple images.
 - [Xamarin.Forms.GoogleMaps.Clustering ★24](https://github.com/mierzynskim/Xamarin.Forms.GoogleMaps.Clustering): A map library that brings support for clustering for Xamarin.Forms.GoogleMaps.
 - [Xamarin.Forms.DataGrid ★222](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid): DataGrid library for Xamarin.Forms Application.
