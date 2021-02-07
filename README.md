@@ -432,6 +432,7 @@ You can find other awesome lists related to Xamarin below:
 - [Signature Pad ★218](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
 - [SimpleImageButton ★1](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
 - [SimpleXarts ★5](https://github.com/manuelmeisen/SimpleXarts): Live update Xamarin.Forms charts. Customizable, bindable, easy to use.
+- [StepProgressBar ★1](https://github.com/shubhamsharma12147/StepProgressBar): This nuget package helps to create interactive Step progress bar in Xamarin forms.
 - [SkiaBar ★2](https://github.com/MridulMalviya/SkiaBar): SKGLView used for showing progress in Xamarin.Forms.
 - [SkiaCheck ★1](https://github.com/LegendaryB/SkiaCheck): A checkbox implementation for Xamarin.Forms made with the awesome SkiaSharp library.
 - [skia-chart ★29](https://github.com/NdubuisiJr/skia-chart): A simple xamarin.Forms chart library, built on top of the skiasharp.views.forms library.
