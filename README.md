@@ -70,6 +70,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Data
 
+- [Apizr ★4](https://github.com/Respawnsive/Apizr) - Refit based web api client management, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 - [Postman](https://www.getpostman.com): Tool for test web services requests and responses.
 - [Polly](http://www.thepollyproject.org): Automatic retry policies.
 
