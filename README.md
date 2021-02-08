@@ -237,6 +237,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Shell.Badge ★1](https://github.com/galadril/Xam.Shell.Badge.
 - [XPlat Windows APIs ★29](https://github.com/jamesmcroft/XPlat-Windows-APIs): XPlat Windows APIs are designed to make it easier for Universal Windows Platform (UWP) developers to share their knowledge of the platform APIs across Android and iOS.
 - [Xamarin.Forms.IconFontHelper](https://github.com/dimonovdd/Xamarin.Forms.IconFontHelper): Small helper for working with Icons Fonts.
+- [ImageFromXamarinUI](https://github.com/dimonovdd/ImageFromXamarinUI): Extension methods for capturing images from UI.
 
 ## Project Templates
 
