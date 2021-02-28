@@ -389,6 +389,7 @@ You can find other awesome lists related to Xamarin below:
 - [JSONPlaceholder](https://github.com/luiseduardohd/JSONPlaceholder): JSONPlaceholder implementation on Xamarin.Forms.
 - [LibVLCSharp.Forms.MediaPlayerElement ★13](https://github.com/kakone/LibVLCSharp.Forms.MediaPlayerElement): VLC MediaPlayerElement for Xamarin.Forms.
 - [ListViewWithSubListView ★37](https://github.com/ishrakland/ListViewWithSubListView): Xamarin.Forms Expandable ListView With Sub-ListView MVVM Pattern.
+- [LilWidgets](https://github.com/ChaseRoth/LilWidgets): LilWidgets is an early staged Xamarin.Forms library that provides customizable controls (widgets) that are not otherwise available by default.
 - [MagicGradients ★228](https://github.com/mgierlasinski/MagicGradients): Xamarin.Forms control to display complex gradients, insipired by PancakeView and Magic Gradients. You can add unlimited amount of linear gradients with different angles to create uniqe effects. Powered by SkiaSharp.
 - [MaterialDesignControlsPlugin ★109](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin): Material Design Controls Plugin for Xamarin.Forms.
 - [MarkdownView ★93](https://github.com/aloisdeniel/MarkdownView): A native Xamarin.Forms Markdown renderer.
