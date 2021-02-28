@@ -373,6 +373,7 @@ You can find other awesome lists related to Xamarin below:
 - [glidex.forms ★160](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
 - [Global.InputForms ★21](https://github.com/Phenek/Global.InputForms): Global.InputForms provides Xamarin.Forms Essentials controls for iOS and Android apps (CheckGroup, RadioGroup, etc.).
 - [GradientBoxView ★19](https://github.com/DevsDNA/GradientBoxView): Create beautiful gradients.
+- [GraphicsControls ★127](https://github.com/dotnet/GraphicsControls): Experimental GraphicsControls - Build drawn controls (Cupertino, Fluent and Material).
 - [GridSplitter ★30](https://github.com/andreinitescu/GridSplitterApp): A control for Xamarin Forms that redistributes space between columns or rows of a Grid control.
 - [htmllabel ★6](https://github.com/edsnider/htmllabel): HTML Label for Xamarin.Forms.
 - [IconEntry ★30](https://github.com/Li-Yanzhi/IconEntry): Entry with icon for Xamarin Forms.
