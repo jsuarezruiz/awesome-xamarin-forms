@@ -271,6 +271,7 @@ You can find other awesome lists related to Xamarin below:
 ## Testing
 
 - [Xamarin.Forms.Mocks ★176](https://github.com/jonathanpeppers/Xamarin.Forms.Mocks): Library for running Xamarin.Forms inside of unit tests.
+- [Xamarin.Forms.TestingLibrary ★27](https://github.com/akamud/Xamarin.Forms.TestingLibrary): A testing library to make components testing for Xamarin.Forms easier, inspired by Testing Library, Flutter's Widget Testing and others.
 
 ## Tools
 
