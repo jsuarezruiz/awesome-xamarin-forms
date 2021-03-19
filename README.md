@@ -455,6 +455,7 @@ You can find other awesome lists related to Xamarin below:
 - [SortableListView](https://github.com/MintPlayer/MintPlayer.Xamarin.Forms.SortableListView): This project contains an Effect for the Xamarin.Forms.ListView to make items reorderable.
 - [StatesButton ★15](https://github.com/AlejandroRuiz/StatesButton): States Button Control for Xamarin.Forms.
 - [STabbedPage.Forms ★18](https://github.com/stormlion227/STabbedPage.Forms): Full customizable TabbedPage control for Xamarin.Forms. 
+- [Switch ★18](https://github.com/IeuanWalker/Xamarin.Forms.CustomSwitch): A switch control that allows you to design/ create any switch you want.
 - [SupportWidgetXF ★48](https://github.com/bulubuloa/SupportWidgetXF): Is an open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms (SupportAutoComplete, SupportResultList, SupportDropList, SupportEntry, SupportButton, SupportActionMenu, SupportBindableStackLayout, SupportFlowLayout, SupportSearchView, SupportShadowView, SupportGradientView, SupportMapView, SupportRadioButton, SupportCalendarView 
 ).
 - [SvgImageSource ★51](https://github.com/muak/SvgImageSource): Custom ImageSource that will become able to show svg image for Xamarin.Forms.
