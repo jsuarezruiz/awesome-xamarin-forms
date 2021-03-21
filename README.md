@@ -514,6 +514,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.EasyLoading ★125](https://github.com/sthewissen/Xamarin.Forms.EasyLoading): A collection of attached properties that let you specify a loading state view for any of your existing layouts.
 - [Xamarin.Forms.EntryAutoComplete ★34](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete): Is a custom control which functionality provides you with suggestions while typing. 
 - [Xamarin.Forms-Calendar ★3](https://github.com/NeilMalcolm/Xamarin.Forms-Calendar): Xamarin.Forms Calendar.
+- [XamarinForms.CalendarControl ★4](https://github.com/DamianAntonowicz/XamarinForms.CalendarControl): Calendar control for Xamarin.Forms.
 - [XamarinForms.CancelableModal ★15](https://github.com/DamianAntonowicz/XamarinForms.CancelableModal): Close button for Xamarin.Forms modal page 
 - [Xamarin.Forms-Coordinator-Workaround ★14](https://github.com/ChasakisD/Xamarin.Forms-Coordinator-Workaround): A Xamarin.Forms (Android Only) Implementation of CoordinatorLayout with CollapsingToolbar.
 - [Xamarin.Forms.CustomControls ★2](https://github.com/ravisinghunnao/Xamarin.Forms.CustomControls): Custom controls for Xamarin.Forms for rapid and pleasing development (Stepper, ImageButton, Window, Wizard, CollapsibleExpander, GradientView, Popup, Calendar, Dropdown, etc).
