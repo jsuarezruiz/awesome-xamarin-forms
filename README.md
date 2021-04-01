@@ -352,6 +352,7 @@ You can find other awesome lists related to Xamarin below:
 - [DynamicWrapLayout ★22](https://github.com/SuavePirate/DynamicWrapLayout): A Xamarin.Forms layout for creating dynamically wrapped views.
 - [EasyLayout.Forms ★20](https://github.com/lprichar/EasyLayout.Forms): Simplifies working with RelativeLayout Programmatically in Xamarin.Forms.
 - [ElegantTabs ★47](https://github.com/muhaym/ElegantTabs): Adds some of nifty features that are missing in Xamarin Forms Tabbed Pages like Disabled Pages, Selected Icons, ability to use original Icon Colours.
+- [eliteKit ★24](https://github.com/arqueror/eliteKit): SkiaSharp based components for .Net.
 - [EmbeddedPicker ★7](https://github.com/80cmdude/EmbeddedPicker): Embedded page picker control for Xamarin.forms for both Android and iOS.
 - [EnhancedEntry ★64](https://github.com/LeoJHarris/EnhancedEntry): Enhanced Entry for Xamarin.forms projects that extends the current xamarin.forms Entry.
 - [EntryStepper ★1](https://github.com/Khelechy/EntryStepper): Xamarin forms otp entry stepper , based on common otp designs.
@@ -411,6 +412,7 @@ You can find other awesome lists related to Xamarin below:
 - [NotifyPage ★1](https://github.com/francescofinotto/NotifyPage): Xamarin.Forms notify page, with pop up that slide from the bottom.
 - [Oxard.XControls ★6](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin ★50](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
+- [OxyPlot.Xamarin.Forms.Skia](https://github.com/iniceice88/OxyPlot.Xamarin.Forms.Skia): Xamarin.Forms implementation of OxyPlot with SkiaSharp.
 - [ParallaxScroll ★49](https://github.com/xamarinium/ParallaxScroll): Xamarin forms parallax scroll effect.
 - [PinView ★79](https://github.com/lassana/XamarinFormsPinView): PIN keyboard for Xamarin.Forms.
 - [PhotoBrowser ★77](https://github.com/stormlion227/PhotoBrowser.Forms): Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures.
@@ -427,6 +429,7 @@ You can find other awesome lists related to Xamarin below:
 - [RedCorners.Forms.CameraView ★3](https://github.com/samafshari/RedCorners.Forms.CameraView): CameraView for Xamarin.Forms; a wrapper for RedCorners.Forms.ZXing with a nicer name.
 - [RedCorners.Forms.GoogleMaps ★4](https://github.com/saeedafshari/RedCorners.Forms.GoogleMaps): Enhanced Google Maps for Xamarin.Forms; based on Xamarin.Forms.GoogleMaps.
 - [ResponsiveLayout ★4](https://github.com/tobias-oschmann/ResponsiveLayout): A responsive LayoutView for Xamarin.Forms where you can define multiple layout templates for different widths, platforms or device types (Idioms).
+- [RotaryWheel](https://github.com/fzany/RotaryWheel): A Rotary Wheel Xamarin Form Implementation using SkiaSharp 2d Library.
 - [Rg.Plugins.Popup ★967](https://github.com/rotorgames/Rg.Plugins.Popup): Popup Page Plugin for Xamarin Forms.
 - [SegmentedCircleView ★8](https://github.com/AndreiMisiukevich/SegmentedCircleView): SegmentedCircleView for Xamarin.Forms.
 - [ShapeControl.Forms ★12](https://github.com/stormlion227/ShapeControl.Forms): Xamarin.Forms Library that allows you to draw shapes such as circle, roundrect, oval and so on.
@@ -434,6 +437,7 @@ You can find other awesome lists related to Xamarin below:
 - [Sharpnado.Presentation.Forms ★580](https://github.com/roubachof/Sharpnado.Presentation.Forms): Presentation layer: Xamarin Forms custom components and renderers (HorizontalListView, Grid Layout, TaskLoaderView).
 - [Sharpnado.Shadows ★251](https://github.com/roubachof/Sharpnado.Shadows): Add as many custom shadows as you like to any Xamarin.Forms view (Android, iOS, UWP, Tizen).
 - [Sharpnado.Tabs 25 ★108](https://github.com/roubachof/Sharpnado.Tabs): Pure Xamarin.Forms Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs...
+- [Scrolling Graph](https://github.com/JonathanKartun/ScrollingGraph): Scrolling Graph with panning gestures using SkiaSharp.
 - [Segments ★3](https://github.com/hnabbasi/Segments): SegmentsView for Xamarin.Forms.
 - [Signature Pad ★221](https://github.com/xamarin/SignaturePad): makes capturing, saving, exporting, and displaying signatures extremely simple on iOS, Android and Windows.
 - [SimpleImageButton ★1](https://github.com/mariusmuntean/SimpleImageButton): A customizable ImageButton for Xamarin.Forms, that also exposes pressed states. Works with iOS, Android, macOS, UWP and Tizen.
