@@ -578,6 +578,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xamarin.Forms.VideoPlayer ★140](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer): A Xamarin Forms control to render the native video player on every platform.
 - [Xamarin.Forms.VideoTrimmer ★2](https://github.com/sreerajPR/Xamarin.Forms.VideoTrimmer): Xamarin.Forms Library that targets Android and iOS, to trim videos.
 - [Xamarin.Responsive ★3](https://github.com/YauGoh/Xamarin.Responsive): Responsive layout for Xamarin.Forms.
+- [XampleControl ★2](https://github.com/shawyunz/XampleControl): A collection of Xamarin controls.
 - [Xam.Plugin.SimpleAppIntro ★139](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleStaticMap ★1](https://github.com/galadril/Xam.Plugin.SimpleStaticMap): Just a nice and simple static map component that uses the Static Maps api from Google for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker ★7](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
@@ -585,6 +586,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFColorPickerControl ★25](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
 - [XFGauge ★9](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
+- [Zebble.Carousel ★1](https://github.com/Geeksltd/Zebble.Carousel): A carousel plugin for Zebble for Xamarin.
 - [ZoomView.Forms ★9](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
 
 ## UI Testing
