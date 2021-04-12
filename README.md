@@ -109,6 +109,7 @@ You can find other awesome lists related to Xamarin below:
 - [AirDroid](https://www.airdroid.com): Utility for mirroring, file transfer, remote control, notifications, etc. an Android device.
 - [Vysor](http://vysor.io/): Utility for mirroring your Android physical device to your screen. 
 - [QuickTime Player](https://medium.com/@patrickswong/how-to-mirror-your-iphone-with-a-lightning-cable-using-quicktime-in-os-x-yosemite-ace3f40ef483): For mirroring iOS devices.
+- [scrcpy](https://github.com/Genymobile/scrcpy/releases/)(Free && Open Source): Utility for mirroring, file transfer, remote control with focus on lightness (native, displays only the device screen), quality (1920×1080 or above), low latency(35~70ms), low startup time, non-intrusiveness(nothing is left installed on the device), works on GNU/Linux, Windows and macOS.
 
 ## MVVM
 
