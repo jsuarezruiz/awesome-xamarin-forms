@@ -485,6 +485,7 @@ You can find other awesome lists related to Xamarin below:
 - [Vibrancy.Forms ★25](https://github.com/awaescher/Vibrancy.Forms): Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms.
 - [WalletView ★9](https://github.com/raver99/WalletView): WalletView is a control built in completely in Xamarin Forms that enables building a UI similar to the Apple Wallet App. 
 - [WheelSpinner ★4](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
+- [XamarinCountryPicker](https://github.com/bbenetskyy/XamarinCountryPicker): Country Picker Popup with Country Codes and SVG Flags powered by Rg.Plugins.Popup NuGet.
 - [XamarinHosting ★18](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS ★274](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
 - [XamCustomLayouts ★16](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
