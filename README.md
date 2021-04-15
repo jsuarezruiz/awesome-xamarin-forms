@@ -177,6 +177,7 @@ You can find other awesome lists related to Xamarin below:
 - [MagTek ★2](https://github.com/peterfournier/MagTek): Xamarin.Forms, Xamarin.iOS, and Xamarin.Android support for MagTek card readers.
 - [MatchaBackgroundService ★128](https://github.com/winstongubantes/MatchaBackgroundService): A plugin library to simplify Backgrounding in Xamarin.Forms.
 - [Media ★671](https://github.com/jamesmontemagno/MediaPlugin): Take or pick photos/videos.
+- [MediaGallery](https://github.com/dimonovdd/Xamarin.MediaGallery): Picking and saving photos and video files from the native gallery
 - [MediaManager ★656](https://github.com/martijn00/XamarinMediaManager): Cross platform media plugin for Xamarin and Windows.
 - [NFCForms ★46](https://github.com/poz1/NFCForms): Easily read and write NFC tags in your Xamarin.Forms application. 
 - [NoFrillsDataGrid ★3](https://github.com/davepruitt/NoFrillsDataGrid): This is a no-frills data grid control for Xamarin Forms. It uses SkiaSharp as the means to create and draw the data grid itself.
@@ -588,6 +589,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamUtilities](https://github.com/pmahend1/XamUtilities): Utilities for Xamarin.Forms (RoundFrame, SkiaCircleContentView).
 - [Zebble.Carousel ★3](https://github.com/Geeksltd/Zebble.Carousel): A carousel plugin for Zebble for Xamarin.
 - [ZoomView.Forms ★9](https://github.com/LuckyDucko/ZoomView.Forms): Quickly add a zoomable wrapper to any VisualElement.
+- [DateTimePopups](https://github.com/dimonovdd/Xamarin.DateTimePopups): Little library of popups for picking dates and times.
 
 ## UI Testing
 
