@@ -411,6 +411,7 @@ You can find other awesome lists related to Xamarin below:
 - [nightly.xam.audiorecorder ★5](https://github.com/nightlybuilds-net/nightly.xam.audiorecorder): Xamarin Forms audio recorder library.
 - [Notchy.FormsPreviewer ★3](https://github.com/lachlanwgordon/Notchy.FormsPreviewer): Extend the Xamarin Forms Previewers with notches, curved corners and toolbars to help you make the right UI decisions at design time. 
 - [NotifyPage ★1](https://github.com/francescofinotto/NotifyPage): Xamarin.Forms notify page, with pop up that slide from the bottom.
+- [NullableDatePicker](https://github.com/djrpascu/NullableDatePickerTest): Nullable DatePicker for Xamarin.Forms.
 - [Oxard.XControls ★6](https://github.com/RenaudAvenas/Oxard.XControls): Xamarin.Forms extendable controls (DrawingBrush, LongPressButton, ItemsControl, etc.).
 - [OxyPlot Xamarin ★53](https://github.com/oxyplot/oxyplot-xamarin): Charts for Xamarin Classic and Xamarin.Forms.
 - [OxyPlot.Xamarin.Forms.Skia ★1](https://github.com/iniceice88/OxyPlot.Xamarin.Forms.Skia): Xamarin.Forms implementation of OxyPlot with SkiaSharp.
@@ -486,6 +487,7 @@ You can find other awesome lists related to Xamarin below:
 - [Vibrancy.Forms ★25](https://github.com/awaescher/Vibrancy.Forms): Blur and Vibrancy effects for iOS and iPadOS with Xamarin.Forms.
 - [WalletView ★9](https://github.com/raver99/WalletView): WalletView is a control built in completely in Xamarin Forms that enables building a UI similar to the Apple Wallet App. 
 - [WheelSpinner ★4](https://github.com/mariusmuntean/WheelSpinner): A Xamarin.Forms custom control implemented in SkiaSharp. The control shows multiple options arranged on a circular control.
+- [XamarinChartJSPlugin ★1](https://github.com/ChristopherMWood/XamarinChartJSPlugin): An easy to use Nuget Package for Xamarin.Forms to use Chart.js in WebViews with C# configuration.
 - [XamarinCountryPicker ★19](https://github.com/bbenetskyy/XamarinCountryPicker): Country Picker Popup with Country Codes and SVG Flags powered by Rg.Plugins.Popup NuGet.
 - [XamarinHosting ★18](https://github.com/jamiewest/XamarinHosting): Xamarin.Forms IHostLifetime implementation for Microsoft.Extensions.Hosting.
 - [XAMLCSS ★279](https://github.com/warappa/XamlCSS): Style Xaml-applications with CSS.
