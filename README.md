@@ -14,7 +14,7 @@ A curated list of **awesome** Xamarin.Forms libraries and resources.
 
 You can find other awesome lists related to Xamarin below:
 - [Awesome-Elmish.XamarinForms ★121](https://github.com/jimbobbennett/Awesome-Fabulous): A hand-curated list of awesome resources when using Elmish.XamarinForms.
-- [awesome-xamarin ★1715](https://github.com/benoitjadinon/awesome-xamarin): A collection of interesting libraries/tools for Xamarin mobile projects.
+- [awesome-xamarin ★1716](https://github.com/benoitjadinon/awesome-xamarin): A collection of interesting libraries/tools for Xamarin mobile projects.
 - [awesome-xamarin ★392](https://github.com/MarcBruins/awesome-xamarin): A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more! 
 - [Xamarin.Bindings ★147](https://github.com/aloisdeniel/Xamarin.Bindings): A list of existing Xamarin binding libraries. 
 
@@ -22,7 +22,7 @@ You can find other awesome lists related to Xamarin below:
 
 - [AnimationNavigationPage ★237](https://github.com/AlexandrNikulin/AnimationNavigationPage): AnimationNavigationPage is a NavigationPage with custom transitions animation effects. 
 - [EvoTransitions ★1](https://github.com/Evolutionlab/EvoTransitions): Custom NavigationRenderers for Xamarin.Forms (IOS and Android) to activate shared element transitions between two screens.
-- [LottieXamarin ★1121](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
+- [LottieXamarin ★1123](https://github.com/martijn00/LottieXamarin): Render After Effects animations natively on Android and iOS for Xamarin.
 - [Xamanimation ★413](https://github.com/jsuarezruiz/Xamanimation): Xamarin.Forms animation library.
 - [Xamarin.Forms.AnimationsPack ★9](https://github.com/takecx/Xamarin.Forms.AnimationsPack): Is Animation library for Xamarin.Forms.
 - [XamarinStateMachine ★40](https://github.com/Binwell/XamarinStateMachine): StateMachine animations for Xamarin.Forms.
@@ -76,13 +76,13 @@ You can find other awesome lists related to Xamarin below:
 
 ## Database
 
-- [Akavache ★2122](https://github.com/akavache/Akavache): Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+- [Akavache ★2123](https://github.com/akavache/Akavache): Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
 - [Azure Mobile Apps ★120](https://github.com/Azure/azure-mobile-apps-net-client): Offline sync-enabled Xamarin apps that connect to Azure Mobile App.
 - [CosmosDB ★537](https://github.com/Azure/azure-documentdb-dotnet): Azure Cosmos DB is a globally distributed, multi-model database service.
-- [Entity Framework Core ★10424](https://github.com/aspnet/EntityFrameworkCore): Is a lightweight and extensible version of the popular Entity Framework data access technology.
-- [LiteDB ★5888](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
+- [Entity Framework Core ★10426](https://github.com/aspnet/EntityFrameworkCore): Is a lightweight and extensible version of the popular Entity Framework data access technology.
+- [LiteDB ★5891](https://github.com/mbdavid/LiteDB): A .NET NoSQL Document Store in a single data file.
 - [Realm](https://realm.io/docs/xamarin/latest/): Alternative to SQLite, simple and fast.
-- [SQLite-net ★3021](https://github.com/praeclarum/sqlite-net): It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
+- [SQLite-net ★3022](https://github.com/praeclarum/sqlite-net): It is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.
 - [NETCoreSync ★38](https://github.com/aldycool/NETCoreSync): Database-agnostic synchronization framework based on .NET Standard 2.0 to synchronize data between multiple clients and a single server.
 
 ## Design
@@ -116,11 +116,11 @@ You can find other awesome lists related to Xamarin below:
 - [CodeMill.VMFirstNav ★22](https://github.com/codemillmatt/codemill.vmfirstnav): A Xamarin.Forms ViewModel First Navigation Library.
 - [ExRin](https://exrin.net): A framework for enterprise scale apps.
 - [FreshMvvm ★531](https://github.com/rid00z/FreshMvvm): It is a super light Mvvm Framework designed specifically for Xamarin.Forms
-- [MVVMCross ★3556](https://github.com/MvvmCross/MvvmCross): Cross-platform mvvm mobile development framework.
+- [MVVMCross ★3557](https://github.com/MvvmCross/MvvmCross): Cross-platform mvvm mobile development framework.
 - [MVVMLight](http://www.mvvmlight.net): Cross-platform MVVM development framework.
 - [MvvmMicro ★4](https://github.com/yariker/MvvmMicro): A clean and lightweight MVVM framework for WPF, UWP and Xamarin.Forms inspired my MVVM Light Toolkit.
 - [MvvmNano ★55](https://github.com/aspnetde/MvvmNano): Small and smart MVVM framework made with ❤ for Xamarin.Forms.
-- [Prism ★4637](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
+- [Prism ★4639](https://github.com/PrismLibrary/Prism): Nice framework with an amazing navigation service.
 - [ReactiveUI](https://reactiveui.net): An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms.
 - [Sextant ★1](https://github.com/giusepe/Sextant): A ReactiveUI navigation library for Xamarin.Forms.
 - [SupportXFLite ★9](https://github.com/bulubuloa/SupportXFLite): A simple MVVM Framework for Xamarin Forms, it helps you to quick setup a new Xamarin Forms project.
@@ -167,7 +167,7 @@ You can find other awesome lists related to Xamarin below:
 - [Geolocator ★259](https://github.com/jamesmontemagno/GeolocatorPlugin): Easy way of querying GPS location.
 - [GoogleAnalyticsForXamarinForms ★66](https://github.com/KSemenenko/GoogleAnalyticsForXamarinForms): This project is a cross platform library for Xamarin Forms, which enables a handy use of Google Analytics in your applications.
 - [Iconize ★207](https://github.com/jsmarcus/Iconize): Use icon fonts in your Xamarin.Forms application!
-- [InAppBillingPlugin ★299](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
+- [InAppBillingPlugin ★300](https://github.com/jamesmontemagno/InAppBillingPlugin): A simple In-App Purchase plugin for Xamarin and Windows to query item information, purchase items, restore items, and more.
 - [ImmutableUI ★119](https://github.com/praeclarum/ImmutableUI): Is a collection of immutable data objects that mirror object-oriented user interface APIs.
 - [Jobs ★87](https://github.com/aritchie/jobs): Background Jobs Framework for Xamarin & UWP.
 - [NavigationExtensions for Xamarin.Forms ★10](https://github.com/aloisdeniel/Xam.Forms.NavigationExtensions): Those extensions for Xamarin.Forms basically add storage of the navigation history when the application stops.
@@ -266,7 +266,7 @@ You can find other awesome lists related to Xamarin below:
 
 ## Serialization
 
-- [JSON.NET ★8697](https://github.com/JamesNK/Newtonsoft.Json): Is a popular high-performance JSON framework for .NET
+- [JSON.NET ★8696](https://github.com/JamesNK/Newtonsoft.Json): Is a popular high-performance JSON framework for .NET
 - [Utf8Json ★2096](https://github.com/neuecc/Utf8Json): Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 ## Testing
@@ -292,7 +292,7 @@ You can find other awesome lists related to Xamarin below:
 - [Mutatio ★27](https://github.com/yuv4ik/Mutatio): Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017): An extension bundle installer that will install each of the individual components of Productivity Power Tools (copy has HTML, fix tabs, etc.).
 - [RealXaml ★37](https://github.com/admaiorastudio/realxaml): Is a live viewer for Xamarin Forms. Edit your xaml and see your changes in realtime (live reload). It allows also to compile and deploy your app core assembly in real time (hot reload).
-- [scrcpy ★52504](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
+- [scrcpy ★52535](https://github.com/Genymobile/scrcpy): This application provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access. It works on GNU/Linux, Windows and MacOS.
 - [SkiaSharpFiddle ★113](https://github.com/mattleibow/SkiaSharpFiddle): A SkiaSharp playground - just like https://fiddle.skia.org, but for your own machine!
 - [UI Sleuth](https://www.uisleuth.com/): Xamarin.Forms debugging tool.
 - [VSTouchbarTools ★2](https://github.com/rubit0/vstouchbartools): A simple extension that installs a XML definition for Parallels v13 to offer basic Touchbar support.
@@ -371,7 +371,7 @@ You can find other awesome lists related to Xamarin below:
 - [FluentLayout ★2](https://github.com/AndreiMisiukevich/FluentLayout): Xamarin.Forms Fluent Layout.
 - [Fluent.Xamarin.Forms ★3](https://github.com/Teknika-Corp/Fluent.Xamarin.Forms): Xamarin.Forms controls inspired by Fluent design and powered by SkiaSharp.
 - [Font-Awesome-And-Xamarin.Forms](https://github.com/matthewrdev/Font-Awesome-And-Xamarin.Forms): A complete walkthrough for adding and using FontAwesome within your mobile apps. 
-- [Forms-BottomSheet ★27](https://github.com/rlingineni/Forms-BottomSheet): A bottom sheet control for Xamarin.Forms.
+- [Forms-BottomSheet ★28](https://github.com/rlingineni/Forms-BottomSheet): A bottom sheet control for Xamarin.Forms.
 - [Forms9Patch ★122](https://github.com/baskren/Forms9Patch): Simplify image management and text formatting in your Xamarin.Forms apps.
 - [FormsRevealer ★42](https://github.com/mariusmuntean/FormsRevealer): Xamarin.Forms control that can show child views with a reveal animation.
 - [glidex.forms ★169](https://github.com/jonathanpeppers/glidex): Is an attempt at using Glide for faster Xamarin.Forms images on Android. 
@@ -386,7 +386,7 @@ You can find other awesome lists related to Xamarin below:
 - [Infinite Scrolling ★128](https://github.com/mattleibow/InfiniteScrolling): A small library to quickly and easily add infinite/endless scrolling support to any Xamarin.Forms ListView.
 - [InterfaceBuilder ★3](https://github.com/perpetual-mobile/InterfaceBuilder): Simplifying Xamarin.Forms UI construction by using the builder pattern.
 - [ImageCircle ★240](https://github.com/jamesmontemagno/ImageCirclePlugin): Simple but elegant way of display circle images in your Xamarin.Forms projects.
-- [ImageCropper ★53](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
+- [ImageCropper ★54](https://github.com/XAM-Consulting/Xam.Plugins.ImageCropper): Xam.Plugins.ImageCropper is a useful image cropping and rotating library for Xamarin.iOS and Xamarin.Android.
 - [ImageCropper.Forms ★76](https://github.com/stormlion227/ImageCropper.Forms): Xamarin.Forms plugin to crop and rotate photos.
 - [ImageCropView ★401](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/ImageCropView): Image cropper for Xamarin.Forms.
 - [IOSToolbarExtensions ★4](https://github.com/Tommigun1980/IOSToolbarExtensions): iOS toolbar extensions for Xamarin.Forms (left hand toolbar items, and Android:esque secondary toolbar menu).
@@ -403,7 +403,7 @@ You can find other awesome lists related to Xamarin below:
 - [mapbox-xamarin-forms ★59](https://github.com/NAXAM/mapbox-xamarin-forms): This library provides the controls/renderers for using Mapbox SDKs inside your Xamarin.Forms app.
 - [Messier16 Forms.Controls ★21](https://github.com/messier16/Forms.Controls): Messier16 Xamarin.Forms controls (Checkbox, RatingBar, SegmentedControl).
 - [MdView ★13](https://github.com/axvr/MdView): The flexible Markdown control for Xamarin.Forms.
-- [Microcharts ★1589](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
+- [Microcharts ★1590](https://github.com/aloisdeniel/Microcharts): Is an extremely simple charting library for a wide range of platforms.
 - [MonettelliUIKIT ★34](https://github.com/danielmonettelli/MonettelliUIKIT): A multiproject template to create applications for iOS, Android and UWP in Xamarin.Forms by implementing the "Clean UI Style Architecture" with or without Shell.
 - [MultiGestureView ★20](https://github.com/chaosifier/MultiGestureView): Extended ContentView with Events for gestures like Tap, Long Press and Right Click. Also supports Vibration and Vibration duration for haptic feedback.
 - [MultipleToggleSwitch ★2](https://github.com/VasenevEA/MultipleToggleSwitch): Multiple position Toggle Switch control for Xamarin.Forms.
@@ -505,7 +505,7 @@ You can find other awesome lists related to Xamarin below:
 - [XFSlimListView ★9](https://github.com/Redth/XFSlimListView): A slim ListView implementation for Xamarin.Forms that uses Native List controls.
 - [xf.shape ★4](https://github.com/utmdev/xf.shape): You can use this component in case you want to create a component with a specific rounded corner. By default Xamarin.Forms offers Frame component which can have rounded corners but you can't customize specific corner. Also Shape component supports linear gradient.
 - [XF.Service.FloatingView ★2](https://github.com/contissi/XF.Service.FloatingView): Xamarin Forms demo application highlighting the ability to draw over other running applications. 
-- [XF-Material-Library ★571](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
+- [XF-Material-Library ★572](https://github.com/contrix09/XF-Material-Library): A Xamarin Forms library for implementing Material Design: Cards, Buttons, Chips, etc.
 - [XF.Material.Outline ★11](https://github.com/Pepsi1x1/XF.Material.Outline): A Xamarin.Forms library using SkiaSharp for Xamarin.Android and Xamarin.iOS to implement the outline styled text view in Google's Material Design.
 - [XFManualCropControl ★3](https://github.com/HeikkiDev/XFManualCropControl): Xamarin.Forms controls to apply manual crop.
 - [XFParallax ★122](https://github.com/DevsDNA/XFParallax): Xamarin Forms Parallax View control.
