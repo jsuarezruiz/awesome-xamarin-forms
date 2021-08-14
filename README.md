@@ -454,6 +454,7 @@ You can find other awesome lists related to Xamarin below:
 - [SkiaSharp.Elements ★37](https://github.com/FelipeNicoletto/SkiaSharp.Elements): Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms.
 - [SkiaSharpnado ★51](https://github.com/roubachof/SkiaSharpnado): SkiaSharp components and case studies for Xamarin.Forms.
 - [SKOR.UI ★56](https://github.com/skordesign/SKOR.UI):UI Controls for Xamarin.Forms (GradientButton).
+- [SkorXam.Pin ★6](https://github.com/skordesign/SkorXam.Pin): PinView for Xamarin.Forms.
 - [SlideOverKit ★393](https://github.com/XAM-Consulting/SlideOverKit): SlideOverKit is a premium component for Xamarin.Forms. It allows developers to easily create awesome Slideovers in Xamarin.Forms. 
 - [SkiaSharp.Forms.Xaml ★16](https://github.com/felipebaltazar/SkiaSharp.Forms.Xaml): Xaml extensions for SkiaSharp.
 - [SkiaSharp.Paint ★2](https://github.com/mariusmuntean/SkiaSharp.Paint): .Net Standard 2.0 library for SkiaSharp with Xamarin.Forms to help decouple large apps.
