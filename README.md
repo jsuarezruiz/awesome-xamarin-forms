@@ -519,6 +519,7 @@ You can find other awesome lists related to Xamarin below:
 - [XGraphics ★56](https://github.com/bretjohnson/XGraphics): Cross platform UWP-inspired graphics primitives, for XAML and code.
 - [Xalendar ★89](https://github.com/ionixjunior/Xalendar): A simple CalendarView for Xamarin.Forms.
 - [XamarinFluentUI ★6](https://github.com/ravinderjangra/XamarinFluentUI): Fluent UI Bindings and Xamarin.Forms Visual.
+- [XamarinFormsSkeletonLoader](https://github.com/coolc0ders/XamarinFormsSkeletonLoader): This is a simple skeleton loader built with Xamarin Forms' gradients, animations and StateLayout. 
 - [Xamarin.Forms.BackgroundKit ★167](https://github.com/ChasakisD/Xamarin.Forms.BackgroundKit): A powerful Kit for customizing the background of Xamarin.Forms views (📐 Corner Radius | 🎨 Background Gradients | 🍩 Borders | 🌈 Border Gradients | 🙏 Shadows).
 - [Xamarin.Forms.BackgroundVideoView ★5](https://github.com/arqueror/Xamarin.Forms.BackgroundVideoView): A simple view for displaying background video in Xamarin.Forms (iOS and Android).
 - [Xamarin.Forms.Breadcrumb ★131](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb): This is a breadcrumb navigation control that is complete automatic and uses the Navigation stack and page titles to generate the breadcrumbs. 
