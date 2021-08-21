@@ -590,6 +590,7 @@ You can find other awesome lists related to Xamarin below:
 - [Xam.Plugin.SimpleAppIntro ★139](https://github.com/galadril/Xam.Plugin.SimpleAppIntro): Just a nice and simple AppIntro for your Xamarin Forms project.
 - [Xam.Plugin.SimpleStaticMap ★1](https://github.com/galadril/Xam.Plugin.SimpleStaticMap): Just a nice and simple static map component that uses the Static Maps api from Google for your Xamarin Forms project.
 - [Xam.Plugin.SimpleColorPicker ★7](https://github.com/galadril/Xam.Plugin.SimpleColorPicker):  Just a nice and simple ColorPicker for your Xamarin Forms project.
+- [Xam.Views.NepaliDatePicker ★2](https://github.com/solo-developer/Xam.Views.NepaliDatePicker): Nepali Date Picker for Xamarin.Forms.
 - [XamFormsSkiaEntry ★5](https://github.com/michaelstonis/XamFormsSkiaEntry): Simple Entry for Xamarin.Forms using SkiaSharp.
 - [XFColorPickerControl ★25](https://github.com/UdaraAlwis/XFColorPickerControl): An interactive and responsive Color Picker Control for Xamarin.Forms based on SkiaSharp!
 - [XFGauge ★8](https://github.com/yurkinh/XFGauge): Gauge control for Xamarin.Forms with Skiasharp.
