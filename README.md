@@ -324,6 +324,7 @@ You can find other awesome lists related to Xamarin below:
 - [AutoHeightListView ★3](https://github.com/GioeleVuaran/AutoHeightListView): Xamarin.Forms implementation of an auto-height ListView.
 - [AutoSuggestBox ★148](https://github.com/dotMorten/XamarinFormsControls/tree/master/AutoSuggestBox): Represents a text control that makes suggestions to users as they type.
 - [AP.MobileToolkit.Fonts ★23](https://github.com/AvantiPoint/AP.MobileToolkit.Fonts): Is designed to make it easier to consume fonts. We currently provide Font Awesome Free as an available installable font. Each font ships with a Mapping class for those who prefer strongly typed XAML.
+- [AvatarGroup ★2](https://github.com/kphillpotts/AvatarGroup): Simple example of an Avatar Group in Xamarin.Forms.
 - [AwaitablePopups ★23](https://github.com/LuckyDucko/AwaitablePopups): Customisable Popups for Xamarin Forms.
 - [BottomTabbedPage ★95](https://github.com/NAXAM/bottomtabbedpage-xamarin-forms): A Xamarin.Forms control brings BottomNavigationView for bottom navigation on Android.
 - [BadgeView ★76](https://github.com/SuavePirate/BadgeView): A Xamarin.Forms control to display a round badge.
