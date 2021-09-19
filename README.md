@@ -498,6 +498,7 @@ You can find other awesome lists related to Xamarin below:
 - [XamCustomLayouts ★17](https://github.com/Intelliabb/XamCustomLayouts): Xamarin.Forms Custom Layouts - Cards.
 - [XampleControl ★4](https://github.com/shawyunz/XampleControl): A collection of Xamarin customized widgets (animated counter, flip card, floating action button, etc).
 - [Xam.Forms.GraceAlert ★8](https://github.com/nightlybuilds-net/Xam.Forms.GraceAlert): Is a Xamarin Forms View to show non invasive notification for alert, warning and info.
+- [XamForms.Controls.Calendar ★48](https://github.com/lubiepomaranczki/XamForms.Controls.Calendar): Custom calendar control for Xamarin.Forms.
 - [Xam.Plugin.SimpleBottomDrawer ★101](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer): Just a nice and simple BottomDrawer for your Xamarin Forms project.
 - [XFGloss ★170](https://github.com/tbaggett/xfgloss):Xamarin.Forms UI Enhancements.
 - [XF-GradientButton ★24](https://github.com/jesulink2514/XF-GradientButton): Gradient button for Xamarin.Forms built with high performance cross-platform drawing library NGraphics.
