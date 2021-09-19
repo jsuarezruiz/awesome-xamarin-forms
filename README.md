@@ -279,6 +279,7 @@ You can find other awesome lists related to Xamarin below:
 - [Android File Transfer](https://www.android.com/filetransfer/): Browse and transfer files between your Mac computer and your Android device.
 - [AssetBuilder ★6](https://github.com/baskren/AssetBuilder): Tool to automate the process of creating Xamarin.Forms icons and splash screens from SVGs.
 - [Assetxport ★14](https://github.com/aloisdeniel/Assetxport): Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically.
+- [Beholder](https://github.com/nui-dali/Beholder): Beholder is a hot reloading support tool for programs using Tizen.NET's NUI.
 - [Charles](https://www.charlesproxy.com): Is an HTTP proxy / HTTP monitor / Reverse Proxy that enables viewing of all the HTTP and SSL / HTTPS traffic between the machine and the Internet.
 - [clean-compress ★4](https://github.com/colbylwilliams/clean-compress): A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions.
 - [Codexcite.Reloader ★4](https://github.com/vladhorby/Codexcite.Reloader): Lightweight library for "live reloading" XAML pages in Xamarin.Forms on Android, UWP and iOS.
