@@ -249,7 +249,7 @@ You can find other awesome lists related to Xamarin below:
 ## Project Templates
 
 - [Prism Template Pack](https://marketplace.visualstudio.com/items?itemName=BrianLagunas.PrismTemplatePack): Contains a collection of snippets, item templates, and project templates for use with building Xamarin.Forms applications using Prism.
-- [Xamarin.Forms Advanced Template (v3.0) ★19](https://github.com/SnowPowerCore/Xamarin-Forms-Advanced-Template): Featuring [AppHosting](https://github.com/SnowPowerCore/AppHosting) library + must-haves for every developer: `Host`, navigation providers, essential services, async commands, pre-configured platform projects.
+- [Xamarin.Forms Advanced Template (v3.0) ★18](https://github.com/SnowPowerCore/Xamarin-Forms-Advanced-Template): Featuring [AppHosting](https://github.com/SnowPowerCore/AppHosting) library + must-haves for every developer: `Host`, navigation providers, essential and utility services, async commands, pre-configured platform projects.
 
 ## Samples
 
