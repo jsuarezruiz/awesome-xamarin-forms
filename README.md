@@ -139,7 +139,7 @@ You can find other awesome lists related to Xamarin below:
   
 ## Frameworks
 
-- [AppHosting](https://github.com/SnowPowerCore/AppHosting): a closest ASP.NET Core implementation for Xamarin.Forms built to deliver better architecture for your application. Sample project and detailed wiki included.
+- [AppHosting](https://github.com/SnowPowerCore/AppHosting): a closest ASP.NET Core Hosting implementation for Xamarin.Forms built to deliver better architecture for your application. Sample project and detailed wiki included.
 - [Clarity ★25](https://github.com/ionoy/Clarity): Is an application framework for XAML based platforms.
 - [XamFluentUI ★26](https://github.com/dariodotnet/XamFluentUI): Fluent UI API for Xamarin Forms.
 - [Web Atoms for Xamarin.Forms](https://www.webatoms.in): Write Xamarin.Forms app in JSX/JavaScript, Easily publish new version, integrate existing app with few lines of code, Code Push for Production with MVVM
