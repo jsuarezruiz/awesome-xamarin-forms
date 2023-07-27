@@ -160,6 +160,7 @@ You can find other awesome lists related to Xamarin below:
 - [Connectivity ★259](https://github.com/jamesmontemagno/ConnectivityPlugin): See if device is connected to the internet and through what connection type.
 - [Contacts ★24](https://github.com/jamesmontemagno/ContactsPlugin): Currently in Alpha to gather and query contacts.
 - [Device Information ★137](https://github.com/jamesmontemagno/DeviceInfoPlugin): Base information about each device such as OS and version.
+- [Docutain SDK](https://sdk.docutain.com/) - Cross platform SDK including Document Scanner, Barcode Scanner, Textrecognition (OCR), Dataextraction and PDF creation.
 - [DynamicStackLayout ★72](https://github.com/SuavePirate/DynamicStackLayout):  Xamarin.Forms layout for creating dynamically wrapped views.
 - [Enagora.Plugins.Xam.GoogleAds ★1](https://github.com/enagora/Enagora.Plugins.Xam.GoogleAds): Google Ads implemetation for Xamarin.Forms.
 - [EntryCustomReturnPlugin ★81](https://github.com/brminnick/EntryCustomReturnPlugin): Xamarin.Forms Plugin to customize the Xamarin.Forms.Entry Keyboard Return Button.
